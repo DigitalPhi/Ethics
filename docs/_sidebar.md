@@ -1,6 +1,8 @@
 - [Welcome](README.md)
 
-- [Schedule and readings](schedule.md)
+- [Schedule and readings] coming soon! 
+
+<!-- (schedule.md) -->
 
 - [Assessment](assessment.md)
 

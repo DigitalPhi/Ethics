@@ -42,7 +42,7 @@ A few important announcements <sub><small>November 24</small></sub>
 
 ### Meetings
 
-:   Lecture
+<span style="font-variant:small-caps;"> lecture</span>
 
 | Time               | Location                     | Lecturer |
 |:-------------------|:-----------------------------|:---------|
@@ -52,7 +52,8 @@ Gordon Street (25) Maths 500
 [map](http://www.ucl.ac.uk/maps/ucl-union)
 
 
-:   Discussion sessions
+
+<span style="font-variant:small-caps;"> discussion sessions</span>
 
 | GRP | Time              | Location                 | Instructor  |
 |:----|:------------------|:-------------------------|:------------|
