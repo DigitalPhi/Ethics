@@ -6,7 +6,7 @@ Precise contents may vary slightly by year. Some topics include: the nature of t
 
 ### Announcements
 
-Look for announcements here! The first announcement is this: all the course material will be available on this website very soon. Do not worry. This class will be orderly and edifying. Who knows, it may even help us to live better lives.<sub><small>January 9</small></sub>
+Look for announcements here! The first announcement is this: all the course material will be available on this website very soon. Do not worry. This class will be orderly and edifying. Who knows, it may even help us live better lives.<sub><small>January 9</small></sub>
 
 <!-- A couple questions on forgiveness have been added to the initial set of topics [link](https://www.dropbox.com/s/n0u52rtzbshj1h1/essay-topics-summative.pdf?dl=0).
 
@@ -90,17 +90,17 @@ We will use the UCL [Moodle](https://moodle.ucl.ac.uk/course/view.php?id=19062) 
 
 <span style="font-variant:small-caps;"> brief schedule of topics</span>
 
-| Date  | Topic        | Main reading |
-|:------|:-------------|:-------------|
-| 09.01 | Death        | Nagel        |
-| 16.01 |              |              |
-| 23.01 |              |              |
-| 30.01 |              |              |
-| 06.02 |              |              |
-| 13.02 | READING WEEK | --           |
-| 20.02 |              |              |
-| 27.02 |              |              |
-| 06.03 |              |              |
-| 13.03 |              |              |
-| 20.03 |              |              |
+| Date  | Topic                    | Main reading      |
+|:------|:-------------------------|:------------------|
+| 09.01 | Death                    | Nagel             |
+| 16.01 | My good                  | Parfit            |
+| 23.01 | Anthother's good         | Feinberg & Butler |
+| 30.01 | Beneficience             | Singer & Murphy   |
+| 06.02 | Justice                  | Foot              |
+| 13.02 | READING WEEK             | --                |
+| 20.02 | Justice                  | Thomson           |
+| 27.02 | Equality & numbers       | Taurek & Anscombe |
+| 06.03 | Impartiality & integrity | Wolf              |
+| 13.03 | Responsibility & luck    | Nagel &Williams   |
+| 20.03 | Birth                    | Shiffrin          |
 
