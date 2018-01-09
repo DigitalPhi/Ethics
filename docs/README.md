@@ -6,6 +6,7 @@ Precise contents may vary slightly by year. Some topics include: the nature of t
 
 ### Announcements
 
+Look for announcements here! The first announcement is this: all the course material will be available on this website very soon. Do not worry. This class will be orderly and edifying. Who knows, it may even help us to live better lives.<sub><small>January 9</small></sub>
 
 <!-- A couple questions on forgiveness have been added to the initial set of topics [link](https://www.dropbox.com/s/n0u52rtzbshj1h1/essay-topics-summative.pdf?dl=0).
 
