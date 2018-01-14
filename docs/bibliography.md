@@ -1,12 +1,20 @@
 # Bibliography
 
-<!-- ## Selective general background readings
+## Selective general background readings
 
-Kenny
+-	Foot, Philippa. Moral Dilemmas [link](https://github.com/UCL-PHIL/2047/blob/master/readings/Foot_Moral_Dilemmas.pdf?raw=true). Oxford University Press, 2002.
 
-Wallace
+-	Nagel, Thomas. Mortal Questions [link](https://github.com/UCL-PHIL/2047/blob/master/readings/Thomas%20Nagel-Mortal%20Questions-Cambridge%20University%20Press%20.pdf?raw=true). Cambridge University Press, 2012.
 
-### The historical backgrond -->
+-	Scheffler, Samuel. Consequentialism and Its Critics [link](---). Oxford University Press on Demand, 1988.
+
+-	Smart, J.J.C., and Bernard Williams. Utilitarianism: For and Against [link](https://github.com/UCL-PHIL/2047/blob/master/readings/J._J._C._Smart%2C_Bernard_Williams_Utilitarianism_For_and_Against__1973.pdf?raw=true). Cambridge University Press, 1973.
+
+-	Williams, Bernard. Morality [link](---). Canto, 1993. Cambridge University Press, 1972.
+
+
+
+<!-- ### The historical backgrond  -->
 
 <!-- Plato
 
@@ -43,17 +51,3 @@ Nietzsche -->
 
 ## Further topics -->
 
-
-
-<!-- 1. x
-2. y
-3. z
-
-### x
-readings
-
-questions
-
-### y
-
-### z  -->

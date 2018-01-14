@@ -1,3 +1,5 @@
 - Links
-  - [UCL Philosophy Department](https://www.ucl.ac.uk/philosophy/)
-  - [Moodle page 2047](https://moodle.ucl.ac.uk/course/view.php?id=19062)
+  - [UCL Philosophy Department](https://www.ucl.ac.uk/philosophy)
+  - [Moodle for 2047](https://moodle.ucl.ac.uk/course/view.php?id=19062)
+  - [SEP](https://plato.stanford.edu/contents.html)
+  - [PhilPapers](https://philpapers.org)
