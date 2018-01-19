@@ -36,6 +36,82 @@ Interview with Parfit, The New Yorker
 Kahneman, Objective -->
 
 
-## Egoism
+## Another's good?
 
-...more to come...
+Is it possible to act for the sake of another’s good or must motivation always bottom out in a purely selfish element? Are a person's desires the source of all her reasons for action? 
+
+
+
+*Readings*
+
+Feinberg, 'Psychological egoism' [link](https://upload.disroot.org/r/9_ykrXpd#w2bgBal3mpqJODbbiLJYKLWyfB0Rsw2Fqvh8EtUA76g=)
+
+Butler, 'Upon Love the Love of our Neighbor' XI [link](https://upload.disroot.org/r/92XE1BrS#eQz2dbq1yb++XU4KqUWxInPeRduqaivPndV9V/wxokI=)
+
+
+
+*Futher readings*
+
+...more and more to come shortly...
+
+## 
+
+
+*Readings*
+
+
+
+*Further readings*
+
+
+## 
+
+
+*Readings*
+
+
+
+*Further readings*
+
+
+## 
+
+
+*Readings*
+
+
+
+*Further readings*
+
+
+## 
+
+
+*Readings*
+
+
+
+*Further readings*
+
+
+## 
+
+
+*Readings*
+
+
+
+*Further readings*
+
+
+
+## 
+
+
+*Readings*
+
+
+
+*Further readings*
+
+
