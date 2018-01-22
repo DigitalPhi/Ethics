@@ -4,7 +4,7 @@
 
 Precise contents may vary slightly by year. Some topics include: the nature of the good, egoism, utilitarian accounts of right and wrong action, virtue (esp. justice and benevolence), equality, partiality and impartiality, responsibility and moral luck. This module is meant to be exploratory within the limits of reason and polite society. Let's all do our best.
 
-### Announcements
+## Announcements
 
 Look for announcements here! 
 
@@ -21,7 +21,7 @@ The first announcement is this: all the course material will be available on thi
 - Formative essay topics now posted [below](assessment.md). <small>06.11.2017</small> -->
 
 
-### Instructors
+## Instructors
 
 - Douglas Lavin
   + Office: Room 3.4a, 33-35 Torrington Place [(map)](http://www.ucl.ac.uk/maps/33-35-torrington-place)
@@ -37,7 +37,7 @@ The first announcement is this: all the course material will be available on thi
   + [email](mailto:a.hinshelwood.12@ucl.ac.uk)
 
 
-### Meetings
+## Meetings
 
 <span style="font-variant:small-caps;"> lecture</span>
 
@@ -73,7 +73,7 @@ The first announcement is this: all the course material will be available on thi
 <!-- These classes are not mandatory, so you do not have to come. However, you are strongly encouraged to do so! Last year the students found them very beneficial. We had some really excellent in depth discussions about the material. On the whole, we cover the same terrain as the texts set for class reading. The sessions are an opportunity for you to ask questions you didn't get to ask in class, or take further lines of inquiry which you weren't able to in the full group. -->
 
 
-### Course materials
+## Course materials
 
 All the substantive course content will be available here on this course website. There may be a few, minor changes going forward.
 
