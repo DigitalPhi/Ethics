@@ -1,4 +1,4 @@
-## Welcome
+# Welcome
 
 > This is the course page for Ethics PHIL2047 (2017-18, term 2).
 
@@ -90,7 +90,7 @@ We will use the [UCL Moodle](https://moodle.ucl.ac.uk/course/view.php?id=19062) 
 |:------|:-------------------------|:------------------|
 | 09.01 | Death                    | Nagel             |
 | 16.01 | One's good               | Parfit            |
-| 23.01 | Egoism                   | Feinberg & Butler |
+| 23.01 | Another's good?          | Feinberg & Butler |
 | 30.01 | Beneficience             | Singer & Murphy   |
 | 06.02 | Justice                  | Foot              |
 | 13.02 | READING WEEK             | --                |
