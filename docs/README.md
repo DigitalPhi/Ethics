@@ -1,6 +1,5 @@
-# Welcome
 
-> This is the course page for Ethics PHIL2047 (2017-18, term 2).
+> Welcome! This is the course page for Ethics PHIL2047 (2017-18, term 2).
 
 Precise contents may vary slightly by year. Some topics include: the nature of the good, egoism, utilitarian accounts of right and wrong action, virtue (esp. justice and benevolence), equality, partiality and impartiality, responsibility and moral luck. This module is meant to be exploratory within the limits of reason and polite society. Let's all do our best.
 
