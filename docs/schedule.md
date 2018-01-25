@@ -1,6 +1,5 @@
 # Schedule of topics
 
-
 ## Death
 
 Does death harm the one who dies? Even if death is a harm in some circumstances, must it always be? Other things equal, would it be good to be immortal?
