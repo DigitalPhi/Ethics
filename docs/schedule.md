@@ -1,6 +1,6 @@
 # Schedule of topics
 
-## Death
+## Week 1
 
 Does death harm the one who dies? Even if death is a harm in some circumstances, must it always be? Other things equal, would it be good to be immortal?
 
@@ -17,7 +17,7 @@ Epicurus, Letter to Menoeceus (selections) [pdf](https://www.dropbox.com/s/6nnd6
 Williams, "The Makropulos Case: Reflections on the Tedium of Immortality" [pdf](https://www.dropbox.com/s/82d5pske01rrpup/Williams-Immortality.pdf?dl=0)
 
 
-## Well-being
+## Week 2
 
 What makes a person’s life go better? Is pleasure the only ultimate source of value? Are a person's preferences the only measure of how well his or her life is going?
 
@@ -35,7 +35,7 @@ Interview with Parfit, The New Yorker
 Kahneman, Objective -->
 
 
-## Another's good?
+## Week 3
 
 Is it possible to act for the sake of another’s good or must motivation always bottom out in a purely selfish element? Are a person's desires the source of all her reasons for action? 
 
@@ -47,13 +47,28 @@ Feinberg, 'Psychological egoism' [link](https://upload.disroot.org/r/9_ykrXpd#w2
 Butler, 'Upon love of our neighbour', sermon xi [link](https://upload.disroot.org/r/92XE1BrS#eQz2dbq1yb++XU4KqUWxInPeRduqaivPndV9V/wxokI=)
 
 
-
 *Futher readings*
 
-...more and more to come shortly...
+[handout](https://www.dropbox.com/s/4kksi3kucz8mw5d/handout-egoism.pdf?dl=0)
 
 
-## 
+## Week 4
+
+How much, if at all, must we help others?
+
+*Readings*
+
+-	Singer, “Famine, Affluence and Morality”[pdf](https://www.dropbox.com/s/di7mlljznyibsyz/Singer_Famine_Affluence_Morality%20copy.pdf?dl=0)
+
+- Murphy, “The Demands of Beneficence”[pdf](https://www.dropbox.com/s/2ghgm2sg095cg6p/Murphy_Demands_Beneficence_Notes%20copy.pdf?dl=0)
+
+
+*Further readings*
+
+
+
+
+## Week 5
 
 
 *Readings*
@@ -63,7 +78,17 @@ Butler, 'Upon love of our neighbour', sermon xi [link](https://upload.disroot.or
 *Further readings*
 
 
-## 
+## Week 6 -- Reading Week
+
+
+<!-- *Readings*
+
+
+
+*Further readings*
+ -->
+
+## Week 7 -- Justice
 
 
 *Readings*
@@ -73,27 +98,7 @@ Butler, 'Upon love of our neighbour', sermon xi [link](https://upload.disroot.or
 *Further readings*
 
 
-## 
-
-
-*Readings*
-
-
-
-*Further readings*
-
-
-## 
-
-
-*Readings*
-
-
-
-*Further readings*
-
-
-## 
+## Week 8
 
 
 *Readings*
@@ -104,7 +109,7 @@ Butler, 'Upon love of our neighbour', sermon xi [link](https://upload.disroot.or
 
 
 
-## 
+## Week 9
 
 
 *Readings*
@@ -113,4 +118,13 @@ Butler, 'Upon love of our neighbour', sermon xi [link](https://upload.disroot.or
 
 *Further readings*
 
+
+## Week 10
+
+
+*Readings*
+
+
+
+*Further readings*
 

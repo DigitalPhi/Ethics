@@ -99,3 +99,7 @@ We will use the [UCL Moodle](https://moodle.ucl.ac.uk/course/view.php?id=19062) 
 | 13.03 | Responsibility & luck    | Nagel & Williams  |
 | 20.03 | Birth                    | Shiffrin          |
 
+
+
+<!-- background reading 	Williams, Morality an Introduction to Ethics
+	Scheffler, Consequentialism and Its Critics  -->
