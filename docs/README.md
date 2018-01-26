@@ -25,7 +25,7 @@ The first announcement is this: all the course material will be available on thi
 - Douglas Lavin
   + Office: Room 3.4a, 33-35 Torrington Place [(map)](http://www.ucl.ac.uk/maps/33-35-torrington-place)
   + Office hours: Tuesday 1600-1700. Just drop-by!
-  + [email](mailto:d.lavin@ucl.ac.uk)
+  + [dgl email](mailto:d.lavin@ucl.ac.uk)
   + Remarks on the use of email [here](policies.md)
   <!-- + personal webpage (http://www.douglaslavin.org) -->
 <!--[schedule](http://www.supersaas.co.uk/schedule/DouglasLavin/OfficeHoursUCL) -->
@@ -33,7 +33,7 @@ The first announcement is this: all the course material will be available on thi
 - Alec Hinshelwood
   + Office: tbd
   + Office hours: tbd
-  + [email](mailto:a.hinshelwood.12@ucl.ac.uk)
+  + [ah email](mailto:a.hinshelwood.12@ucl.ac.uk)
 
 
 ## Meetings
@@ -78,7 +78,7 @@ All the substantive course content will be available here on this course website
 
 A folder with all the assigned and supplemental readings will be available soon.
 
-You will eventually find links to individual readings and handouts in the detailed schedule of topics [here](schedule.md).
+You will find links to individual readings and handouts in the detailed schedule of topics [here](schedule.md).
 
 We will use the [UCL Moodle](https://moodle.ucl.ac.uk/course/view.php?id=19062) to send email announcements and as the portal for submitting and receiving summative essays.
 
