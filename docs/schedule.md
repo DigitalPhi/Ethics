@@ -37,7 +37,7 @@ Kahneman, “Objective Happiness”, [pdf](https://www.dropbox.com/s/9punzcp6c2p
 
 A *New Yorker* profile of Parfit by Larissa MacFarquhar, "How to Be Good" [link](http://www.newyorker.com/magazine/2011/09/05/how-to-be-good)
 
-Obituaries of Derek Parfit from [Guardian](https://www.theguardian.com/world/2017/jan/12/derek-parfit-obituary),[New York Times](https://www.nytimes.com/2017/01/04/world/derek-parfit-philosopher-who-explored-identity-and-moral-choice-dies-at-74.html) and [Vox](http://www.vox.com/science-and-health/2017/1/3/14148208/derek-parfit-rip-obit)
+Obituaries of Derek Parfit from [Guardian](https://www.theguardian.com/world/2017/jan/12/derek-parfit-obituary),[New York Times](https://www.nytimes.com/2017/01/04/world/derek-parfit-philosopher-who-explored-identity-and-moral-choice-dies-at-74.html) & [Vox](http://www.vox.com/science-and-health/2017/1/3/14148208/derek-parfit-rip-obit)
 
 [handout-well-being]()
 
@@ -64,13 +64,11 @@ Williams, 'Egoism and alrtuism' [pdf](https://www.dropbox.com/s/zgxvc1ovh3olepd/
 
 ## Week 4
 
-Brief reminder of central elements of classical utilitarianism (as articulated by Bentham) in which we the following: What is the utilitarian account of the principles upon which we ought to act?  Where does it locate the philosophical basis of our ideas of right and wrong?  What is the source of attraction of the utilitarian conception of morality?
-
-The focus of the meeting is, however, to be the following question raised by Peter Singer: How much, if at all, must we help others?
+Brief reminder of central elements of classical utilitarianism (as articulated by Bentham) in which we consider the following: What is the utilitarian account of the principles upon which we ought to act?  Where does it locate the philosophical basis of our ideas of right and wrong?  What is the source of attraction of the utilitarian conception of morality? The focus of the meeting is, however, the following question raised by Peter Singer: How much, if at all, must we help others?
 
 *Readings*
 
-Bentham, *Introduction to the Principles of Morals and Legislation*, chs. i–iv, xiii [html](https://www.utilitarianism.com/jeremy-bentham/index.html) 
+Bentham, *Introduction to the Principles of Morals and Legislation*, chs. i–ii, v [html](https://www.utilitarianism.com/jeremy-bentham/index.html) 
 
 Singer, “Famine, affluence and morality”[pdf](https://www.dropbox.com/s/di7mlljznyibsyz/Singer_Famine_Affluence_Morality%20copy.pdf?dl=0)
 
@@ -80,6 +78,8 @@ Singer, “Famine, affluence and morality”[pdf](https://www.dropbox.com/s/di7m
 Murphy, 'The demands of beneficence' [pdf](https://www.dropbox.com/s/2ghgm2sg095cg6p/Murphy_Demands_Beneficence_Notes%20copy.pdf?dl=0)
 
 Mill, 'Bentham' [pdf](https://www.dropbox.com/s/zp74s0dpb5se3f0/Mill%20on%20Bentham.pdf?dl=0).
+
+Nozick, *Anarchy, state, and utopia*, pp. 28–33 [pdf](https://www.dropbox.com/s/nqhi1c9owcvb2zj/Nozick_Anarchy%2C_State%2C_and_Utopia%28.pdf?dl=0)
 
 UCL's Bentham Project [link](https://www.ucl.ac.uk/bentham-project)
 
@@ -92,16 +92,31 @@ UCL's Bentham Project [link](https://www.ucl.ac.uk/bentham-project)
 
 ## Week 5
 
+Do the numbers count morally speaking? Is the fact that one group has more people require us to aid its members in preference to another, smaller group?
+
 
 *Readings*
+
+Taurek, “Should the Numbers Count?”
+
+Anscombe, “Who is Wronged?”
 
 
 
 *Further readings*
 
+Kamm, “Equal Treatment and Equal Chances”
+
+Parfit, “Innumerate Ethics”
+
+Munoz-Darde, 
+
+
+
 
 ## Week 6 -- READING WEEK
 
+Topics for formative/summative essays will posted at the beginning of reading week.
 
 
 ## Week 7 -- Justice
