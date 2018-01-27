@@ -6,17 +6,17 @@ Does death harm the one who dies? Even if death is a harm in some circumstances,
 
 *Readings*
 
-Nagel, “Death” [pdf](https://www.dropbox.com/s/35etu00rvp50bd0/Nagel_Death.pdf?dl=0)
+Nagel, 'Death' [pdf](https://www.dropbox.com/s/35etu00rvp50bd0/Nagel_Death.pdf?dl=0)
 
-Lucretius, “On the Nature of Things” (selections, Book 3, 830-842 & 972-975) [pdf](https://www.dropbox.com/s/220199d8zq309xs/Lucretius_Death.pdf?dl=0)
+Lucretius, *On the Nature of Things* [pdf](https://www.dropbox.com/s/220199d8zq309xs/Lucretius_Death.pdf?dl=0) (selections, Book 3, 830-842 & 972-975)
 
 *Futher readings*
 
-Epicurus, Letter to Menoeceus (selections) [pdf](https://www.dropbox.com/s/6nnd6n30aac11na/Letter%20to%20Menoeceus.pdf?dl=0)
+Epicurus, 'Letter to Menoeceus' (selections) [pdf](https://www.dropbox.com/s/6nnd6n30aac11na/Letter%20to%20Menoeceus.pdf?dl=0)
 
-Williams, "The Makropulos Case: Reflections on the Tedium of Immortality" [pdf](https://www.dropbox.com/s/82d5pske01rrpup/Williams-Immortality.pdf?dl=0)
+Williams, 'The Makropulos case: reflections on the tedium of immortality' [pdf](https://www.dropbox.com/s/82d5pske01rrpup/Williams-Immortality.pdf?dl=0)
 
-[handout-death]()
+<!-- [handout-death]() -->
 
 ## Week 2
 
@@ -24,22 +24,22 @@ What makes a person’s life go better? Is pleasure the only ultimate source of 
 
 *Readings*
 
-Parfit, "What Makes Someone's Life Go Best?" [pdf](https://www.dropbox.com/s/dkjysrvuvzei7ld/parfit_life_going_best.pdf?dl=0)
+Parfit, 'What makes someone's life go best?' [pdf](https://www.dropbox.com/s/dkjysrvuvzei7ld/parfit_life_going_best.pdf?dl=0)
 
-Robert Nozick, "The Experience Machine” [pdf](https://www.dropbox.com/s/y1e9popbljc58mw/nozick_experience_machine.pdf?dl=0)
+Robert Nozick, 'The Experience Machine' [pdf](https://www.dropbox.com/s/y1e9popbljc58mw/nozick_experience_machine.pdf?dl=0)
 
 
 *Futher readings*
 
-Nozick, "Happiness", [pdf](https://www.dropbox.com/s/3ucjmt4kp91q6ha/nozick_happiness_examined_life.pdf?dl=0)) from *Examined Life: philosophical meditations*
+Nozick, 'Happiness', [pdf](https://www.dropbox.com/s/3ucjmt4kp91q6ha/nozick_happiness_examined_life.pdf?dl=0)) from *Examined Life: philosophical meditations*
 
-Kahneman, “Objective Happiness”, [pdf](https://www.dropbox.com/s/9punzcp6c2pe186/Kahneman_ObjectiveHappiness.pdf?dl=0)
+Kahneman, 'Objective happiness', [pdf](https://www.dropbox.com/s/9punzcp6c2pe186/Kahneman_ObjectiveHappiness.pdf?dl=0)
 
 A *New Yorker* profile of Parfit by Larissa MacFarquhar, "How to Be Good" [link](http://www.newyorker.com/magazine/2011/09/05/how-to-be-good)
 
 Obituaries of Derek Parfit from [Guardian](https://www.theguardian.com/world/2017/jan/12/derek-parfit-obituary),[New York Times](https://www.nytimes.com/2017/01/04/world/derek-parfit-philosopher-who-explored-identity-and-moral-choice-dies-at-74.html) & [Vox](http://www.vox.com/science-and-health/2017/1/3/14148208/derek-parfit-rip-obit)
 
-[handout-well-being]()
+<!-- [handout-well-being]() -->
 
 ## Week 3
 
@@ -70,18 +70,20 @@ Brief reminder of central elements of classical utilitarianism (as articulated b
 
 Bentham, *Introduction to the Principles of Morals and Legislation*, chs. i–ii, v [html](https://www.utilitarianism.com/jeremy-bentham/index.html) 
 
-Singer, “Famine, affluence and morality”[pdf](https://www.dropbox.com/s/di7mlljznyibsyz/Singer_Famine_Affluence_Morality%20copy.pdf?dl=0)
+Singer, 'Famine, affluence and morality' [pdf](https://www.dropbox.com/s/di7mlljznyibsyz/Singer_Famine_Affluence_Morality%20copy.pdf?dl=0)
 
 
 *Further readings*
 
 Murphy, 'The demands of beneficence' [pdf](https://www.dropbox.com/s/2ghgm2sg095cg6p/Murphy_Demands_Beneficence_Notes%20copy.pdf?dl=0)
 
-Mill, 'Bentham' [pdf](https://www.dropbox.com/s/zp74s0dpb5se3f0/Mill%20on%20Bentham.pdf?dl=0).
-
 Nozick, *Anarchy, state, and utopia*, pp. 28–33 [pdf](https://www.dropbox.com/s/nqhi1c9owcvb2zj/Nozick_Anarchy%2C_State%2C_and_Utopia%28.pdf?dl=0)
 
-UCL's Bentham Project [link](https://www.ucl.ac.uk/bentham-project)
+Mill, 'Bentham' [pdf](https://www.dropbox.com/s/zp74s0dpb5se3f0/Mill%20on%20Bentham.pdf?dl=0).
+
+The Bentham Project at UCL [link](https://www.ucl.ac.uk/bentham-project)
+
+Cullity, 'Asking too much' [pdf](https://www.dropbox.com/s/p4es08fupn144xw/cullity-asking_too_much.pdf?dl=0)
 
 <!-- Kamm, ‘Nonconsequentialism’, sections I-VI -->
 
@@ -97,20 +99,18 @@ Do the numbers count morally speaking? Is the fact that one group has more peopl
 
 *Readings*
 
-Taurek, “Should the Numbers Count?”
+Taurek, 'Should the numbers count?' [pdf](https://www.dropbox.com/s/v0x7pzztr9qeaqj/Taurek_Should%20the%20Numbers%20Count.pdf?dl=0)
 
-Anscombe, “Who is Wronged?”
-
+Anscombe, 'Who is wronged?' [pdf](https://www.dropbox.com/s/13eq0t2m3580uph/Anscombe_Who_is_Wronged%20copy.pdf?dl=0)
 
 
 *Further readings*
 
-Kamm, “Equal Treatment and Equal Chances”
+<!-- Kamm, 'Equal treatment and equal chances' -->
 
-Parfit, “Innumerate Ethics”
+Parfit, 'Innumerate ethics' [pdf](https://www.dropbox.com/s/1tye8cv99jlbnyb/Parfit_Innumerate_Ethics%20copy.pdf?dl=0)
 
-Munoz-Darde, 
-
+Munoz-Dardé, 'The distribution of numbers and the comprehensiveness of reasons' [pdf](https://www.dropbox.com/s/wonq98vxjlfxkyj/PASDistributionNumbers.pdf?dl=0)
 
 
 
@@ -119,15 +119,27 @@ Munoz-Darde,
 Topics for formative/summative essays will posted at the beginning of reading week.
 
 
-## Week 7 -- Justice
+## Week 7
 
+Is it harder to justify actively harming someone, intentionally or not, than it is to justify merely allowing someone to be harmed? Is it harder to justify intentionally harming someone, than it it is to justify merely knowingly harming someone?
 
 *Readings*
 
-Foot, 
-[pdf](https://www.dropbox.com/s/30gogqhbnslx5nq/foot-dde-chapter-2.pdf?dl=0)
+Foot, 'The problem of abortion and the doctrine of double effect' [pdf](https://www.dropbox.com/s/30gogqhbnslx5nq/foot-dde-chapter-2.pdf?dl=0)
+
+Thomson, “The trolley problem”
+
 
 *Further readings*
+
+Anscombe, 'Mr Truman’s degree'
+
+
+*Related topics*
+
+For discussion in consideration of the permissibility of suicide/euthanasia & abortion: if a person wishes to die, is it permissible to help to bring this about? Does it matter whether this is done by withdrawing life support or providing the means of death?
+
+Thomson, 'Physician assisted suicide: two moral arguments'
 
 
 
@@ -155,11 +167,14 @@ Foot,
 
 ## Week 10
 
+<!-- For there to be moral luck is for one’s moral status to depend on facts outside one’s control.  Can there be moral luck?  Is it legitimate for luck to play a role in how blame and praise are distirbuted? -->
 
 
 *Readings*
 
+<!-- Nagel, “Moral Luck” -->
 
 
 *Further readings*
 
+<!-- Williams, “Moral Luck” -->
