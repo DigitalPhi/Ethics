@@ -74,21 +74,21 @@ The first announcement is this: all the course material will be available on thi
 
 ## Course materials
 
-All the substantive course content will be available here on this course website. There may be a few, minor changes going forward.
+All the substantive course content will be available on this course website. There may be a few, minor changes going forward.
 
-A folder with all the assigned and supplemental readings will be available soon.
-
-You will find links to individual readings and handouts in the detailed schedule of topics [here](schedule.md).
+A folder with assigned and supplemental readings is available here [folder](https://www.dropbox.com/sh/bwz4x8b77j71hna/AAC9IwTHnPbJHQmQSbtxjVrXa?dl=0). You will find links to individual readings and handouts in the detailed schedule of topics [here](schedule.md).
 
 We will use the [UCL Moodle](https://moodle.ucl.ac.uk/course/view.php?id=19062) to send email announcements and as the portal for submitting and receiving summative essays.
 
 
-<span style="font-variant:small-caps;"> brief schedule of topics</span>
+#### Breif schedule of topics
+
+<!-- <span style="font-variant:small-caps;"> brief schedule of topics</span> -->
 
 | Date  | Topic                    | Main reading      |
 |:------|:-------------------------|:------------------|
 | 09.01 | Death                    | Nagel             |
-| 16.01 | One's good               | Parfit            |
+| 16.01 | One's own good           | Parfit            |
 | 23.01 | Another's good?          | Feinberg & Butler |
 | 30.01 | Beneficience             | Singer & Murphy   |
 | 06.02 | Justice                  | Foot              |
@@ -100,6 +100,15 @@ We will use the [UCL Moodle](https://moodle.ucl.ac.uk/course/view.php?id=19062) 
 | 20.03 | Birth                    | Shiffrin          |
 
 
+#### Selected background readings
 
-<!-- background reading 	Williams, Morality an Introduction to Ethics
-	Scheffler, Consequentialism and Its Critics  -->
+Anscombe, G.E.M. 'Does moral philosophy corrupt the youth?' [pdf](https://www.dropbox.com/s/86vlta8tduzznmk/anscombe-moral-corrupt.pdf?dl=0) 
+
+Nagel, Thomas. 'War and massacre' [pdf](https://www.dropbox.com/s/nytpwlbk5xe611w/Nagel.War%20and%20Massacre-1.pdf?dl=0)
+
+<!-- Scheffler, Samuel. Consequentialism and Its Critics[](). Oxford University Press on Demand, 1988. -->
+
+Smart, J.J.C., & Williams, Bernard. *Utilitarianism: For and Against* [pdf](https://www.dropbox.com/s/u4pdqfj9ltar3fb/smart_williams_utilitarianism.pdf?dl=0).
+
+Williams, Bernard. *Morality: an introduction* [pdf](https://www.dropbox.com/s/s81lm2zv7gdirac/Williams-Morality_%20An%20Introduction%20to%20Ethics.pdf?dl=0)
+

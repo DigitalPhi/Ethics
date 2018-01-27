@@ -16,6 +16,7 @@ Epicurus, Letter to Menoeceus (selections) [pdf](https://www.dropbox.com/s/6nnd6
 
 Williams, "The Makropulos Case: Reflections on the Tedium of Immortality" [pdf](https://www.dropbox.com/s/82d5pske01rrpup/Williams-Immortality.pdf?dl=0)
 
+[handout-death]()
 
 ## Week 2
 
@@ -23,17 +24,22 @@ What makes a person’s life go better? Is pleasure the only ultimate source of 
 
 *Readings*
 
-Parfit, "What Makes Someone's Life Go Best?"[pdf](https://www.dropbox.com/s/dkjysrvuvzei7ld/parfit_life_going_best.pdf?dl=0)
+Parfit, "What Makes Someone's Life Go Best?" [pdf](https://www.dropbox.com/s/dkjysrvuvzei7ld/parfit_life_going_best.pdf?dl=0)
 
-Robert Nozick, "The Experience Machine”[pdf](https://www.dropbox.com/s/y1e9popbljc58mw/nozick_experience_machine.pdf?dl=0)
+Robert Nozick, "The Experience Machine” [pdf](https://www.dropbox.com/s/y1e9popbljc58mw/nozick_experience_machine.pdf?dl=0)
 
 
-<!-- Futher readings
-something good in defense of hedonism!!!
-Nozick, Happiness [pdf](https://www.dropbox.com/s/3ucjmt4kp91q6ha/nozick_happiness_examined_life.pdf?dl=0)
-Interview with Parfit, The New Yorker
-Kahneman, Objective -->
+*Futher readings*
 
+Nozick, "Happiness", [pdf](https://www.dropbox.com/s/3ucjmt4kp91q6ha/nozick_happiness_examined_life.pdf?dl=0)) from *Examined Life: philosophical meditations*
+
+Kahneman, “Objective Happiness”, [pdf](https://www.dropbox.com/s/9punzcp6c2pe186/Kahneman_ObjectiveHappiness.pdf?dl=0)
+
+A *New Yorker* profile of Parfit by Larissa MacFarquhar, "How to Be Good" [link](http://www.newyorker.com/magazine/2011/09/05/how-to-be-good)
+
+Obituaries of Derek Parfit from [Guardian](https://www.theguardian.com/world/2017/jan/12/derek-parfit-obituary),[New York Times](https://www.nytimes.com/2017/01/04/world/derek-parfit-philosopher-who-explored-identity-and-moral-choice-dies-at-74.html) and [Vox](http://www.vox.com/science-and-health/2017/1/3/14148208/derek-parfit-rip-obit)
+
+[handout-well-being]()
 
 ## Week 3
 
@@ -49,23 +55,39 @@ Butler, 'Upon love of our neighbour', sermon xi [link](https://upload.disroot.or
 
 *Futher readings*
 
-[handout](https://www.dropbox.com/s/4kksi3kucz8mw5d/handout-egoism.pdf?dl=0)
+Rachels, 'Ethical egoism' [link](https://www.dropbox.com/s/nkrqeflvs417xhc/Rachels%20Ethical%20Egoism%20copy.pdf?dl=0)
+
+Williams, 'Egoism and alrtuism' [pdf](https://www.dropbox.com/s/zgxvc1ovh3olepd/williams_egoism__altruism%20copy%202.pdf?dl=0)
+
+[handout-egosim](https://www.dropbox.com/s/4kksi3kucz8mw5d/handout-egoism.pdf?dl=0)
 
 
 ## Week 4
 
-How much, if at all, must we help others?
+Brief reminder of central elements of classical utilitarianism (as articulated by Bentham) in which we the following: What is the utilitarian account of the principles upon which we ought to act?  Where does it locate the philosophical basis of our ideas of right and wrong?  What is the source of attraction of the utilitarian conception of morality?
+
+The focus of the meeting is, however, to be the following question raised by Peter Singer: How much, if at all, must we help others?
 
 *Readings*
 
--	Singer, “Famine, Affluence and Morality”[pdf](https://www.dropbox.com/s/di7mlljznyibsyz/Singer_Famine_Affluence_Morality%20copy.pdf?dl=0)
+Bentham, *Introduction to the Principles of Morals and Legislation*, chs. i–iv, xiii [html](https://www.utilitarianism.com/jeremy-bentham/index.html) 
 
-- Murphy, “The Demands of Beneficence”[pdf](https://www.dropbox.com/s/2ghgm2sg095cg6p/Murphy_Demands_Beneficence_Notes%20copy.pdf?dl=0)
+Singer, “Famine, affluence and morality”[pdf](https://www.dropbox.com/s/di7mlljznyibsyz/Singer_Famine_Affluence_Morality%20copy.pdf?dl=0)
 
 
 *Further readings*
 
+Murphy, 'The demands of beneficence' [pdf](https://www.dropbox.com/s/2ghgm2sg095cg6p/Murphy_Demands_Beneficence_Notes%20copy.pdf?dl=0)
 
+Mill, 'Bentham' [pdf](https://www.dropbox.com/s/zp74s0dpb5se3f0/Mill%20on%20Bentham.pdf?dl=0).
+
+UCL's Bentham Project [link](https://www.ucl.ac.uk/bentham-project)
+
+<!-- Kamm, ‘Nonconsequentialism’, sections I-VI -->
+
+<!-- [handout-utilitarianism]()
+
+[handout-beneficience]() -->
 
 
 ## Week 5
@@ -78,24 +100,20 @@ How much, if at all, must we help others?
 *Further readings*
 
 
-## Week 6 -- Reading Week
+## Week 6 -- READING WEEK
 
 
-<!-- *Readings*
-
-
-
-*Further readings*
- -->
 
 ## Week 7 -- Justice
 
 
 *Readings*
 
-
+Foot, 
+[pdf](https://www.dropbox.com/s/30gogqhbnslx5nq/foot-dde-chapter-2.pdf?dl=0)
 
 *Further readings*
+
 
 
 ## Week 8
@@ -119,7 +137,9 @@ How much, if at all, must we help others?
 *Further readings*
 
 
+
 ## Week 10
+
 
 
 *Readings*
