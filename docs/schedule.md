@@ -70,8 +70,11 @@ Brief reminder of central elements of classical utilitarianism (as articulated b
 
 Bentham, *Introduction to the Principles of Morals and Legislation*, chs. i–ii, v [html](https://www.utilitarianism.com/jeremy-bentham/index.html) 
 
+  - [handout-utilitarianism](https://www.dropbox.com/s/uikth7kcf1s6qec/handout-utilitarianism.pdf?dl=0)
+
 Singer, 'Famine, affluence and morality' [pdf](https://www.dropbox.com/s/di7mlljznyibsyz/Singer_Famine_Affluence_Morality%20copy.pdf?dl=0)
 
+  - [handout-singer](coming soon)
 
 *Further readings*
 
@@ -87,9 +90,10 @@ Cullity, 'Asking too much' [pdf](https://www.dropbox.com/s/p4es08fupn144xw/culli
 
 <!-- Kamm, ‘Nonconsequentialism’, sections I-VI -->
 
-<!-- [handout-utilitarianism]()
+<!-- • Sammuel Scheffler. (Ed.) Consequentialism and its Critics (Contains numerous relevant papers, including papers by Williams, Nozick, Foot and Scheffler).
+• Kamm, Frances. (2000) ‘Nonconsequentialism’, sections I-VI, The Blackwell Guide to Ethical Theory. Ed. Hugh LaFolette. Oxford: Blackwell. -->
 
-[handout-beneficience]() -->
+
 
 
 ## Week 5
@@ -106,7 +110,7 @@ Anscombe, 'Who is wronged?' [pdf](https://www.dropbox.com/s/13eq0t2m3580uph/Ansc
 
 *Further readings*
 
-<!-- Kamm, 'Equal treatment and equal chances' -->
+<!-- Kamm, 'Equal treatment and equal chances' I NEED TO INCLUDE THE RAWLS BIT ON AGGREGATION AND SEPARATENESS OF PERSONS BEFORE GETTING INTO TAUREK!!! OR ELSE I NEED TO PUT TAUREK AFTER FOOT SO THE TRANSITION IS TO DO WITH QUESTIONING HER OFF HAND REMARK ABOUT BETTER TO SAVE MORE-->
 
 Parfit, 'Innumerate ethics' [pdf](https://www.dropbox.com/s/1tye8cv99jlbnyb/Parfit_Innumerate_Ethics%20copy.pdf?dl=0)
 
@@ -116,7 +120,7 @@ Munoz-Dardé, 'The distribution of numbers and the comprehensiveness of reasons'
 
 ## Week 6 -- READING WEEK
 
-Topics for formative/summative essays will posted at the beginning of reading week.
+Topics for formative essays will posted at the beginning of reading week. (NB Each of these will be on the list of summative essay topics as well. You may write the formative and summative on the very same question.)
 
 
 ## Week 7
@@ -148,7 +152,7 @@ Thomson, 'Physician assisted suicide: two moral arguments'
 
 *Readings*
 
-
+<!-- williams' integrity objection to utilitarianism and the morality system more generall -->
 
 *Further readings*
 
@@ -156,10 +160,12 @@ Thomson, 'Physician assisted suicide: two moral arguments'
 
 ## Week 9
 
+<!-- For there to be moral luck is for one’s moral status to depend on facts outside one’s control.  Can there be moral luck?  Is it legitimate for luck to play a role in how blame and praise are distirbuted? -->
 
 *Readings*
 
-
+<!-- Nagel, “Moral Luck” -->
+<!-- Williams, “Moral Luck” -->
 
 *Further readings*
 
@@ -167,14 +173,14 @@ Thomson, 'Physician assisted suicide: two moral arguments'
 
 ## Week 10
 
-<!-- For there to be moral luck is for one’s moral status to depend on facts outside one’s control.  Can there be moral luck?  Is it legitimate for luck to play a role in how blame and praise are distirbuted? -->
-
 
 *Readings*
 
-<!-- Nagel, “Moral Luck” -->
+<!-- Arendt, the natality problem
+Shiffrin, wrong of bringing into being
+Parfit, non-identity problem -->
 
 
 *Further readings*
 
-<!-- Williams, “Moral Luck” -->
+

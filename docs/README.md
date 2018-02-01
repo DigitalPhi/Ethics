@@ -85,19 +85,19 @@ We will use the [UCL Moodle](https://moodle.ucl.ac.uk/course/view.php?id=19062) 
 
 <!-- <span style="font-variant:small-caps;"> brief schedule of topics</span> -->
 
-| Date  | Topic                    | Main reading      |
-|:------|:-------------------------|:------------------|
-| 09.01 | Death                    | Nagel             |
-| 16.01 | One's own good           | Parfit            |
-| 23.01 | Another's good?          | Feinberg & Butler |
-| 30.01 | Beneficience             | Singer & Murphy   |
-| 06.02 | Justice                  | Foot              |
-| 13.02 | READING WEEK             | --                |
-| 20.02 | Justice                  | Thomson           |
-| 27.02 | Equality & numbers       | Taurek & Anscombe |
-| 06.03 | Impartiality & integrity | Wolf & Williams   |
-| 13.03 | Responsibility & luck    | Nagel & Williams  |
-| 20.03 | Birth                    | Shiffrin          |
+| Date  | Topic                      | Main reading      |
+|:------|:---------------------------|:------------------|
+| 09.01 | Death                      | Nagel             |
+| 16.01 | One's own good             | Parfit            |
+| 23.01 | Another's good?            | Feinberg & Butler |
+| 30.01 | Beneficience               | Singer & Bentham  |
+| 06.02 | Equality & numbers         | Taurek & Anscombe |
+| 13.02 | READING WEEK               | --                |
+| 20.02 | Justice                    | Foot              |
+| 27.02 | Justice                    | Thomson           |
+| 06.03 | Impartiality & integrity   | Wolf & Williams   |
+| 13.03 | Responsibility & luck      | Nagel & Williams  |
+| 20.03 | Birth & future generatioms | Shiffrin & Parfit |
 
 
 #### Selected background readings
