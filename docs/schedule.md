@@ -16,7 +16,7 @@ Epicurus, 'Letter to Menoeceus' (selections) [pdf](https://www.dropbox.com/s/6nn
 
 Williams, 'The Makropulos case: reflections on the tedium of immortality' [pdf](https://www.dropbox.com/s/82d5pske01rrpup/Williams-Immortality.pdf?dl=0)
 
-<!-- [handout-death]() -->
+<!-- [handout-death](coming soon) -->
 
 ## Week 2
 
@@ -39,7 +39,7 @@ A *New Yorker* profile of Parfit by Larissa MacFarquhar, "How to Be Good" [link]
 
 Obituaries of Derek Parfit from [Guardian](https://www.theguardian.com/world/2017/jan/12/derek-parfit-obituary),[New York Times](https://www.nytimes.com/2017/01/04/world/derek-parfit-philosopher-who-explored-identity-and-moral-choice-dies-at-74.html) & [Vox](http://www.vox.com/science-and-health/2017/1/3/14148208/derek-parfit-rip-obit)
 
-<!-- [handout-well-being]() -->
+<!-- [handout-well-being](coming soon) -->
 
 ## Week 3
 
@@ -70,7 +70,7 @@ Brief reminder of central elements of classical utilitarianism (as articulated b
 
 Bentham, *Introduction to the Principles of Morals and Legislation*, chs. i–ii, v [html](https://www.utilitarianism.com/jeremy-bentham/index.html) 
 
-  - [handout-utilitarianism](https://www.dropbox.com/s/uikth7kcf1s6qec/handout-utilitarianism.pdf?dl=0)
+  - [handout-utilitarianism](https://www.dropbox.com/s/v60e9h8xq5ujjye/UtilitarianismHO.pdf?dl=0)
 
 Singer, 'Famine, affluence and morality' [pdf](https://www.dropbox.com/s/di7mlljznyibsyz/Singer_Famine_Affluence_Morality%20copy.pdf?dl=0)
 
@@ -80,13 +80,13 @@ Singer, 'Famine, affluence and morality' [pdf](https://www.dropbox.com/s/di7mllj
 
 Murphy, 'The demands of beneficence' [pdf](https://www.dropbox.com/s/2ghgm2sg095cg6p/Murphy_Demands_Beneficence_Notes%20copy.pdf?dl=0)
 
-Nozick, *Anarchy, state, and utopia*, pp. 28–33 [pdf](https://www.dropbox.com/s/nqhi1c9owcvb2zj/Nozick_Anarchy%2C_State%2C_and_Utopia%28.pdf?dl=0)
+Mill, 'Bentham' [pdf](https://www.dropbox.com/s/zp74s0dpb5se3f0/Mill%20on%20Bentham.pdf?dl=0)
 
-Mill, 'Bentham' [pdf](https://www.dropbox.com/s/zp74s0dpb5se3f0/Mill%20on%20Bentham.pdf?dl=0).
-
-The Bentham Project at UCL [link](https://www.ucl.ac.uk/bentham-project)
+  - The Bentham Project at UCL [link](https://www.ucl.ac.uk/bentham-project)
 
 Cullity, 'Asking too much' [pdf](https://www.dropbox.com/s/p4es08fupn144xw/cullity-asking_too_much.pdf?dl=0)
+
+<!-- [handout](coming soon) -->
 
 <!-- Kamm, ‘Nonconsequentialism’, sections I-VI -->
 
@@ -105,17 +105,18 @@ Do the numbers count morally speaking? Is the fact that one group has more peopl
 
 Taurek, 'Should the numbers count?' [pdf](https://www.dropbox.com/s/v0x7pzztr9qeaqj/Taurek_Should%20the%20Numbers%20Count.pdf?dl=0)
 
+  - [handout-taurek](coming soon)
+
 Anscombe, 'Who is wronged?' [pdf](https://www.dropbox.com/s/13eq0t2m3580uph/Anscombe_Who_is_Wronged%20copy.pdf?dl=0)
 
 
 *Further readings*
 
-<!-- Kamm, 'Equal treatment and equal chances' I NEED TO INCLUDE THE RAWLS BIT ON AGGREGATION AND SEPARATENESS OF PERSONS BEFORE GETTING INTO TAUREK!!! OR ELSE I NEED TO PUT TAUREK AFTER FOOT SO THE TRANSITION IS TO DO WITH QUESTIONING HER OFF HAND REMARK ABOUT BETTER TO SAVE MORE-->
-
 Parfit, 'Innumerate ethics' [pdf](https://www.dropbox.com/s/1tye8cv99jlbnyb/Parfit_Innumerate_Ethics%20copy.pdf?dl=0)
 
 Munoz-Dardé, 'The distribution of numbers and the comprehensiveness of reasons' [pdf](https://www.dropbox.com/s/wonq98vxjlfxkyj/PASDistributionNumbers.pdf?dl=0)
 
+<!-- Kamm, 'Equal treatment and equal chances' I NEED TO INCLUDE THE RAWLS BIT ON AGGREGATION AND SEPARATENESS OF PERSONS BEFORE GETTING INTO TAUREK!!! OR ELSE I NEED TO PUT TAUREK AFTER FOOT SO THE TRANSITION IS TO DO WITH QUESTIONING HER OFF HAND REMARK ABOUT BETTER TO SAVE MORE-->
 
 
 ## Week 6 -- READING WEEK
@@ -131,19 +132,28 @@ Is it harder to justify actively harming someone, intentionally or not, than it 
 
 Foot, 'The problem of abortion and the doctrine of double effect' [pdf](https://www.dropbox.com/s/30gogqhbnslx5nq/foot-dde-chapter-2.pdf?dl=0)
 
-Thomson, “The trolley problem”
+<!-- [foot-handout](coming soon) -->
+
+Nozick, *Anarchy, state, and utopia*, pp. 28–33 [pdf](https://www.dropbox.com/s/nqhi1c9owcvb2zj/Nozick_Anarchy%2C_State%2C_and_Utopia%28.pdf?dl=0)
+
+
+Thomson, 'The trolley problem' [pdf]()
 
 
 *Further readings*
 
-Anscombe, 'Mr Truman’s degree'
+Anscombe, 'Mr Truman’s degree' [pdf]()
+
+Nagel, 'War and massacre' [pdf](), (very useful as background reading)
+
+<!-- [handout-nagel](coming soon) -->
 
 
 *Related topics*
 
 For discussion in consideration of the permissibility of suicide/euthanasia & abortion: if a person wishes to die, is it permissible to help to bring this about? Does it matter whether this is done by withdrawing life support or providing the means of death?
 
-Thomson, 'Physician assisted suicide: two moral arguments'
+Thomson, 'Physician assisted suicide: two moral arguments' [pdf]()
 
 
 
@@ -152,7 +162,8 @@ Thomson, 'Physician assisted suicide: two moral arguments'
 
 *Readings*
 
-<!-- williams' integrity objection to utilitarianism and the morality system more generall -->
+<!-- wolf, 'moral saints'
+williams' integrity objection to utilitarianism and the morality system more generall -->
 
 *Further readings*
 
@@ -176,9 +187,13 @@ Thomson, 'Physician assisted suicide: two moral arguments'
 
 *Readings*
 
-<!-- Arendt, the natality problem
+<!-- 
+Arendt, the natality problem
+
 Shiffrin, wrong of bringing into being
-Parfit, non-identity problem -->
+
+Parfit, non-identity problem 
+-->
 
 
 *Further readings*
