@@ -137,14 +137,14 @@ Foot, 'The problem of abortion and the doctrine of double effect' [pdf](https://
 Nozick, *Anarchy, state, and utopia*, pp. 28–33 [pdf](https://www.dropbox.com/s/nqhi1c9owcvb2zj/Nozick_Anarchy%2C_State%2C_and_Utopia%28.pdf?dl=0)
 
 
-Thomson, 'The trolley problem' [pdf]()
+Thomson, 'The trolley problem' [pdf](https://www.dropbox.com/s/rob2t57djv60u0m/Thomson_Trolly_Problem%20copy.pdf?dl=0)
 
 
 *Further readings*
 
 Anscombe, 'Mr Truman’s degree' [pdf]()
 
-Nagel, 'War and massacre' [pdf](), (very useful as background reading)
+Nagel, 'War and massacre' [pdf](https://www.dropbox.com/s/nytpwlbk5xe611w/Nagel.War%20and%20Massacre-1.pdf?dl=0), (very useful as background reading)
 
 <!-- [handout-nagel](coming soon) -->
 
