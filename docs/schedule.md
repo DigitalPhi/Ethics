@@ -86,6 +86,11 @@ Mill, 'Bentham' [pdf](https://www.dropbox.com/s/zp74s0dpb5se3f0/Mill%20on%20Bent
 
 Cullity, 'Asking too much' [pdf](https://www.dropbox.com/s/p4es08fupn144xw/cullity-asking_too_much.pdf?dl=0)
 
+
+Hurley, 'Fairness and beneficience' [pdf](https://www.dropbox.com/s/egndz925lsg80vr/hurley-fairness-beneficence.pdf?dl=0)
+
+
+
 <!-- [handout](coming soon) -->
 
 <!-- Kamm, ‘Nonconsequentialism’, sections I-VI -->
@@ -123,6 +128,8 @@ Munoz-Dardé, 'The distribution of numbers and the comprehensiveness of reasons'
 
 Topics for formative essays will posted at the beginning of reading week. (NB Each of these will be on the list of summative essay topics as well. You may write the formative and summative on the very same question.)
 
+[essay topics](here)
+
 
 ## Week 7
 
@@ -137,23 +144,26 @@ Foot, 'The problem of abortion and the doctrine of double effect' [pdf](https://
 Nozick, *Anarchy, state, and utopia*, pp. 28–33 [pdf](https://www.dropbox.com/s/nqhi1c9owcvb2zj/Nozick_Anarchy%2C_State%2C_and_Utopia%28.pdf?dl=0)
 
 
-Thomson, 'The trolley problem' [pdf](https://www.dropbox.com/s/rob2t57djv60u0m/Thomson_Trolly_Problem%20copy.pdf?dl=0)
+<!-- [thomson-handout](coming soon) -->
 
 
 *Further readings*
 
-Anscombe, 'Mr Truman’s degree' [pdf]()
+Anscombe, 'Mr Truman’s degree' [pdf](https://www.dropbox.com/s/0fn471tm1a01tzx/anscombe-truman.pdf?dl=0)
+
+Bennett, 'Whatever the consequences' [pdf](https://www.dropbox.com/s/sp4s5zjy1ajqto9/Bennett_Whatever_Consequences.pdf?dl=0)
 
 Nagel, 'War and massacre' [pdf](https://www.dropbox.com/s/nytpwlbk5xe611w/Nagel.War%20and%20Massacre-1.pdf?dl=0), (very useful as background reading)
 
 <!-- [handout-nagel](coming soon) -->
 
+Thomson, 'The trolley problem' [pdf](https://www.dropbox.com/s/rob2t57djv60u0m/Thomson_Trolly_Problem%20copy.pdf?dl=0)
 
 *Related topics*
 
 For discussion in consideration of the permissibility of suicide/euthanasia & abortion: if a person wishes to die, is it permissible to help to bring this about? Does it matter whether this is done by withdrawing life support or providing the means of death?
 
-Thomson, 'Physician assisted suicide: two moral arguments' [pdf]()
+Thomson, 'Physician assisted suicide: two moral arguments' [pdf](https://www.dropbox.com/s/pfxcgq8mkp2u5cy/thomson-two-arguments.pdf?dl=0)
 
 
 
@@ -162,40 +172,46 @@ Thomson, 'Physician assisted suicide: two moral arguments' [pdf]()
 
 *Readings*
 
-<!-- wolf, 'moral saints'
-williams' integrity objection to utilitarianism and the morality system more generall -->
+Wolf, 'Moral saints' [pdf](https://www.dropbox.com/s/bgbxja19c553xn2/wolf-moral-saints.pdf?dl=0)
+
+Williams, 'Persons, character and morality' [pdf](https://www.dropbox.com/s/fn56hk1g39g6x5c/williams-persons-character.pdf?dl=0)
+
+<!-- integrity objection to utilitarianism and the morality system more general -->
 
 *Further readings*
+
+Wolf, 'Morality and partiality' [pdf](https://www.dropbox.com/s/l1603a1jtw5jwqs/wolf_morality_partiality.pdf?dl=0)
 
 
 
 ## Week 9
-
-<!-- For there to be moral luck is for one’s moral status to depend on facts outside one’s control.  Can there be moral luck?  Is it legitimate for luck to play a role in how blame and praise are distirbuted? -->
+For there to be moral luck is for one’s moral status to depend on facts outside one’s control.  Can there be moral luck?  Is it legitimate for luck to play a role in how blame and praise are distirbuted?
 
 *Readings*
 
-<!-- Nagel, “Moral Luck” -->
-<!-- Williams, “Moral Luck” -->
+Nagel, 'Moral luck' [pdf](https://www.dropbox.com/s/see6cwupqsnd1za/Nagel-Moral%20Luck.pdf?dl=0)
+
 
 *Further readings*
 
+Williams, 'Moral luck' [pdf](https://www.dropbox.com/s/nspa85zhq6n98qv/Williams_Moral%20Luck.pdf?dl=0)
+
+Strawson, 'Luck swallows everything' [pdf]('https://www.dropbox.com/s/mgcdqpbhbb1z05u/Luck_Swallows_Everything.pdf?dl=0')
 
 
 ## Week 10
 
+What do we owe to our decendants? Is it wrong to have children? 
 
 *Readings*
 
-<!-- 
-Arendt, the natality problem
-
-Shiffrin, wrong of bringing into being
-
-Parfit, non-identity problem 
--->
+Shiffrin, 'Wrongful life, procreative responsibility, and the significance of harm' [pdf](https://www.dropbox.com/s/ffb6b1np6edir0p/wrongful_life_procreative_responsibility_and_the_significance_of_harm.pdf?dl=0)
 
 
 *Further readings*
+
+Parfit, 'The non-identity problem' 
+
+<!-- Arendt, the natality problem -->
 
 
