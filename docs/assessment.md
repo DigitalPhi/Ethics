@@ -11,8 +11,7 @@
 
 You are encouraged to write a formative essay during the reading week. Questions will be distributed in advance. Any of these can also serve to set the topic for your summative essay.
 
-<!-- * Topics available here [link](https://www.dropbox.com/s/ca1m5bf5n06fom1/essay-topics-formative.pdf?dl=0). (Additional questions may be included later in the term.)
-  - Due date is week 8 of the autumn term. -->
+Topics now available [pdf](https://www.dropbox.com/s/ca1m5bf5n06fom1/essay-topics-formative.pdf?dl=0).
 
 ## Discussion questions
 

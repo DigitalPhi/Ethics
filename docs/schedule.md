@@ -52,14 +52,14 @@ Feinberg, 'Psychological egoism' [link](https://upload.disroot.org/r/9_ykrXpd#w2
 
 Butler, 'Upon love of our neighbour', sermon xi [link](https://upload.disroot.org/r/92XE1BrS#eQz2dbq1yb++XU4KqUWxInPeRduqaivPndV9V/wxokI=)
 
+[handout-egosim](https://www.dropbox.com/s/4kksi3kucz8mw5d/handout-egoism.pdf?dl=0)
+
 
 *Futher readings*
 
-Rachels, 'Ethical egoism' [link](https://www.dropbox.com/s/nkrqeflvs417xhc/Rachels%20Ethical%20Egoism%20copy.pdf?dl=0)
-
 Williams, 'Egoism and alrtuism' [pdf](https://www.dropbox.com/s/zgxvc1ovh3olepd/williams_egoism__altruism%20copy%202.pdf?dl=0)
 
-[handout-egosim](https://www.dropbox.com/s/4kksi3kucz8mw5d/handout-egoism.pdf?dl=0)
+Rachels, 'Ethical egoism' [link](https://www.dropbox.com/s/nkrqeflvs417xhc/Rachels%20Ethical%20Egoism%20copy.pdf?dl=0)
 
 
 ## Week 4
@@ -76,6 +76,7 @@ Singer, 'Famine, affluence and morality' [pdf](https://www.dropbox.com/s/di7mllj
 
   - [handout-singer](coming soon)
 
+
 *Further readings*
 
 Murphy, 'The demands of beneficence' [pdf](https://www.dropbox.com/s/2ghgm2sg095cg6p/Murphy_Demands_Beneficence_Notes%20copy.pdf?dl=0)
@@ -86,16 +87,11 @@ Mill, 'Bentham' [pdf](https://www.dropbox.com/s/zp74s0dpb5se3f0/Mill%20on%20Bent
 
 Cullity, 'Asking too much' [pdf](https://www.dropbox.com/s/p4es08fupn144xw/cullity-asking_too_much.pdf?dl=0)
 
-
 Hurley, 'Fairness and beneficience' [pdf](https://www.dropbox.com/s/egndz925lsg80vr/hurley-fairness-beneficence.pdf?dl=0)
 
 
 
-<!-- [handout](coming soon) -->
-
-<!-- Kamm, ‘Nonconsequentialism’, sections I-VI -->
-
-<!-- • Sammuel Scheffler. (Ed.) Consequentialism and its Critics (Contains numerous relevant papers, including papers by Williams, Nozick, Foot and Scheffler).
+<!-- Sammuel Scheffler. (Ed.) Consequentialism and its Critics (Contains numerous relevant papers, including papers by Williams, Nozick, Foot and Scheffler).
 • Kamm, Frances. (2000) ‘Nonconsequentialism’, sections I-VI, The Blackwell Guide to Ethical Theory. Ed. Hugh LaFolette. Oxford: Blackwell. -->
 
 
@@ -126,7 +122,7 @@ Munoz-Dardé, 'The distribution of numbers and the comprehensiveness of reasons'
 
 ## Week 6 -- READING WEEK
 
-Topics for formative essays will posted at the beginning of reading week. (NB Each of these will be on the list of summative essay topics as well. You may write the formative and summative on the very same question.)
+Topics for formative essays will posted at the beginning of reading week. 
 
 [essay topics](here)
 
@@ -185,6 +181,7 @@ Wolf, 'Morality and partiality' [pdf](https://www.dropbox.com/s/l1603a1jtw5jwqs/
 
 
 ## Week 9
+
 For there to be moral luck is for one’s moral status to depend on facts outside one’s control.  Can there be moral luck?  Is it legitimate for luck to play a role in how blame and praise are distirbuted?
 
 *Readings*

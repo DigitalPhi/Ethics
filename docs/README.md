@@ -7,7 +7,7 @@ Precise contents may vary slightly by year. Some topics include: the nature of t
 
 Look for announcements here! 
 
-Apologies for the delay. The readings and topics for our next meeting are now posted. Apologies for the delay. The material for the rest of the term will be made available Monday. <sub><small>January 13</small></sub>
+Apologies for the delay -- H3N2 ('aussie flu') has been interfering with philosophy and all other thought since Friday. Essays topics are available [here](https://www.dropbox.com/s/30tvn21e7x25w3x/essay_topics.pdf?dl=0). <sub><small>February 13</small></sub>
 
 The first announcement is this: all the course material will be available on this website very soon. Do not worry. This class will be orderly and edifying. Who knows, it may even help us to live better lives. <sub><small>January 9</small></sub>
 
