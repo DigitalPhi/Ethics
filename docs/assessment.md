@@ -11,7 +11,7 @@
 
 You are encouraged to write a formative essay during the reading week. Questions will be distributed in advance. Any of these can also serve to set the topic for your summative essay.
 
-Topics now available [pdf](https://www.dropbox.com/s/ca1m5bf5n06fom1/essay-topics-formative.pdf?dl=0).
+Topics now available [pdf](https://www.dropbox.com/s/30tvn21e7x25w3x/essay_topics.pdf?dl=0)
 
 ## Discussion questions
 
