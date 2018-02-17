@@ -34,8 +34,6 @@ Contribute any comments, questions or passing thoughts [here](https://public.eth
 
 - I will post some examples of very good work done in earlier terms 
 
-<!-- [link](https://www.dropbox.com/s/c1c5ykhzsxdpyys/sample-essay-1-3097.pdf?dl=0) -->
-<!-- link to folder with 'Disolving the paradox of grief' and eventually others -->
 
 - Automated feedback tool from [*ecree*](https://www.ecree.com/signup). It can be a useful tool. If enough interest is expressed I will set-up an account for our module.
 
