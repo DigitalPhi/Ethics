@@ -1,5 +1,6 @@
+# Discussion
 
-# etherpad discussion page for 2047
+> etherpad discussion page for 2047
 
 <iframe name="embed_readwrite" src="https://public.etherpad-mozilla.org/p/Ethics2047?showControls=true&showChat=true&showLineNumbers=true&useMonospaceFont=false" width=600 height=400></iframe>
 
