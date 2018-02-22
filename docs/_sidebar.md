@@ -6,6 +6,8 @@
 
 - [Policies](policies.md)
 
+- [Discussion](discussion.md)
+
 <!-- - [Bibliography](bibliography.md)
   - Selective general background readings
     + Historical backgrond
