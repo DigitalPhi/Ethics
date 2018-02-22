@@ -32,7 +32,7 @@ Contribute any comments, questions or passing thoughts [here](https://public.eth
 <!-- - Writing exercises for bringing narrative into the rational order of a philosophical essay as well as a few model essays will be posted here later in the term. -->
 <!-- link to 2017 exercises-->
 
-- I will post some examples of very good work done in earlier terms 
+- I will post some examples of very good work done in earlier terms.
 
 
 - Automated feedback tool from [*ecree*](https://www.ecree.com/signup). It can be a useful tool. If enough interest is expressed I will set-up an account for our module.
