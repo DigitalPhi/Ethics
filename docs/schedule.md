@@ -74,7 +74,7 @@ Bentham, *Introduction to the Principles of Morals and Legislation*, chs. i–ii
 
 Singer, 'Famine, affluence and morality' [pdf](https://www.dropbox.com/s/di7mlljznyibsyz/Singer_Famine_Affluence_Morality%20copy.pdf?dl=0)
 
-  - [handout-singer](coming soon)
+  - [handout-singer](https://www.dropbox.com/s/obyonr4l99owerk/Singer%20HO.pdf?dl=0)
 
 
 *Further readings*
@@ -106,7 +106,7 @@ Do the numbers count morally speaking? Is the fact that one group has more peopl
 
 Taurek, 'Should the numbers count?' [pdf](https://www.dropbox.com/s/v0x7pzztr9qeaqj/Taurek_Should%20the%20Numbers%20Count.pdf?dl=0)
 
-  - [handout-taurek](coming soon)
+  - [handout-taurek](https://www.dropbox.com/s/sgzsy4wpc2haddf/taurek_ho.pdf?dl=0)
 
 Anscombe, 'Who is wronged?' [pdf](https://www.dropbox.com/s/13eq0t2m3580uph/Anscombe_Who_is_Wronged%20copy.pdf?dl=0)
 
