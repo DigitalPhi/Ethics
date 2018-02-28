@@ -8,7 +8,7 @@ Precise contents may vary slightly by year. Some topics include: the nature of t
 
 <!-- Look for announcements here!  -->
 
-Please check the schedule for regular updates of course material, especially handouts and readings.<sub><small>February 28</small></sub>
+As the strike continues, please check the schedule for regular updates of course material, especially handouts and readings.<sub><small>February 28</small></sub>
 
 
 Apologies for the delay -- H3N2 ('aussie flu') has been interfering with philosophy and all other thought since Friday. Essays topics are available [here](https://www.dropbox.com/s/30tvn21e7x25w3x/essay_topics.pdf?dl=0). <sub><small>February 13</small></sub>
