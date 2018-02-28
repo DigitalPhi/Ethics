@@ -17,7 +17,7 @@ Topics now available [pdf](https://www.dropbox.com/s/30tvn21e7x25w3x/essay_topic
 
 Students are expected to do the all of the assigned reading prior to each meeting. In preparation students should write up a substantial question about one of the readings. Please bring a copy to class. We are a large group. It is even more important, then, that everyone arrive ready to contribute.
 
-Contribute any comments, questions or passing thoughts [here](https://public.etherpad-mozilla.org/p/Ethics2047). It is a page for real time collaborative editing with lots of additional features. Just click the link and write.
+Contribute any comments, questions or passing thoughts [here](discussion.md) It is a page for real time collaborative editing with lots of additional features. Just click the link and write.
 
 
 ## Tools, skills and tips
