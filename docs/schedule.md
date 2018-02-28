@@ -124,7 +124,7 @@ Munoz-Dardé, 'The distribution of numbers and the comprehensiveness of reasons'
 
 Topics for formative essays will posted at the beginning of reading week. 
 
-[essay topics](here)
+[essay topics](https://www.dropbox.com/s/30tvn21e7x25w3x/essay_topics.pdf?dl=0)
 
 
 ## Week 7
@@ -135,7 +135,7 @@ Is it harder to justify actively harming someone, intentionally or not, than it 
 
 Foot, 'The problem of abortion and the doctrine of double effect' [pdf](https://www.dropbox.com/s/30gogqhbnslx5nq/foot-dde-chapter-2.pdf?dl=0)
 
-<!-- [foot-handout](coming soon) -->
+[foot-handout](https://www.dropbox.com/s/os48fwr7ms3ky3m/private-killing-ho%20copy.pdf?dl=0)
 
 Nozick, *Anarchy, state, and utopia*, pp. 28–33 [pdf](https://www.dropbox.com/s/nqhi1c9owcvb2zj/Nozick_Anarchy%2C_State%2C_and_Utopia%28.pdf?dl=0)
 
