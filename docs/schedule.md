@@ -1,4 +1,4 @@
-# Schedule of topics
+# Schedule
 
 ## Week 1
 

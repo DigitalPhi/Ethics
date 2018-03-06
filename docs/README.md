@@ -8,8 +8,11 @@ Precise contents may vary slightly by year. Some topics include: the nature of t
 
 <!-- Look for announcements here!  -->
 
-As the strike continues, please check the schedule for regular updates of course material, especially handouts and readings. I hope very much that we will be able to meet next Tuesday, March 6! I will post further announcements in the coming days. In addition I will add a chat room for discussion. Check back soon.<sub><small>February 28</small></sub>
+The due date for the summative (final) essay is *April 23rd 2018*. This date for summative essays is common to all term two philosophy modules. For more detail please see the Philosophy BA assessment space [link](https://moodle.ucl.ac.uk/course/view.php?id=14303).  <sub><small>March 6</small></sub>
 
+Given the continuation of the UCU strike action I'll be adding further material and plugins to the website in the coming days. Various handouts as well as a [collaborative writing platform](discussion.md)have already been added. More is to come.<sub><small>March 5</small></sub>
+
+As the strike continues, please check the schedule for regular updates of course material, especially handouts and readings. I hope very much that we will be able to meet next Tuesday, March 6! I will post further announcements in the coming days. In addition I will add a chat room for discussion. Check back soon.<sub><small>February 28</small></sub>
 
 Apologies for the delay -- H3N2 ('aussie flu') has been interfering with philosophy and all other thought since Friday. Essays topics are available [here](https://www.dropbox.com/s/30tvn21e7x25w3x/essay_topics.pdf?dl=0). <sub><small>February 13</small></sub>
 

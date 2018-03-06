@@ -4,7 +4,8 @@
 
 * An essay of 2500 words (PHIL2047).
 * Questions will be distributed well in advance. 
-* Due date for the summative essay is TBD.
+* Due date for the summative essay is April 23rd 2018. For more detail see the Philosophy BA assessment space [link](https://moodle.ucl.ac.uk/course/view.php?id=14303)
+
 
 
 ## Formative essay
@@ -12,6 +13,7 @@
 You are encouraged to write a formative essay during the reading week. Questions will be distributed in advance. Any of these can also serve to set the topic for your summative essay.
 
 Topics now available [pdf](https://www.dropbox.com/s/30tvn21e7x25w3x/essay_topics.pdf?dl=0)
+
 
 ## Discussion questions
 
