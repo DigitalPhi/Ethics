@@ -1,12 +1,23 @@
-- [Welcome](README.md)
+* Welcome
 
-- [Schedule and readings](schedule.md)
+  * [Welcome](README.md)
 
-- [Assessment](assessment.md)
+* Syllabus
 
-- [Policies](policies.md)
+  * [schedule](schedule.md)
 
-- [Discussion](discussion.md)
+* Assessment
+
+  * [Assessment](assessment.md)
+
+* Policies
+  
+  * [Policies](policies.md)
+
+* Discussion
+
+  * [Collaborative writing](discussion.md)
+  * [coming soon](commento.md)
 
 <!-- - [Bibliography](bibliography.md)
   - Selective general background readings
