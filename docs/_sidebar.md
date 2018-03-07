@@ -4,7 +4,7 @@
 
 * Syllabus
 
-  * [schedule](schedule.md)
+  * [Schedule](schedule.md)
 
 * Assessment
 

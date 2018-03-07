@@ -1,12 +1,10 @@
-
+## Ethics
 
 > Welcome! This is the course page for Ethics PHIL2047 (2017-18, term 2).
 
 Precise contents may vary slightly by year. Some topics include: the nature of the good, egoism, utilitarian accounts of right and wrong action, virtue (esp. justice and benevolence), equality, partiality and impartiality, responsibility and moral luck. This module is meant to be exploratory within the limits of reason and polite society. Let's all do our best.
 
 ## Announcements
-
-<!-- Look for announcements here!  -->
 
 The due date for the summative (final) essay is *April 23rd 2018*. This date for summative essays is common to all term two philosophy modules. For more detail please see the Philosophy BA assessment space [link](https://moodle.ucl.ac.uk/course/view.php?id=14303).  <sub><small>March 6</small></sub>
 
