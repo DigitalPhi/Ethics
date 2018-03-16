@@ -11,6 +11,7 @@
 * Discussion
 
   * [Collaborative writing](discussion.md)
+  * [Comment thread](disquis.md)
   
 <!-- * [coming soon](commento.md) -->
 
@@ -20,10 +21,3 @@
     + Key books published since 1945
     + Collections
   - Topics -->
-
-  * Getting started
-
-    * [Quick start](quickstart.md)
-    * [Writing more pages](more-pages.md)
-    * [Custom navbar](custom-navbar.md)
-    * [Cover page](cover.md)
