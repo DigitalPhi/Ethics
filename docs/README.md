@@ -1,10 +1,11 @@
-## Ethics
 
 > Welcome! This is the course page for Ethics PHIL2047 (2017-18, term 2).
 
 Precise contents may vary slightly by year. Some topics include: the nature of the good, egoism, utilitarian accounts of right and wrong action, virtue (esp. justice and benevolence), equality, partiality and impartiality, responsibility and moral luck. This module is meant to be exploratory within the limits of reason and polite society. Let's all do our best.
 
 ## Announcements
+
+<!-- xyz<sup style="color:red">(March 20 lecture and seminars)<sup> -->
 
 The due date for the summative (final) essay is *April 23rd 2018*. This date for summative essays is common to all term two philosophy modules. For more detail please see the Philosophy BA assessment space [link](https://moodle.ucl.ac.uk/course/view.php?id=14303).  <sub><small>March 6</small></sub>
 
@@ -25,7 +26,7 @@ The first announcement is this: all the course material will be available on thi
 - Formative essay topics now posted [below](assessment.md). <small>06.11.2017</small> -->
 
 
-## Instructors
+### Instructors
 
 - Douglas Lavin
   + Office: Room 3.4a, 33-35 Torrington Place [(map)](http://www.ucl.ac.uk/maps/33-35-torrington-place)
@@ -41,7 +42,7 @@ The first announcement is this: all the course material will be available on thi
   + [ah email](mailto:a.hinshelwood.12@ucl.ac.uk)
 
 
-## Meetings
+### Meetings -- time & place
 
 <span style="font-variant:small-caps;"> lecture</span>
 
@@ -77,16 +78,7 @@ The first announcement is this: all the course material will be available on thi
 <!-- These classes are not mandatory, so you do not have to come. However, you are strongly encouraged to do so! Last year the students found them very beneficial. We had some really excellent in depth discussions about the material. On the whole, we cover the same terrain as the texts set for class reading. The sessions are an opportunity for you to ask questions you didn't get to ask in class, or take further lines of inquiry which you weren't able to in the full group. -->
 
 
-## Course materials
-
-All the substantive course content will be available on this course website. There may be a few, minor changes going forward.
-
-A folder with assigned and supplemental readings is available here [folder](https://www.dropbox.com/sh/bwz4x8b77j71hna/AAC9IwTHnPbJHQmQSbtxjVrXa?dl=0). You will find links to individual readings and handouts in the detailed schedule of topics [here](schedule.md).
-
-We will use the [UCL Moodle](https://moodle.ucl.ac.uk/course/view.php?id=19062) to send email announcements and as the portal for submitting and receiving summative essays.
-
-
-#### Breif schedule of topics
+### Brief schedule of topics
 
 <!-- <span style="font-variant:small-caps;"> brief schedule of topics</span> -->
 
@@ -105,7 +97,7 @@ We will use the [UCL Moodle](https://moodle.ucl.ac.uk/course/view.php?id=19062) 
 | 20.03 | Birth & future generatioms | Shiffrin & Parfit |
 
 
-#### Selected background readings
+### Selected background readings
 
 Anscombe, G.E.M. 'Does moral philosophy corrupt the youth?' [pdf](https://www.dropbox.com/s/86vlta8tduzznmk/anscombe-moral-corrupt.pdf?dl=0) 
 
@@ -116,4 +108,15 @@ Nagel, Thomas. 'War and massacre' [pdf](https://www.dropbox.com/s/nytpwlbk5xe611
 Smart, J.J.C., & Williams, Bernard. *Utilitarianism: For and Against* [pdf](https://www.dropbox.com/s/u4pdqfj9ltar3fb/smart_williams_utilitarianism.pdf?dl=0).
 
 Williams, Bernard. *Morality: an introduction* [pdf](https://www.dropbox.com/s/s81lm2zv7gdirac/Williams-Morality_%20An%20Introduction%20to%20Ethics.pdf?dl=0)
+
+
+
+
+### Accessing course content
+
+All the substantive course content will be available on this course website. There may be a few, minor changes going forward.
+
+A folder with assigned and supplemental readings is available here [folder](https://www.dropbox.com/sh/bwz4x8b77j71hna/AAC9IwTHnPbJHQmQSbtxjVrXa?dl=0). You will find links to individual readings and handouts in the detailed schedule of topics [here](schedule.md).
+
+We will use the [UCL Moodle](https://moodle.ucl.ac.uk/course/view.php?id=19062) to send email announcements and as the portal for submitting and receiving summative essays.
 

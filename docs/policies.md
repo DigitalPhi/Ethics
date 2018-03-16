@@ -1,4 +1,4 @@
-# Policies
+
 
 ## Attendance, deadlines and plagarism
 

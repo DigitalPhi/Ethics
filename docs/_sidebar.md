@@ -1,23 +1,18 @@
 * Welcome
 
-  * [Welcome](README.md)
-
-* Syllabus
-
-  * [Schedule](schedule.md)
-
-* Assessment
-
-  * [Assessment](assessment.md)
-
-* Policies
-  
+  * [Overivew](README.md)
   * [Policies](policies.md)
+
+* Course material
+
+  * [Topics & readings](schedule.md)
+  * [Assessment](assessment.md)
 
 * Discussion
 
   * [Collaborative writing](discussion.md)
-  * [coming soon](commento.md)
+  
+<!-- * [coming soon](commento.md) -->
 
 <!-- - [Bibliography](bibliography.md)
   - Selective general background readings
@@ -26,3 +21,9 @@
     + Collections
   - Topics -->
 
+  * Getting started
+
+    * [Quick start](quickstart.md)
+    * [Writing more pages](more-pages.md)
+    * [Custom navbar](custom-navbar.md)
+    * [Cover page](cover.md)

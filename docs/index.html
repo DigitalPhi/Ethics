@@ -7,7 +7,7 @@
   <link rel="icon" href="_media/favicon.ico">
   
   <meta name="keywords" content="philosophy, ethics, mind, education">
-  <meta name="description" content"Course material for ethics">
+  <meta name="description" content="Course material for ethics">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   
   <link rel="stylesheet" href="//unpkg.com/docsify/themes/vue.css" title="vue">
@@ -21,21 +21,20 @@
 
 <body>
   <div id="app">Loading ...</div>
-</body>
-
-<script>
-  window.$docsify = {
-    auto2top: true,
-    coverpage: true,
-    executeScript: true,
-    loadSidebar: true,
-    loadNavbar: true,
-    maxLevel: 4,
-    subMaxLevel: 3,
-    name: 'Ethics',
-    search: {
-      noData: {
-        '/': 'No results!'
+  <script>
+    window.$docsify = {
+      auto2top: true,
+      coverpage: true,
+      executeScript: true,
+      loadSidebar: true,
+      loadNavbar: true,
+      mergeNavbar: true,
+      maxLevel: 4,
+      subMaxLevel: 3,
+      name: 'Ethics',
+      search: {
+        noData: {
+          '/': 'No results!'
       },
       paths: 'auto',
       placeholder: {
@@ -43,19 +42,35 @@
       }
     },
     formatUpdated: '{MM}/{DD} {HH}:{mm}',
-  }  
+    
+    plugins: [
+      function (hook, vm) {
+        hook.beforeEach(function (html) {
+          var url = 'https://github.com/QingWei-Li/docsify/blob/master/docs/' + vm.route.file
+          var editHtml = '[:memo: Edit Document](' + url + ')\n'
+
+          return editHtml
+            + html
+            + '\n----\n'
+            + '<a href="https://docsify.js.org" target="_blank" style="color: inherit; font-weight: normal; text-decoration: none;">Powered by docsify</a>'
+        })
+      }
+    ]
+  } 
 </script>
 
 <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+<script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
+<script src="//unpkg.com/docsify/lib/plugins/ga.min.js"></script>
+<script src="//unpkg.com/prismjs/components/prism-bash.min.js"></script>
+<script src="//unpkg.com/prismjs/components/prism-markdown.min.js"></script>
+<script src="//unpkg.com/prismjs/components/prism-nginx.min.js"></script>
 
-<!-- <script>
-  ((window.gitter = {}).chat = {}).options = {
-    room: 'Ethics/2047'
-  };
-</script> -->
-<!-- <script src="https://sidecar.gitter.im/dist/sidecar.v1.js" async defer></script> -->
+<!-- 
+<script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
 <script src="//unpkg.com/prismjs/components/prism-bash.min.js"></script>
 <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
-<script src="//unpkg.com/docsify/lib/plugins/zoom-image.min.js"></script>
+<script src="//unpkg.com/docsify/lib/plugins/zoom-image.min.js"></script> -->
+</body>
 
 </html>
