@@ -42,7 +42,22 @@
       }
     },
     formatUpdated: '{MM}/{DD} {HH}:{mm}',
-  } 
+    
+    plugins: [
+      function (hook) {
+        var footer = [
+          '<hr/>',
+          '<footer>',
+          '<span>Ethics---2047, Term 2 2017/18</span>',
+          '</footer>'
+        ].join('')
+
+        hook.afterEach(function (html) {
+          return html + footer
+        })
+      }
+    ]
+  }
 </script>
 
 <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
@@ -52,6 +67,3 @@
 
 </body>
 </html>
-
-
-

@@ -188,6 +188,7 @@ For there to be moral luck is for one’s moral status to depend on facts outsid
 
 Nagel, 'Moral luck' [pdf](https://www.dropbox.com/s/see6cwupqsnd1za/Nagel-Moral%20Luck.pdf?dl=0)
 
+<!-- [nagel-handout]() -->
 
 *Further readings*
 

@@ -5,7 +5,10 @@ Precise contents may vary slightly by year. Some topics include: the nature of t
 
 ## Announcements
 
-<!-- xyz<sup style="color:red">(March 20 lecture and seminars)<sup> -->
+<!-- xyz<sup> style="color:red">(March 20 lecture and seminars)<sup> -->
+
+For our meeting of March 20th please be prepared to discuss Philippa Foot, 'The problem of abortion and the doctrine of double effect' and in addition Judith Thomson, 'The trolley problem'. There are links to texts and handouts on the schedule of topics and readings. <sub style="color:red"><small>March 20</small></sub>
+
 
 The due date for the summative (final) essay is *April 23rd 2018*. This date for summative essays is common to all term two philosophy modules. For more detail please see the Philosophy BA assessment space [link](https://moodle.ucl.ac.uk/course/view.php?id=14303).  <sub><small>March 6</small></sub>
 
@@ -32,8 +35,8 @@ The first announcement is this: all the course material will be available on thi
   + Office: Room 3.4a, 33-35 Torrington Place [(map)](http://www.ucl.ac.uk/maps/33-35-torrington-place)
   + Office hours: Tuesday 1600-1700. Just drop-by!
   + [dgl email](mailto:d.lavin@ucl.ac.uk)
-  + Remarks on the use of email [here](policies.md)
-  <!-- + personal webpage (http://www.douglaslavin.org) -->
+    - Remarks on the use of email [here](policies.md)
+  + Personal webpage [link](http://www.douglaslavin.org)
 <!--[schedule](http://www.supersaas.co.uk/schedule/DouglasLavin/OfficeHoursUCL) -->
 
 - Alec Hinshelwood
