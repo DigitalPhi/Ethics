@@ -4,7 +4,8 @@
 
 * An essay of 2500 words (PHIL2047).
 * Questions will be distributed well in advance. 
-* Due date for the summative essay is April 23rd 2018. For more detail see the Philosophy BA assessment space [link](https://moodle.ucl.ac.uk/course/view.php?id=14303)
+* Due date for the summative essay is April 23rd 2018. For more detail see the Philosophy BA assessment space [link](https://moodle.ucl.ac.uk/course/view.php?id=14303). 
+  - This was the original schedule for submission of summative essays. See the announcements section above for relevant changes to the deadline.
 
 
 
