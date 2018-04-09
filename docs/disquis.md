@@ -1,4 +1,21 @@
-# Disquis
+
+# Comments
+
+<!-- 
+<div id="commento"></div>
+<script src="https://cdn.commento.io/js/commento.min.js"></script>
+-->
+
+
+<!-- <div id="commento"></div>
+<script defer
+  src="http://server.com/assets/js/commento.min.js"
+  data-div="#commento">
+</script> */
+-->
+
+<!-- # Disquis -->
+
 
 <!-- 
 <div id="disqus_thread"></div>
