@@ -182,19 +182,24 @@ Wolf, 'Morality and partiality' [pdf](https://www.dropbox.com/s/l1603a1jtw5jwqs/
 
 ## Week 9
 
-For there to be moral luck is for one’s moral status to depend on facts outside one’s control.  Can there be moral luck?  Is it legitimate for luck to play a role in how blame and praise are distirbuted?
+For there to be moral luck is for one’s moral status to depend on facts outside one’s control. Can there be moral luck?  Is it legitimate for luck to play a role in how blame and praise are distirbuted?
 
 *Readings*
 
 Nagel, 'Moral luck' [pdf](https://www.dropbox.com/s/see6cwupqsnd1za/Nagel-Moral%20Luck.pdf?dl=0)
 
-<!-- [nagel-handout]() -->
+
+[nagel-handout](https://www.dropbox.com/s/untw6tmd26piakq/moralluck-ho.pdf?dl=0
 
 *Further readings*
 
 Williams, 'Moral luck' [pdf](https://www.dropbox.com/s/nspa85zhq6n98qv/Williams_Moral%20Luck.pdf?dl=0)
 
 Strawson, 'Luck swallows everything' [pdf]('https://www.dropbox.com/s/mgcdqpbhbb1z05u/Luck_Swallows_Everything.pdf?dl=0')
+
+Lewis, 'The punishment that leaves something to change'[pdf]()
+
+<!-- [lewis-handout]() -->
 
 
 ## Week 10
