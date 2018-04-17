@@ -16,7 +16,9 @@ Epicurus, 'Letter to Menoeceus' (selections) [pdf](https://www.dropbox.com/s/6nn
 
 Williams, 'The Makropulos case: reflections on the tedium of immortality' [pdf](https://www.dropbox.com/s/82d5pske01rrpup/Williams-Immortality.pdf?dl=0)
 
-<!-- [handout-death](coming soon) -->
+<!-- [handout-DEATH](coming soon) -->
+
+
 
 ## Week 2
 
@@ -27,6 +29,8 @@ What makes a person’s life go better? Is pleasure the only ultimate source of 
 Parfit, 'What makes someone's life go best?' [pdf](https://www.dropbox.com/s/dkjysrvuvzei7ld/parfit_life_going_best.pdf?dl=0)
 
 Robert Nozick, 'The Experience Machine' [pdf](https://www.dropbox.com/s/y1e9popbljc58mw/nozick_experience_machine.pdf?dl=0)
+
+<!-- [handout-WELLBEING](coming soon) -->
 
 
 *Futher readings*
@@ -39,7 +43,8 @@ A *New Yorker* profile of Parfit by Larissa MacFarquhar, "How to Be Good" [link]
 
 Obituaries of Derek Parfit from [Guardian](https://www.theguardian.com/world/2017/jan/12/derek-parfit-obituary),[New York Times](https://www.nytimes.com/2017/01/04/world/derek-parfit-philosopher-who-explored-identity-and-moral-choice-dies-at-74.html) & [Vox](http://www.vox.com/science-and-health/2017/1/3/14148208/derek-parfit-rip-obit)
 
-<!-- [handout-well-being](coming soon) -->
+
+
 
 ## Week 3
 
@@ -52,7 +57,7 @@ Feinberg, 'Psychological egoism' [link](https://upload.disroot.org/r/9_ykrXpd#w2
 
 Butler, 'Upon love of our neighbour', sermon xi [link](https://upload.disroot.org/r/92XE1BrS#eQz2dbq1yb++XU4KqUWxInPeRduqaivPndV9V/wxokI=)
 
-[handout-egosim](https://www.dropbox.com/s/4kksi3kucz8mw5d/handout-egoism.pdf?dl=0)
+  [handout-egosim](https://www.dropbox.com/s/4kksi3kucz8mw5d/handout-egoism.pdf?dl=0)
 
 
 *Futher readings*
@@ -80,6 +85,8 @@ Singer, 'Famine, affluence and morality' [pdf](https://www.dropbox.com/s/di7mllj
 *Further readings*
 
 Murphy, 'The demands of beneficence' [pdf](https://www.dropbox.com/s/2ghgm2sg095cg6p/Murphy_Demands_Beneficence_Notes%20copy.pdf?dl=0)
+
+<!-- [handout-MURPHY]() -->
 
 Mill, 'Bentham' [pdf](https://www.dropbox.com/s/zp74s0dpb5se3f0/Mill%20on%20Bentham.pdf?dl=0)
 
@@ -135,12 +142,10 @@ Is it harder to justify actively harming someone, intentionally or not, than it 
 
 Foot, 'The problem of abortion and the doctrine of double effect' [pdf](https://www.dropbox.com/s/30gogqhbnslx5nq/foot-dde-chapter-2.pdf?dl=0)
 
-[foot-handout](https://www.dropbox.com/s/os48fwr7ms3ky3m/private-killing-ho%20copy.pdf?dl=0)
+  [foot-handout](https://www.dropbox.com/s/os48fwr7ms3ky3m/private-killing-ho%20copy.pdf?dl=0)
 
-Nozick, *Anarchy, state, and utopia*, pp. 28–33 [pdf](https://www.dropbox.com/s/nqhi1c9owcvb2zj/Nozick_Anarchy%2C_State%2C_and_Utopia%28.pdf?dl=0)
+Nozick, *Anarchy, state, and utopia*, pp. 28–33 (rights as side-constraints) [pdf](https://www.dropbox.com/s/nqhi1c9owcvb2zj/Nozick_Anarchy%2C_State%2C_and_Utopia%28.pdf?dl=0)
 
-
-<!-- [thomson-handout](coming soon) -->
 
 
 *Further readings*
@@ -151,15 +156,19 @@ Bennett, 'Whatever the consequences' [pdf](https://www.dropbox.com/s/sp4s5zjy1aj
 
 Nagel, 'War and massacre' [pdf](https://www.dropbox.com/s/nytpwlbk5xe611w/Nagel.War%20and%20Massacre-1.pdf?dl=0), (very useful as background reading)
 
-<!-- [handout-nagel](coming soon) -->
+<!-- [handout-NAGEL](coming soon) -->
 
 Thomson, 'The trolley problem' [pdf](https://www.dropbox.com/s/rob2t57djv60u0m/Thomson_Trolly_Problem%20copy.pdf?dl=0)
+
+<!-- [handout-TROLLEY](coming soon) -->
 
 *Related topics*
 
 For discussion in consideration of the permissibility of suicide/euthanasia & abortion: if a person wishes to die, is it permissible to help to bring this about? Does it matter whether this is done by withdrawing life support or providing the means of death?
 
 Thomson, 'Physician assisted suicide: two moral arguments' [pdf](https://www.dropbox.com/s/pfxcgq8mkp2u5cy/thomson-two-arguments.pdf?dl=0)
+
+<!-- Tooley, aborition, infanticide / THOMSON handout -->
 
 
 
@@ -171,6 +180,8 @@ Thomson, 'Physician assisted suicide: two moral arguments' [pdf](https://www.dro
 Wolf, 'Moral saints' [pdf](https://www.dropbox.com/s/bgbxja19c553xn2/wolf-moral-saints.pdf?dl=0)
 
 Williams, 'Persons, character and morality' [pdf](https://www.dropbox.com/s/fn56hk1g39g6x5c/williams-persons-character.pdf?dl=0)
+
+  [wolf-handout](https://www.dropbox.com/s/7t7c58imr4n38un/wolf_moralsaints_ho.pdf?dl=0)
 
 <!-- integrity objection to utilitarianism and the morality system more general -->
 
@@ -189,7 +200,7 @@ For there to be moral luck is for one’s moral status to depend on facts outsid
 Nagel, 'Moral luck' [pdf](https://www.dropbox.com/s/see6cwupqsnd1za/Nagel-Moral%20Luck.pdf?dl=0)
 
 
-[nagel-handout](https://www.dropbox.com/s/untw6tmd26piakq/moralluck-ho.pdf?dl=0
+    [nagel-handout](https://www.dropbox.com/s/untw6tmd26piakq/moralluck-ho.pdf?dl=0)
 
 *Further readings*
 
@@ -197,9 +208,9 @@ Williams, 'Moral luck' [pdf](https://www.dropbox.com/s/nspa85zhq6n98qv/Williams_
 
 Strawson, 'Luck swallows everything' [pdf]('https://www.dropbox.com/s/mgcdqpbhbb1z05u/Luck_Swallows_Everything.pdf?dl=0')
 
-Lewis, 'The punishment that leaves something to change'[pdf]()
+Lewis, 'The punishment that leaves something to change'[pdf](https://www.dropbox.com/s/jnonk0wjyt0uckt/lewis%20punishment%20copy.pdf?dl=0)
 
-<!-- [lewis-handout]() -->
+  [lewis-handout](https://www.dropbox.com/s/8hl11nkyg5kebz9/lewis-attempts-lottery.pdf?dl=0)
 
 
 ## Week 10
@@ -210,10 +221,11 @@ What do we owe to our decendants? Is it wrong to have children?
 
 Shiffrin, 'Wrongful life, procreative responsibility, and the significance of harm' [pdf](https://www.dropbox.com/s/ffb6b1np6edir0p/wrongful_life_procreative_responsibility_and_the_significance_of_harm.pdf?dl=0)
 
+  [shiffrin-handout-soon]()
 
 *Further readings*
 
-Parfit, 'The non-identity problem' 
+Parfit, 'The non-identity problem'[pdf](https://www.dropbox.com/s/j11onn7dykq72di/Parfit_NonIdentity_Problem%20copy.pdf?dl=0)
 
 <!-- Arendt, the natality problem -->
 
