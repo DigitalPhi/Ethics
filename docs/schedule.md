@@ -57,7 +57,7 @@ Feinberg, 'Psychological egoism' [link](https://upload.disroot.org/r/9_ykrXpd#w2
 
 Butler, 'Upon love of our neighbour', sermon xi [link](https://upload.disroot.org/r/92XE1BrS#eQz2dbq1yb++XU4KqUWxInPeRduqaivPndV9V/wxokI=)
 
-  [handout-egosim](https://www.dropbox.com/s/4kksi3kucz8mw5d/handout-egoism.pdf?dl=0)
+- [handout-egosim](https://www.dropbox.com/s/4kksi3kucz8mw5d/handout-egoism.pdf?dl=0)
 
 
 *Futher readings*
@@ -75,11 +75,11 @@ Brief reminder of central elements of classical utilitarianism (as articulated b
 
 Bentham, *Introduction to the Principles of Morals and Legislation*, chs. i–ii, v [html](https://www.utilitarianism.com/jeremy-bentham/index.html) 
 
-  - [handout-utilitarianism](https://www.dropbox.com/s/v60e9h8xq5ujjye/UtilitarianismHO.pdf?dl=0)
+- [handout-utilitarianism](https://www.dropbox.com/s/v60e9h8xq5ujjye/UtilitarianismHO.pdf?dl=0)
 
 Singer, 'Famine, affluence and morality' [pdf](https://www.dropbox.com/s/di7mlljznyibsyz/Singer_Famine_Affluence_Morality%20copy.pdf?dl=0)
 
-  - [handout-singer](https://www.dropbox.com/s/obyonr4l99owerk/Singer%20HO.pdf?dl=0)
+- [handout-singer](https://www.dropbox.com/s/obyonr4l99owerk/Singer%20HO.pdf?dl=0)
 
 
 *Further readings*
@@ -113,7 +113,7 @@ Do the numbers count morally speaking? Is the fact that one group has more peopl
 
 Taurek, 'Should the numbers count?' [pdf](https://www.dropbox.com/s/v0x7pzztr9qeaqj/Taurek_Should%20the%20Numbers%20Count.pdf?dl=0)
 
-  - [handout-taurek](https://www.dropbox.com/s/sgzsy4wpc2haddf/taurek_ho.pdf?dl=0)
+- [handout-taurek](https://www.dropbox.com/s/sgzsy4wpc2haddf/taurek_ho.pdf?dl=0)
 
 Anscombe, 'Who is wronged?' [pdf](https://www.dropbox.com/s/13eq0t2m3580uph/Anscombe_Who_is_Wronged%20copy.pdf?dl=0)
 
@@ -142,7 +142,7 @@ Is it harder to justify actively harming someone, intentionally or not, than it 
 
 Foot, 'The problem of abortion and the doctrine of double effect' [pdf](https://www.dropbox.com/s/30gogqhbnslx5nq/foot-dde-chapter-2.pdf?dl=0)
 
-  [foot-handout](https://www.dropbox.com/s/os48fwr7ms3ky3m/private-killing-ho%20copy.pdf?dl=0)
+- [foot-handout](https://www.dropbox.com/s/os48fwr7ms3ky3m/private-killing-ho%20copy.pdf?dl=0)
 
 Nozick, *Anarchy, state, and utopia*, pp. 28–33 (rights as side-constraints) [pdf](https://www.dropbox.com/s/nqhi1c9owcvb2zj/Nozick_Anarchy%2C_State%2C_and_Utopia%28.pdf?dl=0)
 
@@ -181,7 +181,7 @@ Wolf, 'Moral saints' [pdf](https://www.dropbox.com/s/bgbxja19c553xn2/wolf-moral-
 
 Williams, 'Persons, character and morality' [pdf](https://www.dropbox.com/s/fn56hk1g39g6x5c/williams-persons-character.pdf?dl=0)
 
-  [wolf-handout](https://www.dropbox.com/s/7t7c58imr4n38un/wolf_moralsaints_ho.pdf?dl=0)
+- [wolf-handout](https://www.dropbox.com/s/7t7c58imr4n38un/wolf_moralsaints_ho.pdf?dl=0)
 
 <!-- integrity objection to utilitarianism and the morality system more general -->
 
@@ -200,7 +200,7 @@ For there to be moral luck is for one’s moral status to depend on facts outsid
 Nagel, 'Moral luck' [pdf](https://www.dropbox.com/s/see6cwupqsnd1za/Nagel-Moral%20Luck.pdf?dl=0)
 
 
-    [nagel-handout](https://www.dropbox.com/s/untw6tmd26piakq/moralluck-ho.pdf?dl=0)
+- [nagel-handout](https://www.dropbox.com/s/untw6tmd26piakq/moralluck-ho.pdf?dl=0)
 
 *Further readings*
 
@@ -210,7 +210,7 @@ Strawson, 'Luck swallows everything' [pdf]('https://www.dropbox.com/s/mgcdqpbhbb
 
 Lewis, 'The punishment that leaves something to change'[pdf](https://www.dropbox.com/s/jnonk0wjyt0uckt/lewis%20punishment%20copy.pdf?dl=0)
 
-  [lewis-handout](https://www.dropbox.com/s/8hl11nkyg5kebz9/lewis-attempts-lottery.pdf?dl=0)
+- [lewis-handout](https://www.dropbox.com/s/8hl11nkyg5kebz9/lewis-attempts-lottery.pdf?dl=0)
 
 
 ## Week 10

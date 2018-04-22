@@ -6,8 +6,11 @@ Precise contents may vary slightly by year. Some topics include: the nature of t
 ## Announcements
 
 
-The deadline for the summative essay is *Tuesday 8 May at 1600*. Additional material has been added below. I will add a couple more sets of notes, a sample essay from another year, and possible additional essay questions. If you'd like to propose your own, please be in contact with me and alec.
-<sub style="color:red"><small>Posted April 16</small></sub>
+My office hours for term 3 are Wednesdays 1500-1600. I will be in my office Monday 23 April from 1500-1700 in case you would like to drop-by to discuss the summative essay. Given sufficient interest I will schedule additional drop-in hours.<sub style="color:red"><small>Posted April 21</small></sub>
+
+
+The deadline for the summative essay is *Tuesday 8 May at 1600*. Additional material has been added below. I will add a couple more sets of notes, a sample essay from another year, and possible additional essay questions. If you'd like to propose your own, please be in contact with me and Alec.
+<small>Posted April 16</small></sub>
 
 
 The deadline for the summative essay was originally set for Monday 23 April 2018, 4pm. I have requested that it be extended by two weeks to Monday 7 May 2018 4pm. If the request is granted, as I expect it will be, the new deadline will be registered on the Turnitin/Moodle page. There will *not* be a blanket response from the department. For offical confirmation you will need to refer to the submission deadlines on Moodle/TurnitIn for the relevant module you are taking, in this case PHIL2047. I expect to hear definitively Monday or Tuesday of this next week (April 9 or 10). <sub><small>March 29</small></sub>
