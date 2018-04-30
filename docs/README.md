@@ -6,7 +6,10 @@ Precise contents may vary slightly by year. Some topics include: the nature of t
 ## Announcements
 
 
-My office hours for term 3 are Wednesdays 1500-1600. I will be in my office Monday 23 April from 1500-1700 in case you would like to drop-by to discuss the summative essay. Given sufficient interest I will schedule additional drop-in hours.<sub style="color:red"><small>Posted April 21</small></sub>
+For those who expressed interest in writing on the content of the last scheduled meeting, I've added a few questions to the list of essay topics.[<i class="far fa-file-pdf"></i>](https://www.dropbox.com/s/30tvn21e7x25w3x/essay_topics.pdf?dl=0). In addition, I'm holding extended office hours this Wednesday (May 2nd from 1500 to 1800). You're welcome to drop-by.<sub style="color:red"><small>Posted April 30</small></sub>
+
+
+My office hours for term 3 are Wednesdays 1500-1600. I will be in my office Monday 23 April from 1500-1700 in case you would like to drop-by to discuss the summative essay. Given sufficient interest I will schedule additional drop-in hours.<sub><small>Posted April 21</small></sub>
 
 
 The deadline for the summative essay is *Tuesday 8 May at 1600*. Additional material has been added below. I will add a couple more sets of notes, a sample essay from another year, and possible additional essay questions. If you'd like to propose your own, please be in contact with me and Alec.
