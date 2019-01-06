@@ -1,12 +1,18 @@
 
-> Welcome! This is the course page for Ethics PHIL2047 (2017-18, term 2).
+> Welcome! This is the course page for Ethics PHIL2047 (2018-19, term 2).
 
 Precise contents may vary slightly by year. Some topics include: the nature of the good, egoism, utilitarian accounts of right and wrong action, virtue (esp. justice and benevolence), equality, partiality and impartiality, responsibility and moral luck. This module is meant to be exploratory within the limits of reason and polite society. Let's all do our best.
 
+
 ## Announcements
 
+All course material will be available on this website shortly. This module aims to be orderly and edifying. Who knows, it may even help us to live better lives. <sub><small>January 7</small></sub>
 
-For those who expressed interest in writing on the content of the last scheduled meeting, I've added a few questions to the list of essay topics [link](https://www.dropbox.com/s/30tvn21e7x25w3x/essay_topics.pdf?dl=0). In addition, I'm holding extended office hours this Wednesday (May 2nd from 1500 to 1800). You're welcome to drop-by.<sub style="color:red"><small>Posted April 30</small></sub>
+For our introductory meeting please read the following texts:
+
+
+
+<!-- For those who expressed interest in writing on the content of the last scheduled meeting, I've added a few questions to the list of essay topics [link](https://www.dropbox.com/s/30tvn21e7x25w3x/essay_topics.pdf?dl=0). In addition, I'm holding extended office hours this Wednesday (May 2nd from 1500 to 1800). You're welcome to drop-by.<sub style="color:red"><small>Posted April 30</small></sub>
 
 
 My office hours for term 3 are Wednesdays 1500-1600. I will be in my office Monday 23 April from 1500-1700 in case you would like to drop-by to discuss the summative essay. Given sufficient interest I will schedule additional drop-in hours.<sub><small>Posted April 21</small></sub>
@@ -31,9 +37,7 @@ Given the continuation of the UCU strike action I'll be adding further material 
 
 As the strike continues, please check the schedule for regular updates of course material, especially handouts and readings. I hope very much that we will be able to meet next Tuesday, March 6! I will post further announcements in the coming days. In addition I will add a chat room for discussion. Check back soon.<sub><small>February 28</small></sub>
 
-Apologies for the delay -- H3N2 ('aussie flu') has been interfering with philosophy and all other thought since Friday. Essays topics are available [here](https://www.dropbox.com/s/30tvn21e7x25w3x/essay_topics.pdf?dl=0). <sub><small>February 13</small></sub>
-
-The first announcement is this: all the course material will be available on this website very soon. Do not worry. This class will be orderly and edifying. Who knows, it may even help us to live better lives. <sub><small>January 9</small></sub>
+Apologies for the delay -- H3N2 ('aussie flu') has been interfering with philosophy and all other thought since Friday. Essays topics are available [here](https://www.dropbox.com/s/30tvn21e7x25w3x/essay_topics.pdf?dl=0). <sub><small>February 13</small></sub> -->
 
 
 <!--A few important announcements <sub><small>November 24</small></sub>
@@ -48,13 +52,13 @@ The first announcement is this: all the course material will be available on thi
 
 - Douglas Lavin
   + Office: Room 3.4a, 33-35 Torrington Place [(map)](http://www.ucl.ac.uk/maps/33-35-torrington-place)
-  + Office hours: Tuesday 1600-1700. Just drop-by!
+  + Office hours: Tuesday 1600-1700. Drop-by!
   + [dgl email](mailto:d.lavin@ucl.ac.uk)
     - Remarks on the use of email [here](policies.md)
   + Personal webpage [link](http://www.douglaslavin.org)
 <!--[schedule](http://www.supersaas.co.uk/schedule/DouglasLavin/OfficeHoursUCL) -->
 
-- Alec Hinshelwood
+- TBD
   + Office: tbd
   + Office hours: tbd
   + [ah email](mailto:a.hinshelwood.12@ucl.ac.uk)
@@ -64,9 +68,9 @@ The first announcement is this: all the course material will be available on thi
 
 <span style="font-variant:small-caps;"> lecture</span>
 
-| Time               | Location                                                           | Lecturer |
-|:-------------------|:-------------------------------------------------------------------|:---------|
-| Tuesdays 1400-1500 | [Gordon Street 25](http://www.ucl.ac.uk/maps/ucl-union), Maths 500 | Lavin    |
+| Time               | Location                                                      | Lecturer |
+|:-------------------|:--------------------------------------------------------------|:---------|
+| Tuesdays 1400-1500 | [Gordon Street 25](http://www.ucl.ac.uk/maps/ucl-union), D103 | Lavin    |
 
 <!-- Gordon Street (25) Maths 500
 [map](http://www.ucl.ac.uk/maps/ucl-union) -->
@@ -75,15 +79,15 @@ The first announcement is this: all the course material will be available on thi
 
 <span style="font-variant:small-caps;">discussion sessions</span>
 
-| GRP | Time           | Weeks          | Location                                                                  | Instructor  |
-|:----|:---------------|:---------------|:--------------------------------------------------------------------------|:------------|
-| 1   | Tues 1500-1600 | 20-24,26-30    | [Torrington 1-19](http://www.ucl.ac.uk/maps/1-19-torrington-place), G09   | Lavin       |
-| 2   | Tues 1500-1600 | 20-24          | [Wilkins Garden Room](http://www.ucl.ac.uk/maps/wilkins-terrace)          | Hinshelwood |
-| 2   | Tues 1500-1600 | 26-30          | [Malet Place 1-4](http://www.ucl.ac.uk/maps/1-4-malet-place), 250         | Hinshelwood |
-| 3   | Tues 1600-1700 | 20-24,26-28,30 | [Torrington 33-35](http://www.ucl.ac.uk/maps/33-35-torrington-place), G02 | Hinshelwood |
-| 3   | Tues 1600-1700 | 29             | [Torrington 33-35](http://www.ucl.ac.uk/maps/33-35-torrington-place), B2  | Hinshelwood |
-| 4   | Tues 1700-1800 | 20-24,26-28,30 | [Torrington 33-35](http://www.ucl.ac.uk/maps/33-35-torrington-place), G02 | Hinshelwood |
-| 4   | Tues 1700-1800 | 29             | [Torrington 33-35](http://www.ucl.ac.uk/maps/33-35-torrington-place), B2  | Hinshelwood |
+| GRP | Time           | Weeks          | Location                                                                   | Instructor  |
+|:----|:---------------|:---------------|:---------------------------------------------------------------------------|:------------|
+| 1   | Tues 1500-1600 | 20-24,26-30    | [South Quad Pop-up Learning Hub 101](http://www.ucl.ac.uk/maps/??????????) | Lavin       |
+| 2   | Tues 1500-1600 | 20-24          | [Wilkins Garden Room](http://www.ucl.ac.uk/maps/wilkins-terrace)           | Hinshelwood |
+| 2   | Tues 1500-1600 | 26-30          | [Malet Place 1-4](http://www.ucl.ac.uk/maps/1-4-malet-place), 250          | Hinshelwood |
+| 3   | Tues 1600-1700 | 20-24,26-28,30 | [Torrington 33-35](http://www.ucl.ac.uk/maps/33-35-torrington-place), G02  | Hinshelwood |
+| 3   | Tues 1600-1700 | 29             | [Torrington 33-35](http://www.ucl.ac.uk/maps/33-35-torrington-place), B2   | Hinshelwood |
+| 4   | Tues 1700-1800 | 20-24,26-28,30 | [Torrington 33-35](http://www.ucl.ac.uk/maps/33-35-torrington-place), G02  | Hinshelwood |
+| 4   | Tues 1700-1800 | 29             | [Torrington 33-35](http://www.ucl.ac.uk/maps/33-35-torrington-place), B2   | Hinshelwood |
 
 
 <!-- - Torrington 1-19, G09 [map](http://www.ucl.ac.uk/maps/1-19-torrington-place)
@@ -100,26 +104,30 @@ The first announcement is this: all the course material will be available on thi
 
 <!-- <span style="font-variant:small-caps;"> brief schedule of topics</span> -->
 
-| Date  | Topic                      | Main reading      |
-|:------|:---------------------------|:------------------|
-| 09.01 | Death                      | Nagel             |
-| 16.01 | One's own good             | Parfit            |
-| 23.01 | Another's good?            | Feinberg & Butler |
-| 30.01 | Beneficience               | Singer & Bentham  |
-| 06.02 | Equality & numbers         | Taurek & Anscombe |
-| 13.02 | READING WEEK               | --                |
-| 20.02 | Justice                    | Foot              |
-| 27.02 | Justice                    | Thomson           |
-| 06.03 | Impartiality & integrity   | Wolf & Williams   |
-| 13.03 | Responsibility & luck      | Nagel & Williams  |
-| 20.03 | Birth & future generatioms | Shiffrin & Parfit |
+| Date  | Topic                      | Main reading               |
+|:------|:---------------------------|:---------------------------|
+| 08.01 | Death                      | Lucretius, Nagel, Williams |
+| 15.01 | One's own good             | Parfit                     |
+| 22.01 | Another's good?            | Feinberg & Butler          |
+| 29.01 | Beneficience               | Singer & Bentham           |
+| 05.02 | Equality & numbers         | Taurek & Anscombe          |
+| 12.02 | READING WEEK               | --                         |
+| 19.02 | Justice                    | Foot                       |
+| 26.02 | Justice                    | Thomson                    |
+| 05.03 | Impartiality & integrity   | Wolf & Williams            |
+| 12.03 | Responsibility & luck      | Nagel & Williams           |
+| 19.03 | Birth & future generatioms | Shiffrin & Parfit          |
 
 
 ### Selected background readings
 
-Anscombe, G.E.M. 'Does moral philosophy corrupt the youth?' [pdf](https://www.dropbox.com/s/86vlta8tduzznmk/anscombe-moral-corrupt.pdf?dl=0) 
+Anscombe, G.E.M. 'Does Oxford moral philosophy corrupt the youth?' [pdf](https://www.dropbox.com/s/86vlta8tduzznmk/anscombe-moral-corrupt.pdf?dl=0) 
+
+<!-- Foot  -->
 
 Nagel, Thomas. 'War and massacre' [pdf](https://www.dropbox.com/s/nytpwlbk5xe611w/Nagel.War%20and%20Massacre-1.pdf?dl=0)
+
+<!-- Nagel, Mortal Questions -->
 
 <!-- Scheffler, Samuel. Consequentialism and Its Critics[](). Oxford University Press on Demand, 1988. -->
 

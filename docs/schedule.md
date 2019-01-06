@@ -6,17 +6,18 @@ Does death harm the one who dies? Even if death is a harm in some circumstances,
 
 *Readings*
 
-Nagel, 'Death' [pdf](https://www.dropbox.com/s/35etu00rvp50bd0/Nagel_Death.pdf?dl=0)
-
 Lucretius, *On the Nature of Things* [pdf](https://www.dropbox.com/s/220199d8zq309xs/Lucretius_Death.pdf?dl=0) (selections, Book 3, 830-842 & 972-975)
 
-*Futher readings*
-
-Epicurus, 'Letter to Menoeceus' (selections) [pdf](https://www.dropbox.com/s/6nnd6n30aac11na/Letter%20to%20Menoeceus.pdf?dl=0)
+Nagel, 'Death' [pdf](https://www.dropbox.com/s/35etu00rvp50bd0/Nagel_Death.pdf?dl=0)
 
 Williams, 'The Makropulos case: reflections on the tedium of immortality' [pdf](https://www.dropbox.com/s/82d5pske01rrpup/Williams-Immortality.pdf?dl=0)
 
 <!-- [handout-DEATH](coming soon) -->
+
+
+*Futher readings*
+
+Epicurus, 'Letter to Menoeceus' (selections) [pdf](https://www.dropbox.com/s/6nnd6n30aac11na/Letter%20to%20Menoeceus.pdf?dl=0)
 
 
 
@@ -28,7 +29,7 @@ What makes a person’s life go better? Is pleasure the only ultimate source of 
 
 Parfit, 'What makes someone's life go best?' [pdf](https://www.dropbox.com/s/dkjysrvuvzei7ld/parfit_life_going_best.pdf?dl=0)
 
-Robert Nozick, 'The Experience Machine' [pdf](https://www.dropbox.com/s/y1e9popbljc58mw/nozick_experience_machine.pdf?dl=0)
+Robert Nozick, 'The experience machine' [pdf](https://www.dropbox.com/s/y1e9popbljc58mw/nozick_experience_machine.pdf?dl=0)
 
 <!-- [handout-WELLBEING](coming soon) -->
 
@@ -42,8 +43,6 @@ Kahneman, 'Objective happiness', [pdf](https://www.dropbox.com/s/9punzcp6c2pe186
 A *New Yorker* profile of Parfit by Larissa MacFarquhar, "How to Be Good" [link](http://www.newyorker.com/magazine/2011/09/05/how-to-be-good)
 
 Obituaries of Derek Parfit from [Guardian](https://www.theguardian.com/world/2017/jan/12/derek-parfit-obituary),[New York Times](https://www.nytimes.com/2017/01/04/world/derek-parfit-philosopher-who-explored-identity-and-moral-choice-dies-at-74.html) & [Vox](http://www.vox.com/science-and-health/2017/1/3/14148208/derek-parfit-rip-obit)
-
-
 
 
 ## Week 3
@@ -67,9 +66,19 @@ Williams, 'Egoism and alrtuism' [pdf](https://www.dropbox.com/s/zgxvc1ovh3olepd/
 Rachels, 'Ethical egoism' [link](https://www.dropbox.com/s/nkrqeflvs417xhc/Rachels%20Ethical%20Egoism%20copy.pdf?dl=0)
 
 
+
+## Week ??????????????
+
+The humean theory of motivation and the authority of morality
+
+
+# Part Two: justice and benevolence & consequentiaism and common sense morality
+
 ## Week 4
 
-Brief reminder of central elements of classical utilitarianism (as articulated by Bentham) in which we consider the following: What is the utilitarian account of the principles upon which we ought to act?  Where does it locate the philosophical basis of our ideas of right and wrong?  What is the source of attraction of the utilitarian conception of morality? The focus of the meeting is, however, the following question raised by Peter Singer: How much, if at all, must we help others?
+Reminder of central elements of classical utilitarianism (as articulated by Bentham) in which we consider the following: What is the utilitarian account of the principles upon which we ought to act?  Where does it locate the philosophical basis of our ideas of right and wrong?  What is the source of attraction of the utilitarian conception of morality?
+
+The focus of the meeting is, however, the following question raised by Peter Singer: How much, if at all, must we help others?
 
 *Readings*
 
@@ -102,6 +111,8 @@ Hurley, 'Fairness and beneficience' [pdf](https://www.dropbox.com/s/egndz925lsg8
 • Kamm, Frances. (2000) ‘Nonconsequentialism’, sections I-VI, The Blackwell Guide to Ethical Theory. Ed. Hugh LaFolette. Oxford: Blackwell. -->
 
 
+<!-- Railton, -->
+
 
 
 ## Week 5
@@ -131,7 +142,7 @@ Munoz-Dardé, 'The distribution of numbers and the comprehensiveness of reasons'
 
 Topics for formative essays will posted at the beginning of reading week. 
 
-[essay topics](https://www.dropbox.com/s/30tvn21e7x25w3x/essay_topics.pdf?dl=0)
+<!-- [essay topics](https://www.dropbox.com/s/30tvn21e7x25w3x/essay_topics.pdf?dl=0) -->
 
 
 ## Week 7
@@ -171,6 +182,10 @@ Thomson, 'Physician assisted suicide: two moral arguments' [pdf](https://www.dro
 
 <!-- Tooley, aborition, infanticide / THOMSON handout -->
 
+
+<!-- self-defense...? Thomson and Otsuka -->
+
+# Part Three: Some challenges to morality
 
 
 ## Week 8
@@ -214,20 +229,26 @@ Lewis, 'The punishment that leaves something to change'[pdf](https://www.dropbox
 - [lewis-handout](https://www.dropbox.com/s/8hl11nkyg5kebz9/lewis-attempts-lottery.pdf?dl=0)
 
 
-## Week 10
+## Week 10 
 
-What do we owe to our decendants? Is it wrong to have children? 
+What do we owe to our decendants? Is it wrong to have children?
 
 *Readings*
 
+Parfit, 'The non-identity problem'[pdf](https://www.dropbox.com/s/j11onn7dykq72di/Parfit_NonIdentity_Problem%20copy.pdf?dl=0)
+
+
 Shiffrin, 'Wrongful life, procreative responsibility, and the significance of harm' [pdf](https://www.dropbox.com/s/ffb6b1np6edir0p/wrongful_life_procreative_responsibility_and_the_significance_of_harm.pdf?dl=0)
 
-  [shiffrin-handout-soon]()
+  <!-- [shiffrin-handout-soon]() -->
 
 *Further readings*
 
-Parfit, 'The non-identity problem'[pdf](https://www.dropbox.com/s/j11onn7dykq72di/Parfit_NonIdentity_Problem%20copy.pdf?dl=0)
+<!-- Harman, 'Can we harm and benefit in creating?'[]() -->
 
 <!-- Arendt, the natality problem -->
 
 
+<!-- Setiya
+
+Abstract: Moral theory corrupts the youth. The epistemic assumptions of moral theory deprive us of resources needed to resist the challenge of moral disagreement, which its practice at the same time makes vivid. The talk concludes by sketching a kind of epistemology that could respond to disagreement without skepticism: one in which the fundamental standards of justification for moral belief are biased towards the truth. -->
