@@ -6,6 +6,8 @@ Precise contents may vary slightly by year. Some topics include: the nature of t
 
 ## Announcements
 
+WEBSITE CURRENTLY UNDER CONSTRUCTION!!!
+
 All course material will be available on this website shortly. This module aims to be orderly and edifying. Who knows, it may even help us to live better lives. <sub><small>January 7</small></sub>
 
 For our introductory meeting please read the following texts:
@@ -54,40 +56,36 @@ Apologies for the delay -- H3N2 ('aussie flu') has been interfering with philoso
   + Office: Room 3.4a, 33-35 Torrington Place [(map)](http://www.ucl.ac.uk/maps/33-35-torrington-place)
   + Office hours: Tuesday 1600-1700. Drop-by!
   + [dgl email](mailto:d.lavin@ucl.ac.uk)
-    - Remarks on the use of email [here](policies.md)
+    - On the use of email [here](policies.md)
   + Personal webpage [link](http://www.douglaslavin.org)
 <!--[schedule](http://www.supersaas.co.uk/schedule/DouglasLavin/OfficeHoursUCL) -->
 
-- TBD
+- Vittorio Sandri
   + Office: tbd
   + Office hours: tbd
-  + [ah email](mailto:a.hinshelwood.12@ucl.ac.uk)
+  + [vs email](mailto:vittorio.sandri.14@ucl.ac.uk)
 
 
 ### Meetings -- time & place
 
 <span style="font-variant:small-caps;"> lecture</span>
 
-| Time               | Location                                                      | Lecturer |
-|:-------------------|:--------------------------------------------------------------|:---------|
-| Tuesdays 1400-1500 | [Gordon Street 25](http://www.ucl.ac.uk/maps/ucl-union), D103 | Lavin    |
+| Time               | Location                                                                  | Lecturer |
+|:-------------------|:--------------------------------------------------------------------------|:---------|
+| Tuesdays 1400-1500 | [Gordon Street 25, D103](http://www.ucl.ac.uk/maps/25-gordon-square-d103) | Lavin    |
 
-<!-- Gordon Street (25) Maths 500
-[map](http://www.ucl.ac.uk/maps/ucl-union) -->
 
 
 
 <span style="font-variant:small-caps;">discussion sessions</span>
 
-| GRP | Time           | Weeks          | Location                                                                   | Instructor  |
-|:----|:---------------|:---------------|:---------------------------------------------------------------------------|:------------|
-| 1   | Tues 1500-1600 | 20-24,26-30    | [South Quad Pop-up Learning Hub 101](http://www.ucl.ac.uk/maps/??????????) | Lavin       |
-| 2   | Tues 1500-1600 | 20-24          | [Wilkins Garden Room](http://www.ucl.ac.uk/maps/wilkins-terrace)           | Hinshelwood |
-| 2   | Tues 1500-1600 | 26-30          | [Malet Place 1-4](http://www.ucl.ac.uk/maps/1-4-malet-place), 250          | Hinshelwood |
-| 3   | Tues 1600-1700 | 20-24,26-28,30 | [Torrington 33-35](http://www.ucl.ac.uk/maps/33-35-torrington-place), G02  | Hinshelwood |
-| 3   | Tues 1600-1700 | 29             | [Torrington 33-35](http://www.ucl.ac.uk/maps/33-35-torrington-place), B2   | Hinshelwood |
-| 4   | Tues 1700-1800 | 20-24,26-28,30 | [Torrington 33-35](http://www.ucl.ac.uk/maps/33-35-torrington-place), G02  | Hinshelwood |
-| 4   | Tues 1700-1800 | 29             | [Torrington 33-35](http://www.ucl.ac.uk/maps/33-35-torrington-place), B2   | Hinshelwood |
+| GRP | Time           | Weeks          | Location                                                                          | Instructor |
+|:----|:---------------|:---------------|:----------------------------------------------------------------------------------|:-----------|
+| 1   | Tues 1500-1600 | 20-24,26-30    | [South Quad Pop-up Learning Hub 101](http://www.ucl.ac.uk/maps/??????????)        | Lavin      |
+| 2   | Tues 1500-1600 | 20-24          | [Foster Court 119]()                                                              | Sandri     |
+| 3   | Tues 1600-1700 | 20-24,26-28,30 | [Gordon Square 16-18, B09](http://www.ucl.ac.uk/maps/33-35-torrington-place), G02 | Sandri     |
+| 4   | Tues 1700-1800 | 20-24,26-28,30 | [Gordon Square 16-18, B09](http://www.ucl.ac.uk/maps/33-35-torrington-place), G02 | Sandri     |
+
 
 
 <!-- - Torrington 1-19, G09 [map](http://www.ucl.ac.uk/maps/1-19-torrington-place)
@@ -100,7 +98,7 @@ Apologies for the delay -- H3N2 ('aussie flu') has been interfering with philoso
 <!-- These classes are not mandatory, so you do not have to come. However, you are strongly encouraged to do so! Last year the students found them very beneficial. We had some really excellent in depth discussions about the material. On the whole, we cover the same terrain as the texts set for class reading. The sessions are an opportunity for you to ask questions you didn't get to ask in class, or take further lines of inquiry which you weren't able to in the full group. -->
 
 
-### Brief schedule of topics
+### Very brief schedule of topics
 
 <!-- <span style="font-variant:small-caps;"> brief schedule of topics</span> -->
 
@@ -116,7 +114,7 @@ Apologies for the delay -- H3N2 ('aussie flu') has been interfering with philoso
 | 26.02 | Justice                    | Thomson                    |
 | 05.03 | Impartiality & integrity   | Wolf & Williams            |
 | 12.03 | Responsibility & luck      | Nagel & Williams           |
-| 19.03 | Birth & future generatioms | Shiffrin & Parfit          |
+| 19.03 | Birth & future generations | Shiffrin & Parfit          |
 
 
 ### Selected background readings

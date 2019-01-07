@@ -10,8 +10,6 @@ Lucretius, *On the Nature of Things* [pdf](https://www.dropbox.com/s/220199d8zq3
 
 Nagel, 'Death' [pdf](https://www.dropbox.com/s/35etu00rvp50bd0/Nagel_Death.pdf?dl=0)
 
-Williams, 'The Makropulos case: reflections on the tedium of immortality' [pdf](https://www.dropbox.com/s/82d5pske01rrpup/Williams-Immortality.pdf?dl=0)
-
 <!-- [handout-DEATH](coming soon) -->
 
 
@@ -19,7 +17,7 @@ Williams, 'The Makropulos case: reflections on the tedium of immortality' [pdf](
 
 Epicurus, 'Letter to Menoeceus' (selections) [pdf](https://www.dropbox.com/s/6nnd6n30aac11na/Letter%20to%20Menoeceus.pdf?dl=0)
 
-
+Williams, 'The Makropulos case: reflections on the tedium of immortality' [pdf](https://www.dropbox.com/s/82d5pske01rrpup/Williams-Immortality.pdf?dl=0)
 
 ## Week 2
 
