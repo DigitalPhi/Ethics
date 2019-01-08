@@ -1,5 +1,5 @@
 
-> Welcome! This is the course page for Ethics PHIL2047 (2018-19, term 2).
+> Welcome! This is the course page for Ethics PHIL0024 (2018-19, term 2).
 
 Precise contents may vary slightly by year. Some topics include: the nature of the good, egoism, utilitarian accounts of right and wrong action, virtue (esp. justice and benevolence), equality, partiality and impartiality, responsibility and moral luck. This module is meant to be exploratory within the limits of reason and polite society. Let's all do our best.
 
@@ -89,16 +89,6 @@ Apologies for the delay -- H3N2 ('aussie flu') has been interfering with philoso
 
 
 
-<!-- - Torrington 1-19, G09 [map](http://www.ucl.ac.uk/maps/1-19-torrington-place)
-- Wilkins Garden, Rm 20­24 [map](http://www.ucl.ac.uk/maps/wilkins-terrace)
-- Malet Place 1-4, 250 [map](http://www.ucl.ac.uk/maps/1-4-malet-place)
-- Torrington 33-35, G02 [map](http://www.ucl.ac.uk/maps/33-35-torrington-place)
-- Torrington 33-35, B2 [map](http://www.ucl.ac.uk/maps/33-35-torrington-place) -->
-
-
-<!-- These classes are not mandatory, so you do not have to come. However, you are strongly encouraged to do so! Last year the students found them very beneficial. We had some really excellent in depth discussions about the material. On the whole, we cover the same terrain as the texts set for class reading. The sessions are an opportunity for you to ask questions you didn't get to ask in class, or take further lines of inquiry which you weren't able to in the full group. -->
-
-
 ### Very brief schedule of topics
 
 <!-- <span style="font-variant:small-caps;"> brief schedule of topics</span> -->
@@ -106,10 +96,10 @@ Apologies for the delay -- H3N2 ('aussie flu') has been interfering with philoso
 | Date  | Topic                      | Main reading      |
 |:------|:---------------------------|:------------------|
 | 08.01 | Death                      | Lucretius & Nagel |
-| 15.01 | One's own good             | Williams & Parfit |
-| 22.01 | Another's good?            | Feinberg & Butler |
-| 29.01 | Beneficience               | Singer & Bentham  |
-| 05.02 | Equality & numbers         | Taurek & Anscombe |
+| 15.01 | Life                       | Williams & Parfit |
+| 22.01 | others & action            | Feinberg & Butler |
+| 29.01 | Beneficience               | Bentham & Singer  |
+| 05.02 | Numbers                    | Taurek & Anscombe |
 | 12.02 | READING WEEK               | --                |
 | 19.02 | Justice                    | Foot              |
 | 26.02 | Justice                    | Thomson           |
@@ -117,6 +107,10 @@ Apologies for the delay -- H3N2 ('aussie flu') has been interfering with philoso
 | 12.03 | Responsibility & luck      | Nagel & Williams  |
 | 19.03 | Birth & future generations | Shiffrin & Parfit |
 
+<!-- death and life
+taking life and giving birth -->
+<!-- self-defense, inviolability, good/bad right/wrong wronging/doingrightby -->
+<!-- nagel, war and massacre, thomson&otsuka self-defense, feinberg, rights, and paradox of deonto, bentham/smart/? power of utilitarianism and really consequentialism! and some interesting form of amoralism! -->
 
 
 
@@ -130,3 +124,13 @@ We will use the [UCL Moodle](https://moodle-1819.ucl.ac.uk/course/view.php?id=65
 
 
 <!-- A folder with assigned and supplemental readings is available here [folder](https://www.dropbox.com/sh/bwz4x8b77j71hna/AAC9IwTHnPbJHQmQSbtxjVrXa?dl=0). -->
+
+
+<!-- - Torrington 1-19, G09 [map](http://www.ucl.ac.uk/maps/1-19-torrington-place)
+- Wilkins Garden, Rm 20­24 [map](http://www.ucl.ac.uk/maps/wilkins-terrace)
+- Malet Place 1-4, 250 [map](http://www.ucl.ac.uk/maps/1-4-malet-place)
+- Torrington 33-35, G02 [map](http://www.ucl.ac.uk/maps/33-35-torrington-place)
+- Torrington 33-35, B2 [map](http://www.ucl.ac.uk/maps/33-35-torrington-place) -->
+
+
+<!-- These classes are not mandatory, so you do not have to come. However, you are strongly encouraged to do so! Last year the students found them very beneficial. We had some really excellent in depth discussions about the material. On the whole, we cover the same terrain as the texts set for class reading. The sessions are an opportunity for you to ask questions you didn't get to ask in class, or take further lines of inquiry which you weren't able to in the full group. -->
