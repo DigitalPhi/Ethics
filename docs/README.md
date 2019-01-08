@@ -103,19 +103,19 @@ Apologies for the delay -- H3N2 ('aussie flu') has been interfering with philoso
 
 <!-- <span style="font-variant:small-caps;"> brief schedule of topics</span> -->
 
-| Date  | Topic                      | Main reading               |
-|:------|:---------------------------|:---------------------------|
-| 08.01 | Death                      | Lucretius, Nagel, Williams |
-| 15.01 | One's own good             | Parfit                     |
-| 22.01 | Another's good?            | Feinberg & Butler          |
-| 29.01 | Beneficience               | Singer & Bentham           |
-| 05.02 | Equality & numbers         | Taurek & Anscombe          |
-| 12.02 | READING WEEK               | --                         |
-| 19.02 | Justice                    | Foot                       |
-| 26.02 | Justice                    | Thomson                    |
-| 05.03 | Impartiality & integrity   | Wolf & Williams            |
-| 12.03 | Responsibility & luck      | Nagel & Williams           |
-| 19.03 | Birth & future generations | Shiffrin & Parfit          |
+| Date  | Topic                      | Main reading      |
+|:------|:---------------------------|:------------------|
+| 08.01 | Death                      | Lucretius & Nagel |
+| 15.01 | One's own good             | Williams & Parfit |
+| 22.01 | Another's good?            | Feinberg & Butler |
+| 29.01 | Beneficience               | Singer & Bentham  |
+| 05.02 | Equality & numbers         | Taurek & Anscombe |
+| 12.02 | READING WEEK               | --                |
+| 19.02 | Justice                    | Foot              |
+| 26.02 | Justice                    | Thomson           |
+| 05.03 | Impartiality & integrity   | Wolf & Williams   |
+| 12.03 | Responsibility & luck      | Nagel & Williams  |
+| 19.03 | Birth & future generations | Shiffrin & Parfit |
 
 
 
