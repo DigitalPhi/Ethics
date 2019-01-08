@@ -6,8 +6,6 @@ Precise contents may vary slightly by year. Some topics include: the nature of t
 
 ## Announcements
 
-WEBSITE CURRENTLY UNDER CONSTRUCTION!!!
-
 All course material will be available on this website shortly. This module aims to be orderly and edifying. Who knows, it may even help us to live better lives. <sub><small>January 7</small></sub>
 
 For our introductory meeting on 08 January please read the following short texts:
@@ -120,30 +118,15 @@ Apologies for the delay -- H3N2 ('aussie flu') has been interfering with philoso
 | 19.03 | Birth & future generations | Shiffrin & Parfit          |
 
 
-### Selected background readings
-
-Anscombe, G.E.M. 'Does Oxford moral philosophy corrupt the youth?' [pdf](https://www.dropbox.com/s/86vlta8tduzznmk/anscombe-moral-corrupt.pdf?dl=0) 
-
-<!-- Foot  -->
-
-Nagel, Thomas. 'War and massacre' [pdf](https://www.dropbox.com/s/nytpwlbk5xe611w/Nagel.War%20and%20Massacre-1.pdf?dl=0)
-
-<!-- Nagel, Mortal Questions -->
-
-<!-- Scheffler, Samuel. Consequentialism and Its Critics[](). Oxford University Press on Demand, 1988. -->
-
-Smart, J.J.C., & Williams, Bernard. *Utilitarianism: For and Against* [pdf](https://www.dropbox.com/s/u4pdqfj9ltar3fb/smart_williams_utilitarianism.pdf?dl=0).
-
-Williams, Bernard. *Morality: an introduction* [pdf](https://www.dropbox.com/s/s81lm2zv7gdirac/Williams-Morality_%20An%20Introduction%20to%20Ethics.pdf?dl=0)
-
-
 
 
 ### Accessing course content
 
 All the substantive course content will be available on this course website. There may be a few, minor changes going forward.
 
-A folder with assigned and supplemental readings is available here [folder](https://www.dropbox.com/sh/bwz4x8b77j71hna/AAC9IwTHnPbJHQmQSbtxjVrXa?dl=0). You will find links to individual readings and handouts in the detailed schedule of topics [here](schedule.md).
+You will find links to individual readings and handouts in the detailed schedule of topics [here](schedule.md).
 
-We will use the [UCL Moodle](https://moodle.ucl.ac.uk/course/view.php?id=19062) to send email announcements and as the portal for submitting and receiving summative essays.
+We will use the [UCL Moodle](https://moodle-1819.ucl.ac.uk/course/view.php?id=6543) to send email announcements and as the portal for submitting and receiving summative essays.
 
+
+<!-- A folder with assigned and supplemental readings is available here [folder](https://www.dropbox.com/sh/bwz4x8b77j71hna/AAC9IwTHnPbJHQmQSbtxjVrXa?dl=0). -->

@@ -1,5 +1,8 @@
 # Schedule
 
+
+<!-- death, life, good, bad, killing, creating, right, wrong -->
+
 ## Week 1
 
 Does death harm the one who dies? Even if death is a harm in some circumstances, must it always be? Other things equal, would it be good to be immortal?
@@ -70,6 +73,8 @@ The humean theory of motivation and the authority of morality -->
 
 <!-- 
 # Part Two: justice and benevolence & consequentiaism and common sense morality -->
+
+<!-- Nagel, Thomas. 'War and massacre' [pdf](https://www.dropbox.com/s/nytpwlbk5xe611w/Nagel.War%20and%20Massacre-1.pdf?dl=0) -->
 
 ## Week 4
 
