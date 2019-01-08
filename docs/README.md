@@ -97,7 +97,7 @@ Apologies for the delay -- H3N2 ('aussie flu') has been interfering with philoso
 |:------|:---------------------------|:------------------|
 | 08.01 | Death                      | Lucretius & Nagel |
 | 15.01 | Life                       | Williams & Parfit |
-| 22.01 | others & action            | Feinberg & Butler |
+| 22.01 | Others & action            | Feinberg & Butler |
 | 29.01 | Beneficience               | Bentham & Singer  |
 | 05.02 | Numbers                    | Taurek & Anscombe |
 | 12.02 | READING WEEK               | --                |
