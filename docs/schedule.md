@@ -20,22 +20,27 @@ Nagel, 'Death' [pdf](https://www.dropbox.com/s/35etu00rvp50bd0/Nagel_Death.pdf?d
 
 Epicurus, 'Letter to Menoeceus' (selections) [pdf](https://www.dropbox.com/s/6nnd6n30aac11na/Letter%20to%20Menoeceus.pdf?dl=0)
 
-Williams, 'The Makropulos case: reflections on the tedium of immortality' [pdf](https://www.dropbox.com/s/82d5pske01rrpup/Williams-Immortality.pdf?dl=0)
+McMahan, 'The Lucretian argument' [pdf](https://www.dropbox.com/s/dvuaxeh151f1hl0/Lucretian_Argument%20copy.pdf?dl=0)
+
 
 ## Week 2
 
-What makes a person’s life go better? Is pleasure the only ultimate source of value? Are a person's preferences the only measure of how well his or her life is going?
+Even if death is a harm in some circumstances, must it always be? Other things equal, would it be good to be immortal? What makes a person’s life go better? Is pleasure the only ultimate source of value? Are a person's preferences the only measure of how well his or her life is going?
 
 *Readings*
 
+Williams, 'The Makropulos case: reflections on the tedium of immortality' [pdf](https://www.dropbox.com/s/82d5pske01rrpup/Williams-Immortality.pdf?dl=0)
+
 Parfit, 'What makes someone's life go best?' [pdf](https://www.dropbox.com/s/dkjysrvuvzei7ld/parfit_life_going_best.pdf?dl=0)
 
-Robert Nozick, 'The experience machine' [pdf](https://www.dropbox.com/s/y1e9popbljc58mw/nozick_experience_machine.pdf?dl=0)
+
 
 <!-- [handout-WELLBEING](coming soon) -->
 
 
 *Futher readings*
+
+Robert Nozick, 'The experience machine' [pdf](https://www.dropbox.com/s/y1e9popbljc58mw/nozick_experience_machine.pdf?dl=0)
 
 Nozick, 'Happiness', [pdf](https://www.dropbox.com/s/3ucjmt4kp91q6ha/nozick_happiness_examined_life.pdf?dl=0)) from *Examined Life: philosophical meditations*
 
@@ -43,7 +48,7 @@ Kahneman, 'Objective happiness', [pdf](https://www.dropbox.com/s/9punzcp6c2pe186
 
 A *New Yorker* profile of Parfit by Larissa MacFarquhar, "How to Be Good" [link](http://www.newyorker.com/magazine/2011/09/05/how-to-be-good)
 
-Obituaries of Derek Parfit from [Guardian](https://www.theguardian.com/world/2017/jan/12/derek-parfit-obituary),[New York Times](https://www.nytimes.com/2017/01/04/world/derek-parfit-philosopher-who-explored-identity-and-moral-choice-dies-at-74.html) & [Vox](http://www.vox.com/science-and-health/2017/1/3/14148208/derek-parfit-rip-obit)
+<!-- Obituaries of Derek Parfit from [Guardian](https://www.theguardian.com/world/2017/jan/12/derek-parfit-obituary),[New York Times](https://www.nytimes.com/2017/01/04/world/derek-parfit-philosopher-who-explored-identity-and-moral-choice-dies-at-74.html) & [Vox](http://www.vox.com/science-and-health/2017/1/3/14148208/derek-parfit-rip-obit) -->
 
 
 ## Week 3
@@ -76,6 +81,7 @@ The humean theory of motivation and the authority of morality -->
 
 <!-- Nagel, Thomas. 'War and massacre' [pdf](https://www.dropbox.com/s/nytpwlbk5xe611w/Nagel.War%20and%20Massacre-1.pdf?dl=0) -->
 
+
 ## Week 4
 
 Reminder of central elements of classical utilitarianism (as articulated by Bentham) in which we consider the following: What is the utilitarian account of the principles upon which we ought to act?  Where does it locate the philosophical basis of our ideas of right and wrong?  What is the source of attraction of the utilitarian conception of morality?
@@ -86,7 +92,7 @@ The focus of the meeting is, however, the following question raised by Peter Sin
 
 Bentham, *Introduction to the Principles of Morals and Legislation*, chs. i–ii, v [html](https://www.utilitarianism.com/jeremy-bentham/index.html) 
 
-- [handout-utilitarianism](https://www.dropbox.com/s/v60e9h8xq5ujjye/UtilitarianismHO.pdf?dl=0)
+<!-- - [handout-utilitarianism](https://www.dropbox.com/s/v60e9h8xq5ujjye/UtilitarianismHO.pdf?dl=0) -->
 
 Singer, 'Famine, affluence and morality' [pdf](https://www.dropbox.com/s/di7mlljznyibsyz/Singer_Famine_Affluence_Morality%20copy.pdf?dl=0)
 <!-- 
@@ -125,6 +131,7 @@ Do the numbers count morally speaking? Is the fact that one group has more peopl
 *Readings*
 
 Taurek, 'Should the numbers count?' [pdf](https://www.dropbox.com/s/v0x7pzztr9qeaqj/Taurek_Should%20the%20Numbers%20Count.pdf?dl=0)
+
 <!-- 
 - [handout-taurek](https://www.dropbox.com/s/sgzsy4wpc2haddf/taurek_ho.pdf?dl=0) -->
 
@@ -187,7 +194,7 @@ Thomson, 'Physician assisted suicide: two moral arguments' [pdf](https://www.dro
 
 <!-- self-defense...? Thomson and Otsuka -->
 
-# Part Three: Some challenges to morality
+<!-- # Part Three: Some challenges to morality -->
 
 
 ## Week 8
@@ -247,7 +254,7 @@ Shiffrin, 'Wrongful life, procreative responsibility, and the significance of ha
 
   <!-- [shiffrin-handout-soon]() -->
 
-*Further readings*
+<!-- *Further readings* -->
 
 <!-- Harman, 'Can we harm and benefit in creating?'[]() -->
 
