@@ -10,7 +10,12 @@ WEBSITE CURRENTLY UNDER CONSTRUCTION!!!
 
 All course material will be available on this website shortly. This module aims to be orderly and edifying. Who knows, it may even help us to live better lives. <sub><small>January 7</small></sub>
 
-For our introductory meeting please read the following texts:
+For our introductory meeting on 08 January please read the following short texts:
+
+Lucretius, *On the Nature of Things* [pdf](https://www.dropbox.com/s/220199d8zq309xs/Lucretius_Death.pdf?dl=0) (selections, Book 3, 830-842 & 972-975)
+
+Nagel, 'Death' [pdf](https://www.dropbox.com/s/35etu00rvp50bd0/Nagel_Death.pdf?dl=0)
+
 
 
 
@@ -61,8 +66,6 @@ Apologies for the delay -- H3N2 ('aussie flu') has been interfering with philoso
 <!--[schedule](http://www.supersaas.co.uk/schedule/DouglasLavin/OfficeHoursUCL) -->
 
 - Vittorio Sandri
-  + Office: tbd
-  + Office hours: tbd
   + [vs email](mailto:vittorio.sandri.14@ucl.ac.uk)
 
 
@@ -70,21 +73,21 @@ Apologies for the delay -- H3N2 ('aussie flu') has been interfering with philoso
 
 <span style="font-variant:small-caps;"> lecture</span>
 
-| Time               | Location                                                                  | Lecturer |
-|:-------------------|:--------------------------------------------------------------------------|:---------|
-| Tuesdays 1400-1500 | [Gordon Street 25, D103](http://www.ucl.ac.uk/maps/25-gordon-square-d103) | Lavin    |
+| Time            | Location                                                                  | Lecturer |
+|:----------------|:--------------------------------------------------------------------------|:---------|
+| Tues 1400--1500 | [Gordon Street 25, D103](http://www.ucl.ac.uk/maps/25-gordon-square-d103) | Lavin    |
 
 
 
 
-<span style="font-variant:small-caps;">discussion sessions</span>
+<span style="font-variant:small-caps;">Discussion sessions</span>
 
-| GRP | Time           | Weeks          | Location                                                                          | Instructor |
-|:----|:---------------|:---------------|:----------------------------------------------------------------------------------|:-----------|
-| 1   | Tues 1500-1600 | 20-24,26-30    | [South Quad Pop-up Learning Hub 101](http://www.ucl.ac.uk/maps/??????????)        | Lavin      |
-| 2   | Tues 1500-1600 | 20-24          | [Foster Court 119]()                                                              | Sandri     |
-| 3   | Tues 1600-1700 | 20-24,26-28,30 | [Gordon Square 16-18, B09](http://www.ucl.ac.uk/maps/33-35-torrington-place), G02 | Sandri     |
-| 4   | Tues 1700-1800 | 20-24,26-28,30 | [Gordon Square 16-18, B09](http://www.ucl.ac.uk/maps/33-35-torrington-place), G02 | Sandri     |
+| GRP | Time            | Location                                                                                | Instructor |
+|:----|:----------------|:----------------------------------------------------------------------------------------|:-----------|
+| 1   | Tues 1500--1600 | [South Quad Pop-up Learning Hub 101](http://www.ucl.ac.uk/maps/south-quad-learning-hub) | Lavin      |
+| 2   | Tues 1500--1600 | [Foster Court, 113](http://www.ucl.ac.uk/maps/foster-court)                             | Sandri     |
+| 3   | Tues 1600--1700 | [Gordon Square 16-18, B09](http://www.ucl.ac.uk/maps/18-gordon-square)                  | Sandri     |
+| 4   | Tues 1700--1800 | [Gordon Square 16-18, B09](http://www.ucl.ac.uk/maps/18-gordon-square)                  | Sandri     |
 
 
 

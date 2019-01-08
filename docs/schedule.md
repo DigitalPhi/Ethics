@@ -53,9 +53,9 @@ Is it possible to act for the sake of another’s good or must motivation always
 Feinberg, 'Psychological egoism' [link](https://upload.disroot.org/r/9_ykrXpd#w2bgBal3mpqJODbbiLJYKLWyfB0Rsw2Fqvh8EtUA76g=)
 
 Butler, 'Upon love of our neighbour', sermon xi [link](https://upload.disroot.org/r/92XE1BrS#eQz2dbq1yb++XU4KqUWxInPeRduqaivPndV9V/wxokI=)
-
+<!-- 
 - [handout-egosim](https://www.dropbox.com/s/4kksi3kucz8mw5d/handout-egoism.pdf?dl=0)
-
+ -->
 
 *Futher readings*
 
@@ -65,12 +65,11 @@ Rachels, 'Ethical egoism' [link](https://www.dropbox.com/s/nkrqeflvs417xhc/Rache
 
 
 
-## Week ??????????????
+<!-- 
+The humean theory of motivation and the authority of morality -->
 
-The humean theory of motivation and the authority of morality
-
-
-# Part Two: justice and benevolence & consequentiaism and common sense morality
+<!-- 
+# Part Two: justice and benevolence & consequentiaism and common sense morality -->
 
 ## Week 4
 
@@ -85,9 +84,9 @@ Bentham, *Introduction to the Principles of Morals and Legislation*, chs. i–ii
 - [handout-utilitarianism](https://www.dropbox.com/s/v60e9h8xq5ujjye/UtilitarianismHO.pdf?dl=0)
 
 Singer, 'Famine, affluence and morality' [pdf](https://www.dropbox.com/s/di7mlljznyibsyz/Singer_Famine_Affluence_Morality%20copy.pdf?dl=0)
-
+<!-- 
 - [handout-singer](https://www.dropbox.com/s/obyonr4l99owerk/Singer%20HO.pdf?dl=0)
-
+ -->
 
 *Further readings*
 
@@ -121,8 +120,8 @@ Do the numbers count morally speaking? Is the fact that one group has more peopl
 *Readings*
 
 Taurek, 'Should the numbers count?' [pdf](https://www.dropbox.com/s/v0x7pzztr9qeaqj/Taurek_Should%20the%20Numbers%20Count.pdf?dl=0)
-
-- [handout-taurek](https://www.dropbox.com/s/sgzsy4wpc2haddf/taurek_ho.pdf?dl=0)
+<!-- 
+- [handout-taurek](https://www.dropbox.com/s/sgzsy4wpc2haddf/taurek_ho.pdf?dl=0) -->
 
 Anscombe, 'Who is wronged?' [pdf](https://www.dropbox.com/s/13eq0t2m3580uph/Anscombe_Who_is_Wronged%20copy.pdf?dl=0)
 
@@ -150,8 +149,8 @@ Is it harder to justify actively harming someone, intentionally or not, than it 
 *Readings*
 
 Foot, 'The problem of abortion and the doctrine of double effect' [pdf](https://www.dropbox.com/s/30gogqhbnslx5nq/foot-dde-chapter-2.pdf?dl=0)
-
-- [foot-handout](https://www.dropbox.com/s/4ohgoroiulq2ch6/private-killing-ho.pdf?dl=0)
+<!-- 
+- [foot-handout](https://www.dropbox.com/s/4ohgoroiulq2ch6/private-killing-ho.pdf?dl=0) -->
 
 
 Nozick, *Anarchy, state, and utopia*, pp. 28–33 (rights as side-constraints) [pdf](https://www.dropbox.com/s/nqhi1c9owcvb2zj/Nozick_Anarchy%2C_State%2C_and_Utopia%28.pdf?dl=0)
@@ -194,8 +193,8 @@ Thomson, 'Physician assisted suicide: two moral arguments' [pdf](https://www.dro
 Wolf, 'Moral saints' [pdf](https://www.dropbox.com/s/bgbxja19c553xn2/wolf-moral-saints.pdf?dl=0)
 
 Williams, 'Persons, character and morality' [pdf](https://www.dropbox.com/s/fn56hk1g39g6x5c/williams-persons-character.pdf?dl=0)
-
-- [wolf-handout](https://www.dropbox.com/s/7t7c58imr4n38un/wolf_moralsaints_ho.pdf?dl=0)
+<!-- 
+- [wolf-handout](https://www.dropbox.com/s/7t7c58imr4n38un/wolf_moralsaints_ho.pdf?dl=0) -->
 
 <!-- integrity objection to utilitarianism and the morality system more general -->
 
@@ -213,18 +212,21 @@ For there to be moral luck is for one’s moral status to depend on facts outsid
 
 Nagel, 'Moral luck' [pdf](https://www.dropbox.com/s/see6cwupqsnd1za/Nagel-Moral%20Luck.pdf?dl=0)
 
-
-- [nagel-handout](https://www.dropbox.com/s/untw6tmd26piakq/moralluck-ho.pdf?dl=0)
+<!-- 
+- [nagel-handout](https://www.dropbox.com/s/untw6tmd26piakq/moralluck-ho.pdf?dl=0) -->
 
 *Further readings*
 
 Williams, 'Moral luck' [pdf](https://www.dropbox.com/s/nspa85zhq6n98qv/Williams_Moral%20Luck.pdf?dl=0)
 
+<!-- Strawson, "Freedom and resentment" [pdf]
+(...) -->
+
 Strawson, 'Luck swallows everything' [pdf]('https://www.dropbox.com/s/mgcdqpbhbb1z05u/Luck_Swallows_Everything.pdf?dl=0')
 
 Lewis, 'The punishment that leaves something to change'[pdf](https://www.dropbox.com/s/jnonk0wjyt0uckt/lewis%20punishment%20copy.pdf?dl=0)
-
-- [lewis-handout](https://www.dropbox.com/s/8hl11nkyg5kebz9/lewis-attempts-lottery.pdf?dl=0)
+<!-- 
+- [lewis-handout](https://www.dropbox.com/s/8hl11nkyg5kebz9/lewis-attempts-lottery.pdf?dl=0) -->
 
 
 ## Week 10 
@@ -245,8 +247,3 @@ Shiffrin, 'Wrongful life, procreative responsibility, and the significance of ha
 <!-- Harman, 'Can we harm and benefit in creating?'[]() -->
 
 <!-- Arendt, the natality problem -->
-
-
-<!-- Setiya
-
-Abstract: Moral theory corrupts the youth. The epistemic assumptions of moral theory deprive us of resources needed to resist the challenge of moral disagreement, which its practice at the same time makes vivid. The talk concludes by sketching a kind of epistemology that could respond to disagreement without skepticism: one in which the fundamental standards of justification for moral belief are biased towards the truth. -->

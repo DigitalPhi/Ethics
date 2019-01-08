@@ -7,11 +7,12 @@
 
   * [Topics & readings](schedule.md)
   * [Assessment](assessment.md)
+  * [Bibliography](bibliography.md)
 
-* Discussion
+* Discussion tools (coming soon)
 
-  * [Collaborative writing](discussion.md)
-  * [Comment thread](disquis.md)
+  * [Collaborative writing](discussion)
+  * [Comment thread](disquis)
   
 <!-- * [coming soon](commento.md) -->
 
