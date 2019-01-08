@@ -5,7 +5,7 @@
 
 * Course material
 
-  * [Topics & readings](schedule.md)
+  * [Schedule of topics & readings](schedule.md)
   * [Assessment](assessment.md)
   * [Bibliography](bibliography.md)
 

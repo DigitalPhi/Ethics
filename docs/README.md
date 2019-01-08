@@ -88,7 +88,7 @@ Apologies for the delay -- H3N2 ('aussie flu') has been interfering with philoso
 | 4   | Tues 1700--1800 | [Gordon Square 16-18, B09](http://www.ucl.ac.uk/maps/18-gordon-square)                  | Sandri     |
 
 
-
+<!-- 
 ### Very brief schedule of topics
 
 <!-- <span style="font-variant:small-caps;"> brief schedule of topics</span> -->
@@ -106,6 +106,9 @@ Apologies for the delay -- H3N2 ('aussie flu') has been interfering with philoso
 | 05.03 | Impartiality & integrity   | Wolf & Williams   |
 | 12.03 | Responsibility & luck      | Nagel & Williams  |
 | 19.03 | Birth & future generations | Shiffrin & Parfit |
+
+
+ -->
 
 <!-- death and life
 taking life and giving birth -->
