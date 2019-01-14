@@ -9,5 +9,5 @@
 
 - TOPICS AND READINGS ARE AVAILABLE BELOW.
 
-[Get Started](#README.md)
-[Topics & Readings](#schedule.md)
+[Get Started](https://digitalphi.github.io/Ethics/#/README)
+[Topics & Readings](https://digitalphi.github.io/Ethics/#/schedule)
