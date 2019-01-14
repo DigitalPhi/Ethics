@@ -120,7 +120,7 @@ taking life and giving birth -->
 
 All the substantive course content will be available on this course website. There may be a few, minor changes going forward.
 
-You will find links to individual readings and handouts in the detailed schedule of topics [here](schedule.md).
+You will find links to individual readings and handouts in the detailed schedule of topics [here](https://digitalphi.github.io/Ethics/#/schedule).
 
 We will use the [UCL Moodle](https://moodle-1819.ucl.ac.uk/course/view.php?id=6543) to send email announcements and as the portal for submitting and receiving summative essays.
 

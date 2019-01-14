@@ -7,7 +7,7 @@
 
 - A survey of central questions and concepts of recent ethical theory. It's never too late for knowledge of good and evil.
 
-- WEBSITE CURRENTLY UNDERGOING MINOR CHANGES!!!
+- TOPICS AND READINGS ARE AVAILABLE BELOW.
 
-[Github](https://github.com/DigitalPhi/Ethics)
-[Get Started](#welcome)
+[Get Started](#README.md)
+[Topics & Readings](#schedule.md)
