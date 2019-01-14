@@ -1,2 +1,2 @@
 # Ethics
-Course material for ethics -- 2047
+Course material for ethics -- PHIL0024

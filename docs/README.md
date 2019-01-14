@@ -108,7 +108,6 @@ Apologies for the delay -- H3N2 ('aussie flu') has been interfering with philoso
 | 19.03 | Birth & future generations | Shiffrin & Parfit |
 
 
- -->
 
 <!-- death and life
 taking life and giving birth -->

@@ -31,6 +31,8 @@ Even if death is a harm in some circumstances, must it always be? Other things e
 
 Williams, 'The Makropulos case: reflections on the tedium of immortality' [pdf](https://www.dropbox.com/s/82d5pske01rrpup/Williams-Immortality.pdf?dl=0)
 
+Robert Nozick, 'The experience machine' [pdf](https://www.dropbox.com/s/y1e9popbljc58mw/nozick_experience_machine.pdf?dl=0)
+
 Parfit, 'What makes someone's life go best?' [pdf](https://www.dropbox.com/s/dkjysrvuvzei7ld/parfit_life_going_best.pdf?dl=0)
 
 
@@ -40,7 +42,6 @@ Parfit, 'What makes someone's life go best?' [pdf](https://www.dropbox.com/s/dkj
 
 *Futher readings*
 
-Robert Nozick, 'The experience machine' [pdf](https://www.dropbox.com/s/y1e9popbljc58mw/nozick_experience_machine.pdf?dl=0)
 
 Nozick, 'Happiness', [pdf](https://www.dropbox.com/s/3ucjmt4kp91q6ha/nozick_happiness_examined_life.pdf?dl=0)) from *Examined Life: philosophical meditations*
 
