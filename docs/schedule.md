@@ -22,6 +22,8 @@ Epicurus, 'Letter to Menoeceus' (selections) [pdf](https://www.dropbox.com/s/6nn
 
 McMahan, 'The Lucretian argument' [pdf](https://www.dropbox.com/s/dvuaxeh151f1hl0/Lucretian_Argument%20copy.pdf?dl=0)
 
+Wordsworth, 'Ode: Intimations of Immortality from Recollections of Early Childhood' [link](https://www.poetryfoundation.org/poems/45536/ode-intimations-of-immortality-from-recollections-of-early-childhood)
+
 
 ## Week 2
 
