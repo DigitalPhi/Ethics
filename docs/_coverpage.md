@@ -10,6 +10,6 @@
 - TOPICS AND READINGS ARE AVAILABLE BELOW. THERE IS NAVIGATION BAR WHICH MAKES MOVING AROUND THE SITE EASY. TO GO DIRECTLY TO THE TOPICS & READINGS CLICK [HERE](https://digitalphi.github.io/Ethics/#/schedule)
 
 
-[Welcome](#README)
+[Welcome](https://digitalphi.github.io/Ethics/#/README)
 
-[Schedule](#schedule)
+[Schedule](https://digitalphi.github.io/Ethics/#/schedule)
