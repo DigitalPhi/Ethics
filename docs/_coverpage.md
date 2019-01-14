@@ -7,9 +7,9 @@
 
 - A survey of central questions and concepts of recent ethical theory. It's never too late for knowledge of good and evil.
 
-- TOPICS AND READINGS ARE AVAILABLE BELOW. THERE IS NAVIGATION BAR WHICH MAKES MOVING AROUND THE SITE EASY. TO GO DIRECTLY TO THE TOPICS & READINGS CLICK [HERE](https://digitalphi.github.io/Ethics/#/schedule)
+- There is navigation bar which makes moving around the site easy. To go directly to the topics & readings click [HERE](https://digitalphi.github.io/Ethics/#/schedule). Just scroll down for general course details.
 
 
-[Welcome](https://digitalphi.github.io/Ethics/#/README)
+<!-- [Welcome](https://digitalphi.github.io/Ethics/#/README)
 
-[Schedule](https://digitalphi.github.io/Ethics/#/schedule)
+[Schedule](https://digitalphi.github.io/Ethics/#/schedule) -->
