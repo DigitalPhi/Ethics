@@ -1,36 +1,25 @@
 # Bibliography
 
+
 ## Selective general background readings
+
 
 ### Selected background readings
 
 Anscombe, G.E.M. 'Does Oxford moral philosophy corrupt the youth?' [pdf](https://www.dropbox.com/s/86vlta8tduzznmk/anscombe-moral-corrupt.pdf?dl=0) 
 
-<!-- Foot  -->
+Foot, Philippa. *Moral Dilemmas* [no link](---). Oxford University Press, 2002.
 
+Foot, Philippa. *Virtues and Vices* [no link](---). Oxford University Press, 2002
 
-
-Nagel, Thomas. *Mortal Questions* [link](https://github.com/UCL-PHIL/2047/blob/master/readings/Thomas%20Nagel-Mortal%20Questions-Cambridge%20University%20Press%20.pdf?raw=true). Cambridge University Press, 2012.
-
-<!-- Scheffler, Samuel. Consequentialism and Its Critics[](). Oxford University Press on Demand, 1988. -->
+Nagel, Thomas. *Mortal Questions* [no link](). Cambridge University Press, 2012.
 
 Smart, J.J.C., & Williams, Bernard. *Utilitarianism: For and Against* [pdf](https://www.dropbox.com/s/u4pdqfj9ltar3fb/smart_williams_utilitarianism.pdf?dl=0).
 
-Williams, Bernard. *Morality: an introduction* [pdf](https://www.dropbox.com/s/s81lm2zv7gdirac/Williams-Morality_%20An%20Introduction%20to%20Ethics.pdf?dl=0)
+Williams, Bernard. *Morality: an introduction* [link](https://www.dropbox.com/s/s81lm2zv7gdirac/Williams-Morality_%20An%20Introduction%20to%20Ethics.pdf?dl=0). Canto, 1993. Cambridge University Press, 1972.
 
+Scheffler, Samuel. *Consequentialism and Its Critics* [no link](---). Oxford University Press, 1988.
 
-
-Foot, Philippa. *Moral Dilemmas* [link](https://github.com/UCL-PHIL/2047/blob/master/readings/Foot_Moral_Dilemmas.pdf?raw=true). Oxford University Press, 2002.
-
-
-
-Scheffler, Samuel. *Consequentialism and Its Critics* [link](---). Oxford University Press, 1988.
-
-Smart, J.J.C., and Bernard Williams. *Utilitarianism: For and Against* [link](https://www.dropbox.com/s/u4pdqfj9ltar3fb/smart_williams_utilitarianism.pdf?dl=0)
-
-(https://github.com/UCL-PHIL/2047/blob/master/readings/J._J._C._Smart%2C_Bernard_Williams_Utilitarianism_For_and_Against__1973.pdf?raw=true). Cambridge University Press, 1973.
-
-Williams, Bernard. *Morality* [link](https://www.dropbox.com/s/s81lm2zv7gdirac/Williams-Morality_%20An%20Introduction%20to%20Ethics.pdf?dl=0). Canto, 1993. Cambridge University Press, 1972.
 
 
 

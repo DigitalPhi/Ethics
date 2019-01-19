@@ -10,9 +10,19 @@ All course material will be available on this website shortly. This module aims 
 
 For our introductory meeting on 08 January please read the following short texts:
 
-Lucretius, *On the Nature of Things* [pdf](https://www.dropbox.com/s/220199d8zq309xs/Lucretius_Death.pdf?dl=0) (selections, Book 3, 830-842 & 972-975)
+  - Lucretius, *On the Nature of Things* [pdf](https://www.dropbox.com/s/220199d8zq309xs/Lucretius_Death.pdf?dl=0) (selections, Book 3, 830-842 & 972-975)
 
-Nagel, 'Death' [pdf](https://www.dropbox.com/s/35etu00rvp50bd0/Nagel_Death.pdf?dl=0)
+  - Nagel, 'Death' [pdf](https://www.dropbox.com/s/35etu00rvp50bd0/Nagel_Death.pdf?dl=0)
+
+
+Apologies for the delay. The readings for the module are now available on this website. Handouts and supplementary materials for weeks already gone by to be posted shortly. For our next meeting (26 January) please read the following texts. Our main discussion will be of the Singer essay which considers the question *'How much, if at all, must we help others?'*.  <sub><small>January 18</small></sub>
+
+- Bentham, *Introduction to the Principles of Morals and Legislation*, chs. i–ii, v [link](https://www.utilitarianism.com/jeremy-bentham/index.html)
+
+- Rawls, 'Classical utilitarianism', [pdf](https://www.dropbox.com/s/tp22sfm0cpe10sx/rawls_classical_utilitarianism.pdf?dl=0) (short excerpt)
+
+- Singer, 'Famine, affluence and morality' [pdf](https://www.dropbox.com/s/di7mlljznyibsyz/Singer_Famine_Affluence_Morality%20copy.pdf?dl=0)
+
 
 
 
@@ -95,19 +105,24 @@ Apologies for the delay -- H3N2 ('aussie flu') has been interfering with philoso
 
 | Date  | Topic                      | Main reading      |
 |:------|:---------------------------|:------------------|
-| 08.01 | Death                      | Lucretius & Nagel |
-| 15.01 | Life                       | Williams & Parfit |
-| 22.01 | Others & action            | Feinberg & Butler |
-| 29.01 | Beneficience               | Bentham & Singer  |
-| 05.02 | Numbers                    | Taurek & Anscombe |
-| 12.02 | READING WEEK               | --                |
-| 19.02 | Justice                    | Foot              |
-| 26.02 | Justice                    | Thomson           |
-| 05.03 | Impartiality & integrity   | Wolf & Williams   |
-| 12.03 | Responsibility & luck      | Nagel & Williams  |
-| 19.03 | Birth & future generations | Shiffrin & Parfit |
+| 08.01 | What makes death bad       | Lucretius & Nagel |
+| 15.01 | What makes life good       | Williams & Parfit |
+| 22.01 | Beneficience               | Bentham & Singer  |
+| 29.01 | Justice                    | Nagel             |
+| 05.02 | Justice                    | Foot              |
+| 12.02 | READING WEEK               | ----              |
+| 19.02 | Numbers                    | Anscombe & Taurek |
+| 26.02 | Self-defense               | Thomson & Otsuka  |
+| 05.03 | tbd                        | tbd               |
+| 12.03 | Birth & future generations | Shiffrin & Parfit |
+| 19.03 | Responsibility & luck      | Nagel & Williams  |
 
 
+
+
+<!-- 
+Impartiality & integrity
+Wolf & Williams -->
 
 <!-- death and life
 taking life and giving birth -->
@@ -120,7 +135,7 @@ taking life and giving birth -->
 
 All the substantive course content will be available on this course website. There may be a few, minor changes going forward.
 
-You will find links to individual readings and handouts in the detailed schedule of topics [here](https://digitalphi.github.io/Ethics/#/schedule) as well as in the navigation bar.
+You will find links to individual readings and handouts in the detailed schedule of topics [here](/schedule) as well as in the navigation bar.
 
 We will use the [UCL Moodle](https://moodle-1819.ucl.ac.uk/course/view.php?id=6543) to send email announcements and as the portal for submitting and receiving summative essays.
 
