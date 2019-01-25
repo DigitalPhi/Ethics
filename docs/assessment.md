@@ -7,7 +7,7 @@
 
 * An essay of 2500 words (PHIL0024).
 * Questions will be distributed well in advance. 
-* Due date tbd
+* Due date The standard submission deadline for term 2 is Tuesday 23rd April 2019 at 1600. (First day of Term 3). 
 
 
 
