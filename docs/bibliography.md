@@ -59,4 +59,6 @@ Nietzsche -->
 
 
 ## Further topics -->
-
+<!-- 
+• Sammuel Scheffler. (Ed.) Consequentialism and its Critics (Contains numerous relevant papers, including papers by Williams, Nozick, Foot and Scheffler).
+• Kamm, Frances. (2000) ‘Nonconsequentialism’, sections I-VI, The Blackwell Guide to Ethical Theory. Ed. Hugh LaFolette. Oxford: Blackwell. -->

@@ -10,6 +10,6 @@
 - There is navigation bar which makes moving around the site easy. To go directly to the topics & readings click [HERE](https://digitalphi.github.io/Ethics/#/schedule). Just scroll down for general course details.
 
 
-<!-- [Welcome](https://digitalphi.github.io/Ethics/#/README)
+[Welcome](#welcome)
 
-[Schedule](https://digitalphi.github.io/Ethics/#/schedule) -->
+[Schedule](/schedule)

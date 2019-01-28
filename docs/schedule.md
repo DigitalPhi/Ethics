@@ -114,6 +114,8 @@ Nagel, 'War and massacre' [pdf](https://www.dropbox.com/s/nytpwlbk5xe611w/Nagel.
 
 *Further readings*
 
+Anscombe, 'Mr Truman’s degree' [pdf](https://www.dropbox.com/s/0fn471tm1a01tzx/anscombe-truman.pdf?dl=0)
+
 Nozick, *Anarchy, state, and utopia*, pp. 28–33 (rights as side-constraints) [pdf](https://www.dropbox.com/s/nqhi1c9owcvb2zj/Nozick_Anarchy%2C_State%2C_and_Utopia%28.pdf?dl=0)
 
 
