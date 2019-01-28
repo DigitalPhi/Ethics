@@ -119,6 +119,8 @@ Anscombe, 'Mr Truman’s degree' [pdf](https://www.dropbox.com/s/0fn471tm1a01tzx
 Nozick, *Anarchy, state, and utopia*, pp. 28–33 (rights as side-constraints) [pdf](https://www.dropbox.com/s/nqhi1c9owcvb2zj/Nozick_Anarchy%2C_State%2C_and_Utopia%28.pdf?dl=0)
 
 
+<!-- right and wrong, tension, absolutism, rights, integrity, paradox of deont...  -->
+
 
 ## Week 5
 
