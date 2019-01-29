@@ -31,7 +31,7 @@ Even if death is a harm in some circumstances, must it always be? Other things e
 
 Williams, 'The Makropulos case: reflections on the tedium of immortality' [pdf](https://www.dropbox.com/s/82d5pske01rrpup/Williams-Immortality.pdf?dl=0)
 
-<!-- handout on immortality, boredom and integrity  -->
+<!-- handout on immortality, boredom  -->
 
   - Further reading: Mooore, A.W., 'Williams, Nietzsche, and the Meaninglessness of Immortality' [pdf](https://www.dropbox.com/s/35iek3v3f0bffv9/aw-moore-immortality.pdf?dl=0)
 
@@ -77,6 +77,8 @@ Singer, 'Famine, affluence and morality' [pdf](https://www.dropbox.com/s/di7mllj
 
 *Further readings*
 
+<!-- Bentham attack on the doctrine of universal human rights! Bedau commentary. -->
+
 Mill, 'Bentham' [pdf](https://www.dropbox.com/s/zp74s0dpb5se3f0/Mill%20on%20Bentham.pdf?dl=0)
 
 - The Bentham Project at UCL [link](https://www.ucl.ac.uk/bentham-project)
@@ -85,12 +87,16 @@ Murphy, 'The demands of beneficence' [pdf](https://www.dropbox.com/s/2ghgm2sg095
 
 <!-- [handout-MURPHY]() -->
 
+Nagel, 'Right and wrong' [pdf](---)
+
+
+
 <!-- 
+
+The integrity objection to consequentialism -- 
 *Readings*
 
 Bernard Williams, 'A Critique of utilitarianism,' §§3-5. [pdf](https://www.dropbox.com/s/rxy25wlyd9ut4ji/A_critique_of_utilitarianism%20copy.pdf?dl=0)
-
-*Further readings*
 
 Peter Railton, ‘Alienation, consequentialism and the demands of morality’, [pdf](https://www.dropbox.com/s/qwj5j3b2yyw21ib/railton_alienation.pdf?dl=0) -->
 
@@ -119,7 +125,15 @@ Anscombe, 'Mr Truman’s degree' [pdf](https://www.dropbox.com/s/0fn471tm1a01tzx
 Nozick, *Anarchy, state, and utopia*, pp. 28–33 (rights as side-constraints) [pdf](https://www.dropbox.com/s/nqhi1c9owcvb2zj/Nozick_Anarchy%2C_State%2C_and_Utopia%28.pdf?dl=0)
 
 
-<!-- right and wrong, tension, absolutism, rights, integrity, paradox of deont...  -->
+<!-- nature and value of rights [pdf](https://www.dropbox.com/s/audhzfpcitkmntq/FeinbergTheNatureandValueofRights.pdf?dl=0) 
+
+
+<!-- Bentham, nonsense upon stilts, [pdf](https://www.dropbox.com/s/k05x50wuyc0uom3/bentham-Nonsense-upon-Stilts.pdf?dl=0)  in Bentham. Rights, Representation, and Reform : Nonsense upon Stilts and Other Writings on the French Revolution /. Oxford :: Oxford University Press. -->
+
+
+Nagel, 'The value of inviolability'
+Kamm, 'Moral status'-->
+
 
 
 ## Week 5
@@ -144,7 +158,6 @@ Bennett, 'Whatever the consequences' [pdf](https://www.dropbox.com/s/sp4s5zjy1aj
 
 <!-- [handout-TROLLEY](coming soon) -->
 
-<!-- Nozick, *Anarchy, state, and utopia*, pp. 28–33 (rights as side-constraints) [pdf](https://www.dropbox.com/s/nqhi1c9owcvb2zj/Nozick_Anarchy%2C_State%2C_and_Utopia%28.pdf?dl=0)  -->
 
 
 <!-- 
@@ -273,7 +286,7 @@ Williams, 'Persons, character and morality' [pdf](https://www.dropbox.com/s/fn56
 Wolf, 'Morality and partiality' [pdf](https://www.dropbox.com/s/l1603a1jtw5jwqs/wolf_morality_partiality.pdf?dl=0) -->
 
 
-
+<!-- railton, https://www.dropbox.com/s/qwj5j3b2yyw21ib/railton_alienation.pdf?dl=0 -->
 
 
 <!-- Nagel, 'Rignt and wrong', [pdf]() -->

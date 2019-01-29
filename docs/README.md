@@ -105,20 +105,19 @@ Apologies for the delay -- H3N2 ('aussie flu') has been interfering with philoso
 
 <!-- <span style="font-variant:small-caps;"> brief schedule of topics</span> -->
 
-| Date  | Topic                      | Main reading      |
-|:------|:---------------------------|:------------------|
-| 08.01 | What makes death bad       | Lucretius & Nagel |
-| 15.01 | What makes life good       | Williams & Parfit |
-| 22.01 | Beneficience               | Bentham & Singer  |
-| 29.01 | Justice                    | Nagel             |
-| 05.02 | Justice                    | Foot              |
-| 12.02 | READING WEEK               | ----              |
-| 19.02 | Numbers                    | Anscombe & Taurek |
-| 26.02 | Self-defense               | Thomson & Otsuka  |
-| 05.03 | tbd                        | tbd               |
-| 12.03 | Birth & future generations | Shiffrin & Parfit |
-| 19.03 | Responsibility & luck      | Nagel & Williams  |
-
+| Date  | Topic                           | Main reading            | Theme         |
+|:------|:--------------------------------|:------------------------|:--------------|
+| 08.01 | What makes death bad            | Lucretius & Nagel       | bad for me    |
+| 15.01 | What makes life good            | Williams & Parfit       | good for me   |
+| 22.01 | Condequentialism & beneficience | Bentham & Singer        | right & wrong |
+| 29.01 | Means, ends, & justice          | Nagel & Anscombe        |               |
+| 05.02 | Justice                         | Anscombe & Foot         | dde & dda     |
+| 12.02 | READING WEEK                    | ----                    |               |
+| 19.02 | Numbers                         | Anscombe & Taurek       | equality      |
+| 26.02 | Self-defense                    | Thomson & Otsuka        | oneself       |
+| 05.03 | tbd                             | tbd                     |               |
+| 12.03 | Birth & future generations      | Shiffrin & Parfit       |               |
+| 19.03 | Responsibility & luck           | Williams, Railton, Wolf | integrity     |
 
 
 
@@ -129,7 +128,11 @@ Wolf & Williams -->
 <!-- death and life
 taking life and giving birth -->
 <!-- self-defense, inviolability, good/bad right/wrong wronging/doingrightby -->
-<!-- nagel, war and massacre, thomson&otsuka self-defense, feinberg, rights, and paradox of deonto, bentham/smart/? power of utilitarianism and really consequentialism! and some interesting form of amoralism! -->
+<!-- nagel, war and massacre, thomson&otsuka self-defense, feinberg, rights, and paradox of deonto, bentham/smart/? power of utilitarianism and really consequentialism! and some interesting form of amoralism! 
+
+Feinberg, Omelas, Rights!
+
+-->
 
 
 
