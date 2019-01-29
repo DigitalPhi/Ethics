@@ -1,10 +1,7 @@
 # Bibliography
 
 
-## Selective general background readings
-
-
-### Selected background readings
+## Selected background readings
 
 Anscombe, G.E.M. 'Does Oxford moral philosophy corrupt the youth?' [pdf](https://www.dropbox.com/s/86vlta8tduzznmk/anscombe-moral-corrupt.pdf?dl=0) 
 
