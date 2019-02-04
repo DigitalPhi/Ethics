@@ -11,7 +11,7 @@ Precise contents may vary slightly by year. Some topics include: the nature of t
 All course material will be available on this website shortly. This module aims to be orderly and edifying. Who knows, it may even help us to live better lives. 
 
 
-Reminder -- The main reading for lecture and discussion sections this week (05 February) is Philippa Foot's 'The problem of abortion and the doctrine of double effect' [pdf](https://www.dropbox.com/s/30gogqhbnslx5nq/foot-dde-chapter-2.pdf?dl=0)). Link to the reading and supporting materials are also available below. Formative essay questions will be posted later this week. <sub><small>February 03</small></sub> 
+Reminder -- The main reading for lecture and discussion sections this week (05 February) is Philippa Foot's 'The problem of abortion and the doctrine of double effect' [pdf](https://www.dropbox.com/s/30gogqhbnslx5nq/foot-dde-chapter-2.pdf?dl=0). Link to the reading and supporting materials are also available below. Formative essay questions will be posted later this week. <sub><small>February 03</small></sub> 
 
 
 Apologies for the delay. The readings for the module are now available on this website. Handouts and supplementary materials for weeks already gone by to be posted shortly. For our next meeting (26 January) please read the following texts. Our main discussion will be of the Singer essay which considers the question *'How much, if at all, must we help others?'*.  <sub><small>January 18</small></sub>
