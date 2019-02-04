@@ -8,25 +8,26 @@ Precise contents may vary slightly by year. Some topics include: the nature of t
 
 ## Announcements
 
-All course material will be available on this website shortly. This module aims to be orderly and edifying. Who knows, it may even help us to live better lives. <sub><small>January 7</small></sub>
+All course material will be available on this website shortly. This module aims to be orderly and edifying. Who knows, it may even help us to live better lives. 
 
-For our introductory meeting on 08 January please read the following short texts:
 
-  - Lucretius, *On the Nature of Things* [pdf](https://www.dropbox.com/s/220199d8zq309xs/Lucretius_Death.pdf?dl=0) (selections, Book 3, 830-842 & 972-975)
-
-  - Nagel, 'Death' [pdf](https://www.dropbox.com/s/35etu00rvp50bd0/Nagel_Death.pdf?dl=0)
+Reminder -- The main reading for lecture and discussion sections this week (05 February) is Philippa Foot's 'The problem of abortion and the doctrine of double effect' [pdf](https://www.dropbox.com/s/30gogqhbnslx5nq/foot-dde-chapter-2.pdf?dl=0)). Link to the reading and supporting materials are also available below. Formative essay questions will be posted later this week. <sub><small>February 03</small></sub> 
 
 
 Apologies for the delay. The readings for the module are now available on this website. Handouts and supplementary materials for weeks already gone by to be posted shortly. For our next meeting (26 January) please read the following texts. Our main discussion will be of the Singer essay which considers the question *'How much, if at all, must we help others?'*.  <sub><small>January 18</small></sub>
 
-- Bentham, *Introduction to the Principles of Morals and Legislation*, chs. i–ii, v [link](https://www.utilitarianism.com/jeremy-bentham/index.html)
+  - Bentham, *Introduction to the Principles of Morals and Legislation*, chs. i–ii, v [link](https://www.utilitarianism.com/jeremy-bentham/index.html)
 
-- Rawls, 'Classical utilitarianism', [pdf](https://www.dropbox.com/s/tp22sfm0cpe10sx/rawls_classical_utilitarianism.pdf?dl=0) (short excerpt)
+  - Rawls, 'Classical utilitarianism', [pdf](https://www.dropbox.com/s/tp22sfm0cpe10sx/rawls_classical_utilitarianism.pdf?dl=0) (short excerpt)
 
-- Singer, 'Famine, affluence and morality' [pdf](https://www.dropbox.com/s/di7mlljznyibsyz/Singer_Famine_Affluence_Morality%20copy.pdf?dl=0)
+  - Singer, 'Famine, affluence and morality' [pdf](https://www.dropbox.com/s/di7mlljznyibsyz/Singer_Famine_Affluence_Morality%20copy.pdf?dl=0)
 
 
+For our introductory meeting on 08 January please read the following short texts: <sub><small>January 08</small></sub>
 
+  - Lucretius, *On the Nature of Things* [pdf](https://www.dropbox.com/s/220199d8zq309xs/Lucretius_Death.pdf?dl=0) (selections, Book 3, 830-842 & 972-975)
+
+  - Nagel, 'Death' [pdf](https://www.dropbox.com/s/35etu00rvp50bd0/Nagel_Death.pdf?dl=0)
 
 
 <!-- For those who expressed interest in writing on the content of the last scheduled meeting, I've added a few questions to the list of essay topics [link](https://www.dropbox.com/s/30tvn21e7x25w3x/essay_topics.pdf?dl=0). In addition, I'm holding extended office hours this Wednesday (May 2nd from 1500 to 1800). You're welcome to drop-by.<sub style="color:red"><small>Posted April 30</small></sub>
@@ -110,8 +111,8 @@ Apologies for the delay -- H3N2 ('aussie flu') has been interfering with philoso
 | 08.01 | What makes death bad            | Lucretius & Nagel       | bad for me    |
 | 15.01 | What makes life good            | Williams & Parfit       | good for me   |
 | 22.01 | Condequentialism & beneficience | Bentham & Singer        | right & wrong |
-| 29.01 | Means, ends, & justice          | Nagel & Anscombe        |               |
-| 05.02 | Justice                         | Anscombe & Foot         | dde & dda     |
+| 29.01 | Means, ends, & justice          | Nagel & Anscombe        | ends & means  |
+| 05.02 | Justice                         | Foot & Anscombe         | dde & dda     |
 | 12.02 | READING WEEK                    | ----                    |               |
 | 19.02 | Numbers                         | Anscombe & Taurek       | equality      |
 | 26.02 | Self-defense                    | Thomson & Otsuka        | oneself       |
