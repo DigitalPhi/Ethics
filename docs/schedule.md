@@ -67,13 +67,12 @@ Bentham, *Introduction to the Principles of Morals and Legislation*, chs. i–ii
 
 Rawls, 'Classical utilitarianism', [pdf](https://www.dropbox.com/s/tp22sfm0cpe10sx/rawls_classical_utilitarianism.pdf?dl=0) (short excerpt)
 
-<!-- - [handout-utilitarianism](https://www.dropbox.com/s/v60e9h8xq5ujjye/UtilitarianismHO.pdf?dl=0) -->
+- [handout-utilitarianism](https://www.dropbox.com/s/2z47i4d0xoz5br4/UtilitarianismHO-2019.pdf?dl=0)
 
 Singer, 'Famine, affluence and morality' [pdf](https://www.dropbox.com/s/di7mlljznyibsyz/Singer_Famine_Affluence_Morality%20copy.pdf?dl=0)
 
-<!-- 
 - [handout-singer](https://www.dropbox.com/s/obyonr4l99owerk/Singer%20HO.pdf?dl=0)
- -->
+
 
 *Further readings*
 
@@ -81,15 +80,15 @@ Singer, 'Famine, affluence and morality' [pdf](https://www.dropbox.com/s/di7mllj
 
 Mill, 'Bentham' [pdf](https://www.dropbox.com/s/zp74s0dpb5se3f0/Mill%20on%20Bentham.pdf?dl=0)
 
-- The Bentham Project at UCL [link](https://www.ucl.ac.uk/bentham-project)
+  - The Bentham Project at UCL [link](https://www.ucl.ac.uk/bentham-project)
 
 Murphy, 'The demands of beneficence' [pdf](https://www.dropbox.com/s/2ghgm2sg095cg6p/Murphy_Demands_Beneficence_Notes%20copy.pdf?dl=0)
 
 <!-- [handout-MURPHY]() -->
 
-Nagel, 'Right and wrong' [pdf](---)
+M. Snow, 'Against charity' [link](https://www.jacobinmag.com/2015/08/peter-singer-charity-effective-altruism) (suggested by Ines Georgis from our class)
 
-
+Nagel, 'Right and wrong' [pdf](https://www.dropbox.com/s/bxv4dij20ebl93o/nagel-right-wrong.pdf?dl=0)
 
 <!-- 
 
@@ -131,8 +130,8 @@ Nozick, *Anarchy, state, and utopia*, pp. 28–33 (rights as side-constraints) [
 <!-- Bentham, nonsense upon stilts, [pdf](https://www.dropbox.com/s/k05x50wuyc0uom3/bentham-Nonsense-upon-Stilts.pdf?dl=0)  in Bentham. Rights, Representation, and Reform : Nonsense upon Stilts and Other Writings on the French Revolution /. Oxford :: Oxford University Press. -->
 
 
-Nagel, 'The value of inviolability'
-Kamm, 'Moral status'-->
+<!-- Nagel, 'The value of inviolability'
+Kamm, 'Moral status' -->
 
 
 
