@@ -67,11 +67,11 @@ Bentham, *Introduction to the Principles of Morals and Legislation*, chs. i–ii
 
 Rawls, 'Classical utilitarianism', [pdf](https://www.dropbox.com/s/tp22sfm0cpe10sx/rawls_classical_utilitarianism.pdf?dl=0) (short excerpt)
 
-- [handout-utilitarianism](https://www.dropbox.com/s/2z47i4d0xoz5br4/UtilitarianismHO-2019.pdf?dl=0)
+  - [handout-utilitarianism](https://www.dropbox.com/s/2z47i4d0xoz5br4/UtilitarianismHO-2019.pdf?dl=0)
 
 Singer, 'Famine, affluence and morality' [pdf](https://www.dropbox.com/s/di7mlljznyibsyz/Singer_Famine_Affluence_Morality%20copy.pdf?dl=0)
 
-- [handout-singer](https://www.dropbox.com/s/obyonr4l99owerk/Singer%20HO.pdf?dl=0)
+    - [handout-singer](https://www.dropbox.com/s/obyonr4l99owerk/Singer%20HO.pdf?dl=0)
 
 
 *Further readings*
@@ -90,16 +90,7 @@ M. Snow, 'Against charity' [link](https://www.jacobinmag.com/2015/08/peter-singe
 
 Nagel, 'Right and wrong' [pdf](https://www.dropbox.com/s/bxv4dij20ebl93o/nagel-right-wrong.pdf?dl=0)
 
-<!-- 
 
-The integrity objection to consequentialism -- 
-*Readings*
-
-Bernard Williams, 'A Critique of utilitarianism,' §§3-5. [pdf](https://www.dropbox.com/s/rxy25wlyd9ut4ji/A_critique_of_utilitarianism%20copy.pdf?dl=0)
-
-Peter Railton, ‘Alienation, consequentialism and the demands of morality’, [pdf](https://www.dropbox.com/s/qwj5j3b2yyw21ib/railton_alienation.pdf?dl=0) -->
-
-<!-- Examines the place of immediate personal motivations (such as affection for a family member or close friend) in an ultimately impersonal morality. Argues that consequentialism should not, by its own lights, be constantly employed in decisionmaking, but that this does not show that consequentialism is self-defeating. Discusses the various senses in which a moral theory may involve “alienation”.  -->
 
 <!-- *Further readings* -->
 
@@ -182,7 +173,7 @@ Suicide
 
 Topics for formative essays will posted at the beginning of reading week. 
 
-<!-- [essay topics](https://www.dropbox.com/s/30tvn21e7x25w3x/essay_topics.pdf?dl=0) -->
+[essay topics](https://www.dropbox.com/s/ovmi64olop1tdol/ethics_essay_topics_2019.pdf?dl=0)
 
 
 ## Week 7
@@ -314,5 +305,16 @@ Rachels, 'Ethical egoism' [link](https://www.dropbox.com/s/nkrqeflvs417xhc/Rache
 But would be better to frame as about: The humean theory of motivation and the authority of morality -->
 
 
+<!-- 
 
- 
+The integrity objection to consequentialism -- 
+*Readings*
+
+Bernard Williams, 'A Critique of utilitarianism,' §§3-5. [pdf](https://www.dropbox.com/s/rxy25wlyd9ut4ji/A_critique_of_utilitarianism%20copy.pdf?dl=0)
+
+Peter Railton, ‘Alienation, consequentialism and the demands of morality’, [pdf](https://www.dropbox.com/s/qwj5j3b2yyw21ib/railton_alienation.pdf?dl=0) -->
+
+<!-- Examines the place of immediate personal motivations (such as affection for a family member or close friend) in an ultimately impersonal morality. Argues that consequentialism should not, by its own lights, be constantly employed in decisionmaking, but that this does not show that consequentialism is self-defeating. Discusses the various senses in which a moral theory may involve “alienation”.  -->
+
+
+
