@@ -143,7 +143,7 @@ Feinberg, Omelas, Rights!
 
 All the substantive course content will be available on this course website. There may be a few, minor changes going forward.
 
-You will find links to individual readings and handouts in the detailed schedule of topics [here](/schedule) as well as in the navigation bar.
+You will find links to individual readings and handouts in the detailed schedule of topics [here](/schedule) as well as in the navigation bar. Further details about assessment are [here](/assessment).
 
 We will use the [UCL Moodle](https://moodle-1819.ucl.ac.uk/course/view.php?id=6543) to send email announcements and as the portal for submitting and receiving summative essays.
 
