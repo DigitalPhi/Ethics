@@ -171,9 +171,7 @@ Suicide
 
 ## Week 6 -- READING WEEK
 
-Topics for formative essays will posted at the beginning of reading week. 
-
-[essay topics](https://www.dropbox.com/s/ovmi64olop1tdol/ethics_essay_topics_2019.pdf?dl=0)
+Topics for formative essays will posted at the beginning of reading week. Available here [pdf](https://www.dropbox.com/s/ovmi64olop1tdol/ethics_essay_topics_2019.pdf?dl=0)
 
 
 ## Week 7

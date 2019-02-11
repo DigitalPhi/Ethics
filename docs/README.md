@@ -11,6 +11,9 @@ Precise contents may vary slightly by year. Some topics include: the nature of t
 All course material will be available on this website shortly. This module aims to be orderly and edifying. Who knows, it may even help us to live better lives. 
 
 
+Formative essay topics now available. <sub><small>February 10</small></sub> 
+
+
 Reminder -- The main reading for lecture and discussion sections this week (05 February) is Philippa Foot's 'The problem of abortion and the doctrine of double effect' [pdf](https://www.dropbox.com/s/30gogqhbnslx5nq/foot-dde-chapter-2.pdf?dl=0). Link to the reading and supporting materials are also available below. Formative essay questions will be posted later this week. <sub><small>February 03</small></sub> 
 
 
@@ -106,20 +109,19 @@ Apologies for the delay -- H3N2 ('aussie flu') has been interfering with philoso
 
 <!-- <span style="font-variant:small-caps;"> brief schedule of topics</span> -->
 
-| Date  | Topic                           | Main reading            | Theme            |
-|:------|:--------------------------------|:------------------------|:-----------------|
-| 08.01 | What makes death bad            | Lucretius & Nagel       | bad for me       |
-| 15.01 | What makes life good            | Williams & Parfit       | good for me      |
-| 22.01 | Condequentialism & beneficience | Bentham & Singer        | right & wrong    |
-| 29.01 | Means, ends, & justice          | Nagel & Anscombe        | ends & means     |
-| 05.02 | Justice                         | Foot & Anscombe         | dde & dda        |
-| 12.02 | READING WEEK                    | ----                    |                  |
-| 19.02 | Numbers                         | Taurek & Anscombe       | equality         |
-| 26.02 | Self-defense                    | Thomson & Otsuka        | oneself          |
-| 05.03 | tbd                             | tbd                     | tbd              |
-| 12.03 | Future people                   | Shiffrin & Parfit       | wrongful life    |
-| 19.03 | Responsibility & luck           | Williams, Railton, Wolf | integrity & luck |
-
+| Date  | Topic                           | Main reading            | Theme         |
+|:------|:--------------------------------|:------------------------|:--------------|
+| 08.01 | What makes death bad            | Lucretius & Nagel       | bad for me    |
+| 15.01 | What makes life good            | Williams & Parfit       | good for me   |
+| 22.01 | Condequentialism & beneficience | Bentham & Singer        | right & wrong |
+| 29.01 | Means, ends, & justice          | Nagel & Anscombe        | ends & means  |
+| 05.02 | Justice                         | Foot & Anscombe         | dde & dda     |
+| 12.02 | READING WEEK                    | ----                    |               |
+| 19.02 | Numbers                         | Taurek & Anscombe       | equality      |
+| 26.02 | Self-defense                    | Thomson & Otsuka        | oneself       |
+| 05.03 | Future people                   | Shiffrin & Parfit       | wrongful life |
+| 19.03 | Integrity and impartiality      | Willians, Railton, Wolf | integrity     |
+| 12.03 | Moral luck                      | Nagel                   | luck          |
 
 
 <!-- 

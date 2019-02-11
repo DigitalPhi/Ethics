@@ -21,7 +21,7 @@ You are encouraged to write a formative essay during the reading week. Questions
 
 Due date tbd
 
-<!-- Topics now available [pdf](https://www.dropbox.com/s/30tvn21e7x25w3x/essay_topics.pdf?dl=0) -->
+Topics for formative essays available here [pdf](https://www.dropbox.com/s/ovmi64olop1tdol/ethics_essay_topics_2019.pdf?dl=0)
 
 
 ## Discussion questions
