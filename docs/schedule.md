@@ -3,7 +3,7 @@
 
 ## Week 1
 
-Does death harm the one who dies? Even if death is a harm in some circumstances, must it always be? Other things equal, would it be good to be immortal?
+Does death harm the one who dies?
 
 *Readings*
 
@@ -25,7 +25,10 @@ Wordsworth, 'Ode: Intimations of Immortality from Recollections of Early Childho
 
 ## Week 2
 
-Even if death is a harm in some circumstances, must it always be? Other things equal, would it be good to be immortal? What makes a person’s life go better? Is pleasure the only ultimate source of value? Are a person's preferences the only measure of how well his or her life is going?
+Even if death is a harm in some circumstances, must it always be? Other things equal, would it be good to be immortal? 
+
+What makes a person’s life go better? Is pleasure the only ultimate source of value? Are a person's preferences the only measure of how well his or her life is going?
+
 
 *Readings*
 
@@ -71,58 +74,65 @@ Rawls, 'Classical utilitarianism', [pdf](https://www.dropbox.com/s/tp22sfm0cpe10
 
 Singer, 'Famine, affluence and morality' [pdf](https://www.dropbox.com/s/di7mlljznyibsyz/Singer_Famine_Affluence_Morality%20copy.pdf?dl=0)
 
-    - [handout-singer](https://www.dropbox.com/s/obyonr4l99owerk/Singer%20HO.pdf?dl=0)
+  - [handout-singer](https://www.dropbox.com/s/obyonr4l99owerk/Singer%20HO.pdf?dl=0)
 
 
 *Further readings*
 
-<!-- Bentham attack on the doctrine of universal human rights! Bedau commentary. -->
+1. On the concepts of 'right and wrong' in general and the specifically utilitarian account of morality
+
+Nagel, 'Right and wrong' [pdf](https://www.dropbox.com/s/bxv4dij20ebl93o/nagel-right-wrong.pdf?dl=0) (this short excerpt is about what one is seeking in seeking to understand 'right and wrong' or again morality.)
 
 Mill, 'Bentham' [pdf](https://www.dropbox.com/s/zp74s0dpb5se3f0/Mill%20on%20Bentham.pdf?dl=0)
 
   - The Bentham Project at UCL [link](https://www.ucl.ac.uk/bentham-project)
 
+<!-- Bentham attack on the doctrine of universal human rights! Bedau commentary. -->
+
+
+2. On the question: 'How much, if at all, must we help others?'
+
 Murphy, 'The demands of beneficence' [pdf](https://www.dropbox.com/s/2ghgm2sg095cg6p/Murphy_Demands_Beneficence_Notes%20copy.pdf?dl=0)
 
-<!-- [handout-MURPHY]() -->
+  <!-- [handout-MURPHY]() -->
+
+
+G. Cullity, 'Asking too much' [pdf](https://www.dropbox.com/s/p4es08fupn144xw/cullity-asking_too_much.pdf?dl=0)
+
+P. Hurley, 'Fairness and beneficience' [pdf](https://www.dropbox.com/s/egndz925lsg80vr/hurley-fairness-beneficence.pdf?dl=0)
 
 M. Snow, 'Against charity' [link](https://www.jacobinmag.com/2015/08/peter-singer-charity-effective-altruism) (suggested by Ines Georgis from our class)
-
-Nagel, 'Right and wrong' [pdf](https://www.dropbox.com/s/bxv4dij20ebl93o/nagel-right-wrong.pdf?dl=0)
-
-
-
-<!-- *Further readings* -->
-
-<!-- Cullity, 'Asking too much' [pdf](https://www.dropbox.com/s/p4es08fupn144xw/cullity-asking_too_much.pdf?dl=0) -->
-
-<!-- Hurley, 'Fairness and beneficience' [pdf](https://www.dropbox.com/s/egndz925lsg80vr/hurley-fairness-beneficence.pdf?dl=0) -->
 
 
 
 
 ## Week 4
 
+<!-- Topics and objections -- does utilitarianism or consequentialism demand too little, does anything go in  -->
+
 *Readings*
 
 Nagel, 'War and massacre' [pdf](https://www.dropbox.com/s/nytpwlbk5xe611w/Nagel.War%20and%20Massacre-1.pdf?dl=0)
 
+<!-- [handout-nagel](???) -->
 
 *Further readings*
 
-Anscombe, 'Mr Truman’s degree' [pdf](https://www.dropbox.com/s/0fn471tm1a01tzx/anscombe-truman.pdf?dl=0)
+Anscombe, 'Mr Truman’s degree', [pdf](https://www.dropbox.com/s/0fn471tm1a01tzx/anscombe-truman.pdf?dl=0)
 
-Nozick, *Anarchy, state, and utopia*, pp. 28–33 (rights as side-constraints) [pdf](https://www.dropbox.com/s/nqhi1c9owcvb2zj/Nozick_Anarchy%2C_State%2C_and_Utopia%28.pdf?dl=0)
+Nozick, *Anarchy, state, and utopia*, [pdf](https://www.dropbox.com/s/nqhi1c9owcvb2zj/Nozick_Anarchy%2C_State%2C_and_Utopia%28.pdf?dl=0) pp. 28–33 (rights as side-constraints)
 
 
-<!-- nature and value of rights [pdf](https://www.dropbox.com/s/audhzfpcitkmntq/FeinbergTheNatureandValueofRights.pdf?dl=0) 
+<!-- nature and value of rights [pdf](https://www.dropbox.com/s/audhzfpcitkmntq/FeinbergTheNatureandValueofRights.pdf?dl=0)  
 
 
 <!-- Bentham, nonsense upon stilts, [pdf](https://www.dropbox.com/s/k05x50wuyc0uom3/bentham-Nonsense-upon-Stilts.pdf?dl=0)  in Bentham. Rights, Representation, and Reform : Nonsense upon Stilts and Other Writings on the French Revolution /. Oxford :: Oxford University Press. -->
 
 
-<!-- Nagel, 'The value of inviolability'
-Kamm, 'Moral status' -->
+<!-- 
+Nagel, 'The value of inviolability' 
+Kamm, 'Moral status' 
+-->
 
 
 
@@ -277,7 +287,6 @@ Wolf, 'Morality and partiality' [pdf](https://www.dropbox.com/s/l1603a1jtw5jwqs/
 <!-- railton, https://www.dropbox.com/s/qwj5j3b2yyw21ib/railton_alienation.pdf?dl=0 -->
 
 
-<!-- Nagel, 'Rignt and wrong', [pdf]() -->
 
 <!-- Egoism and altruism
 
@@ -303,9 +312,13 @@ Rachels, 'Ethical egoism' [link](https://www.dropbox.com/s/nkrqeflvs417xhc/Rache
 But would be better to frame as about: The humean theory of motivation and the authority of morality -->
 
 
+
+
+
 <!-- 
 
-The integrity objection to consequentialism -- 
+The integrity objection to consequentialism
+
 *Readings*
 
 Bernard Williams, 'A Critique of utilitarianism,' §§3-5. [pdf](https://www.dropbox.com/s/rxy25wlyd9ut4ji/A_critique_of_utilitarianism%20copy.pdf?dl=0)

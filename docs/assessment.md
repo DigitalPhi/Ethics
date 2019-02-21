@@ -19,10 +19,11 @@
 
 You are encouraged to write a formative essay during the reading week. Questions will be distributed in advance. Any of these can also serve to set the topic for your summative essay.
 
-Due date tbd
+Due date February 25th at 23.00.
 
-Topics for formative essays available here [pdf](https://www.dropbox.com/s/ovmi64olop1tdol/ethics_essay_topics_2019.pdf?dl=0)
+Topics for formative essays available here: [pdf](https://www.dropbox.com/s/ovmi64olop1tdol/ethics_essay_topics_2019.pdf?dl=0)
 
+Upload your essay here: [link](https://www.dropbox.com/sh/gb678wh6rrmavfv/AADg9E9hX-hNHFWssOgGUFZda?dl=0). Only the instructors have access to the folder and files.
 
 ## Discussion questions
 
