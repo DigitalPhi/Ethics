@@ -11,7 +11,7 @@ Precise contents may vary slightly by year. Some topics include: the nature of t
 All course material will be available on this website shortly. This module aims to be orderly and edifying. Who knows, it may even help us to live better lives. 
 
 
-Upload your formative essay here: [link]https://www.dropbox.com/request/zMHhpq9X7noaJuFcYcWQ). Only the instructors have access to the folder and files. The problem with the earlier file request has been fixed. <sub><small>February 21</small></sub>  
+Upload your formative essay here: [link](https://www.dropbox.com/request/zMHhpq9X7noaJuFcYcWQ). Only the instructors have access to the folder and files. The problem with the earlier file request has been fixed.  <sub><small>February 21</small></sub>
 
 
 Formative essay topics now available. <sub><small>February 10</small></sub> 
@@ -26,12 +26,12 @@ Apologies for the delay. The readings for the module are now available on this w
 
   - Rawls, 'Classical utilitarianism', [pdf](https://www.dropbox.com/s/tp22sfm0cpe10sx/rawls_classical_utilitarianism.pdf?dl=0) (short excerpt)
 
-  - Singer, 'Famine, affluence and morality' [pdf](https://www.dropbox.com/s/di7mlljznyibsyz/Singer_Famine_Affluence_Morality%20copy.pdf?dl=0)
+  - Singer, 'Famine, affluence and morality', [pdf](https://www.dropbox.com/s/di7mlljznyibsyz/Singer_Famine_Affluence_Morality%20copy.pdf?dl=0)
 
 
 For our introductory meeting on 08 January please read the following short texts: <sub><small>January 08</small></sub>
 
-  - Lucretius, *On the Nature of Things* [pdf](https://www.dropbox.com/s/220199d8zq309xs/Lucretius_Death.pdf?dl=0) (selections, Book 3, 830-842 & 972-975)
+  - Lucretius, *On the Nature of Things*, [pdf](https://www.dropbox.com/s/220199d8zq309xs/Lucretius_Death.pdf?dl=0) (selections, Book 3, 830-842 & 972-975)
 
   - Nagel, 'Death' [pdf](https://www.dropbox.com/s/35etu00rvp50bd0/Nagel_Death.pdf?dl=0)
 
