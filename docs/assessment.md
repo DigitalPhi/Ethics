@@ -23,8 +23,7 @@ Due date February 25th at 23.00.
 
 Topics for formative essays available here: [pdf](https://www.dropbox.com/s/ovmi64olop1tdol/ethics_essay_topics_2019.pdf?dl=0)
 
-Upload your formative essay here: [link](https://www.dropbox.com/sh/wc73pgb4itrko39/AADhIp2nJnEYPaD1E2drudmta?dl=0). Only the instructors have access to the folder and files. The problem with the earlier file request has been fixed.
-
+Upload your formative essay here: [link](https://www.dropbox.com/request/zMHhpq9X7noaJuFcYcWQ). Only the instructors have access to the folder and files. The problem with the earlier file request has been fixed.
 
 
 
