@@ -25,6 +25,7 @@ Topics for formative essays available here: [pdf](https://www.dropbox.com/s/ovmi
 
 Upload your essay here: [link](https://www.dropbox.com/sh/gb678wh6rrmavfv/AADg9E9hX-hNHFWssOgGUFZda?dl=0). Only the instructors have access to the folder and files.
 
+
 ## Discussion questions
 
 Students are expected to do the all of the assigned reading prior to each meeting. In preparation students should write up a substantial question about one of the readings. Please bring a copy to class. We are a large group. It is even more important, then, that everyone arrive ready to contribute.
