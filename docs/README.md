@@ -8,7 +8,10 @@ Precise contents may vary slightly by year. Some topics include: the nature of t
 
 ## Announcements
 
-All course material will be available on this website shortly. This module aims to be orderly and edifying. Who knows, it may even help us to live better lives. 
+<!-- All course material will be available on this website shortly. This module aims to be orderly and edifying. Who knows, it may even help us to live better lives.  -->
+
+
+The text to read in preparation for our lecture and discussion sections on 26.02 is Taurek's 'Should the numbers count'. <sub><small>February 24</small></sub>
 
 
 Upload your formative essay here: [link](https://www.dropbox.com/request/zMHhpq9X7noaJuFcYcWQ). Only the instructors have access to the folder and files. The problem with the earlier file request has been fixed.  <sub><small>February 21</small></sub>
