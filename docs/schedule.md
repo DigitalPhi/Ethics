@@ -11,7 +11,7 @@ Lucretius, *On the Nature of Things* [pdf](https://www.dropbox.com/s/220199d8zq3
 
 Nagel, 'Death' [pdf](https://www.dropbox.com/s/35etu00rvp50bd0/Nagel_Death.pdf?dl=0)
 
-<!-- [handout-DEATH](coming soon) -->
+<!-- TODO [handout-DEATH](coming soon) -->
 
 
 *Futher readings*
@@ -34,13 +34,13 @@ What makes a person’s life go better? Is pleasure the only ultimate source of 
 
 Williams, 'The Makropulos case: reflections on the tedium of immortality' [pdf](https://www.dropbox.com/s/82d5pske01rrpup/Williams-Immortality.pdf?dl=0)
 
-<!-- handout on immortality, boredom  -->
+<!-- TODO handout on immortality, boredom  -->
 
   - Further reading: Mooore, A.W., 'Williams, Nietzsche, and the Meaninglessness of Immortality' [pdf](https://www.dropbox.com/s/35iek3v3f0bffv9/aw-moore-immortality.pdf?dl=0)
 
 Parfit, 'What makes someone's life go best?' [pdf](https://www.dropbox.com/s/dkjysrvuvzei7ld/parfit_life_going_best.pdf?dl=0)
 
-<!-- [handout-WELLBEING](coming soon) -->
+<!-- TODO [handout-WELLBEING](coming soon) -->
   
   - A *New Yorker* profile of Parfit by Larissa MacFarquhar, "How to Be Good" [link](http://www.newyorker.com/magazine/2011/09/05/how-to-be-good)
 
@@ -116,6 +116,7 @@ Nagel, 'War and massacre' [pdf](https://www.dropbox.com/s/nytpwlbk5xe611w/Nagel.
 
 <!-- [handout-nagel](???) -->
 
+
 *Further readings*
 
 Anscombe, 'Mr Truman’s degree', [pdf](https://www.dropbox.com/s/0fn471tm1a01tzx/anscombe-truman.pdf?dl=0)
@@ -145,7 +146,10 @@ Is it harder to justify intentionally harming someone, than it it is to justify 
 Foot, 'The problem of abortion and the doctrine of double effect' [pdf](https://www.dropbox.com/s/30gogqhbnslx5nq/foot-dde-chapter-2.pdf?dl=0)
 
 <!-- 
-- [foot-handout](https://www.dropbox.com/s/4ohgoroiulq2ch6/private-killing-ho.pdf?dl=0) -->
+- [foot-handout](https://www.dropbox.com/s/4ohgoroiulq2ch6/private-killing-ho.pdf?dl=0)
+
+- [private killing handout]
+ -->
 
 
 *Further readings*
@@ -157,6 +161,11 @@ Bennett, 'Whatever the consequences' [pdf](https://www.dropbox.com/s/sp4s5zjy1aj
 <!-- Thomson, 'The trolley problem' [pdf](https://www.dropbox.com/s/rob2t57djv60u0m/Thomson_Trolly_Problem%20copy.pdf?dl=0)
 
 <!-- [handout-TROLLEY](coming soon) -->
+
+
+<!-- Rawls, 'Two concepts of rules' [pdf](https://www.dropbox.com/s/6ky9gjqfon7juy7/rawls-two-concepts.pdf?dl=0)
+
+<!-- handout rawls --> 
 
 
 
@@ -171,12 +180,11 @@ Thomson, 'Physician assisted suicide: two moral arguments' [pdf](https://www.dro
 - Abortion
 <!-- Tooley, aborition, infanticide / THOMSON handout
 
-Suicide
+- Suicide
+- 
 -->
 
-<!-- Rawls, 'Two concepts of rules' [pdf](https://www.dropbox.com/s/6ky9gjqfon7juy7/rawls-two-concepts.pdf?dl=0)
 
-<!-- handout rawls --> 
 
 
 ## Week 6 -- READING WEEK
@@ -193,8 +201,7 @@ Do the numbers count morally speaking? Is the fact that one group has more peopl
 
 Taurek, 'Should the numbers count?' [pdf](https://www.dropbox.com/s/v0x7pzztr9qeaqj/Taurek_Should%20the%20Numbers%20Count.pdf?dl=0)
 
-<!-- 
-- [handout-taurek](https://www.dropbox.com/s/sgzsy4wpc2haddf/taurek_ho.pdf?dl=0) -->
+- [handout-taurek](https://www.dropbox.com/s/o0g28urdcuof3h5/taurek_ho.pdf?dl=0)
 
 
 *Further readings*
@@ -215,6 +222,8 @@ Can we harm others in defense of ourselves?
 *Readings*
 
 Thomson, 'Self-Defense' [pdf](https://www.dropbox.com/s/rro74f4e2c8j461/Thomson_SelfDefense%20copy.pdf?dl=0)
+
+<!-- thomson handout  -->
 
 *Further readings*
 
