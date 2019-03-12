@@ -11,6 +11,9 @@ Precise contents may vary slightly by year. Some topics include: the nature of t
 <!-- All course material will be available on this website shortly. This module aims to be orderly and edifying. Who knows, it may even help us to live better lives.  -->
 
 
+Remember that the focus of lecture and discussion seminar today is Shiffrin's 'Wrongful life, procreative responsibility, and the significance of harm'. You should also have read the the Parfit essay on the 'non-identity problem'. <sub><small>March 12</small></sub>
+
+
 The text to read in preparation for our lecture and discussion sections on 26.02 is Taurek's 'Should the numbers count'. <sub><small>February 24</small></sub>
 
 
