@@ -242,11 +242,16 @@ Parfit, 'The non-identity problem'[pdf](https://www.dropbox.com/s/j11onn7dykq72d
 
 Shiffrin, 'Wrongful life, procreative responsibility, and the significance of harm' [pdf](https://www.dropbox.com/s/ffb6b1np6edir0p/wrongful_life_procreative_responsibility_and_the_significance_of_harm.pdf?dl=0)
 
-  <!-- [shiffrin-handout-soon]() -->
+  [handout](https://www.dropbox.com/s/vahar7b9ptb4sgb/shiffrin-wrongful-life-ho.pdf?dl=0)
+
+<!-- shiffrin handout -->
 
 *Further readings*
 
-Harman, 'Can we harm and benefit in creating?'
+Harman, 'Can we harm and benefit in creating?' [pdf](https://www.dropbox.com/s/wj9vgor28l4sv15/harman_can_we_harm.pdf?dl=0)
+
+J. David Velleman, 'The Gift of Life', Philosophy & Public Affairs, Vol. 36, No. 3 (Summer, 2008), pp. 245-266.
+
 
 <!-- Arendt, the natality problem -->
 
@@ -261,9 +266,8 @@ For there to be moral luck is for one’s moral status to depend on facts outsid
 *Readings*
 
 Nagel, 'Moral luck' [pdf](https://www.dropbox.com/s/see6cwupqsnd1za/Nagel-Moral%20Luck.pdf?dl=0)
-
-<!-- 
-- [nagel-handout](https://www.dropbox.com/s/untw6tmd26piakq/moralluck-ho.pdf?dl=0) -->
+ 
+- [nagel-handout](https://www.dropbox.com/s/wn898kdfgqqsrui/nagel_moral_luck_ho.pdf?dl=0)
 
 *Further readings*
 
@@ -271,8 +275,8 @@ Williams, 'Moral luck' [pdf](https://www.dropbox.com/s/nspa85zhq6n98qv/Williams_
 
 
 Lewis, 'The punishment that leaves something to change'[pdf](https://www.dropbox.com/s/jnonk0wjyt0uckt/lewis%20punishment%20copy.pdf?dl=0)
-<!-- 
-- [lewis-handout](https://www.dropbox.com/s/8hl11nkyg5kebz9/lewis-attempts-lottery.pdf?dl=0) -->
+
+- [lewis-handout](https://www.dropbox.com/s/8hl11nkyg5kebz9/lewis-attempts-lottery.pdf?dl=0)
 
 
 <!-- Strawson, 'Luck swallows everything' [pdf]('https://www.dropbox.com/s/mgcdqpbhbb1z05u/Luck_Swallows_Everything.pdf?dl=0') -->
