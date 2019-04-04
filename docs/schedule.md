@@ -282,22 +282,21 @@ Lewis, 'The punishment that leaves something to change'[pdf](https://www.dropbox
 <!-- Strawson, 'Luck swallows everything' [pdf]('https://www.dropbox.com/s/mgcdqpbhbb1z05u/Luck_Swallows_Everything.pdf?dl=0') -->
 
 
-<!-- OR WEEK 10 AS 
+## Moral saints (not covered in lecture)
 
 *Readings*
 
 Wolf, 'Moral saints' [pdf](https://www.dropbox.com/s/bgbxja19c553xn2/wolf-moral-saints.pdf?dl=0)
 
 Williams, 'Persons, character and morality' [pdf](https://www.dropbox.com/s/fn56hk1g39g6x5c/williams-persons-character.pdf?dl=0)
-<!-- 
-- [wolf-handout](https://www.dropbox.com/s/7t7c58imr4n38un/wolf_moralsaints_ho.pdf?dl=0) -->
 
-<!-- *Further readings*
+[wolf-handout](https://www.dropbox.com/s/7t7c58imr4n38un/wolf_moralsaints_ho.pdf?dl=0)
 
-Wolf, 'Morality and partiality' [pdf](https://www.dropbox.com/s/l1603a1jtw5jwqs/wolf_morality_partiality.pdf?dl=0) -->
+*Further readings*
 
+Wolf, 'Morality and partiality' [pdf](https://www.dropbox.com/s/l1603a1jtw5jwqs/wolf_morality_partiality.pdf?dl=0)  
 
-<!-- railton, https://www.dropbox.com/s/qwj5j3b2yyw21ib/railton_alienation.pdf?dl=0 -->
+Railton, ‘Alienation, consequentialism and the demands of morality’ [pdf](https://www.dropbox.com/s/qwj5j3b2yyw21ib/railton_alienation.pdf?dl=0)
 
 
 
