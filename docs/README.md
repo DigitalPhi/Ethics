@@ -11,6 +11,10 @@ Precise contents may vary slightly by year. Some topics include: the nature of t
 <!-- All course material will be available on this website shortly. This module aims to be orderly and edifying. Who knows, it may even help us to live better lives.  -->
 
 
+As you already know, the summative essay topics contain all the formative essay topics with a few additions. It is permissible to write your summative essay on the very same question as your formative essay. The length requirement of the summative essay is 2500 words. Essays are due Tuesday 23rd April 2019 at 1600 -- the first day of Term 3. Topics and further details are available here [here](assessment.md). <sub><small>April 1</small></sub>
+
+
+
 Remember that the focus of lecture and discussion seminar today is Shiffrin's 'Wrongful life, procreative responsibility, and the significance of harm'. You should also have read the the Parfit essay on the 'non-identity problem'. <sub><small>March 12</small></sub>
 
 
@@ -118,20 +122,19 @@ Apologies for the delay -- H3N2 ('aussie flu') has been interfering with philoso
 
 <!-- <span style="font-variant:small-caps;"> brief schedule of topics</span> -->
 
-| Date  | Topic                           | Main reading      | Theme         |
-|:------|:--------------------------------|:------------------|:--------------|
-| 08.01 | What makes death bad            | Lucretius & Nagel | bad for me    |
-| 15.01 | What makes life good            | Williams & Parfit | good for me   |
-| 22.01 | Condequentialism & beneficience | Bentham & Singer  | right & wrong |
-| 29.01 | Means, ends, & justice          | Nagel & Anscombe  | ends & means  |
-| 05.02 | Justice                         | Foot & Anscombe   | dde & dda     |
-| 12.02 | READING WEEK                    | ----              |               |
-| 19.02 | Numbers                         | Taurek & Anscombe | equality      |
-| 26.02 | Numbers continued Self-defense  | Thomson & Otsuka  | oneself       |
-| 05.03 | Future people                   | Shiffrin & Parfit | wrongful life |
-| 23.03 | Moral luck                      | Nagel             | luck          |
-|       |                                 |                   |               |
-|       |                                 |                   |               |
+| Date         | Topic                           | Main reading      | Theme         |
+|:-------------|:--------------------------------|:------------------|:--------------|
+| 08.01        | What makes death bad            | Lucretius & Nagel | bad for me    |
+| 15.01        | What makes life good            | Williams & Parfit | good for me   |
+| 22.01        | Condequentialism & beneficience | Bentham & Singer  | right & wrong |
+| 29.01        | Means, ends, & justice          | Nagel & Anscombe  | ends & means  |
+| 05.02        | Justice                         | Foot & Anscombe   | dde & dda     |
+| 12.02        | READING WEEK                    | ----              |               |
+| 19.02        | Numbers                         | Taurek & Anscombe | equality      |
+| 26.02        | Numbers continued Self-defense  | Thomson & Otsuka  | oneself       |
+| 05.03        | Future people                   | Shiffrin & Parfit | wrongful life |
+| 23.03        | Moral luck                      | Nagel             | luck          |
+| Self-defense | Thomson & Otsuka                | oneself           |               |
 
 
 
