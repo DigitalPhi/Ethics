@@ -118,24 +118,38 @@ Apologies for the delay -- H3N2 ('aussie flu') has been interfering with philoso
 
 <!-- <span style="font-variant:small-caps;"> brief schedule of topics</span> -->
 
-| Date  | Topic                           | Main reading            | Theme         |
-|:------|:--------------------------------|:------------------------|:--------------|
-| 08.01 | What makes death bad            | Lucretius & Nagel       | bad for me    |
-| 15.01 | What makes life good            | Williams & Parfit       | good for me   |
-| 22.01 | Condequentialism & beneficience | Bentham & Singer        | right & wrong |
-| 29.01 | Means, ends, & justice          | Nagel & Anscombe        | ends & means  |
-| 05.02 | Justice                         | Foot & Anscombe         | dde & dda     |
-| 12.02 | READING WEEK                    | ----                    |               |
-| 19.02 | Numbers                         | Taurek & Anscombe       | equality      |
-| 26.02 | Self-defense                    | Thomson & Otsuka        | oneself       |
-| 05.03 | Future people                   | Shiffrin & Parfit       | wrongful life |
-| 19.03 | Integrity and impartiality      | Willians, Railton, Wolf | integrity     |
-| 12.03 | Moral luck                      | Nagel                   | luck          |
+| Date  | Topic                           | Main reading      | Theme         |
+|:------|:--------------------------------|:------------------|:--------------|
+| 08.01 | What makes death bad            | Lucretius & Nagel | bad for me    |
+| 15.01 | What makes life good            | Williams & Parfit | good for me   |
+| 22.01 | Condequentialism & beneficience | Bentham & Singer  | right & wrong |
+| 29.01 | Means, ends, & justice          | Nagel & Anscombe  | ends & means  |
+| 05.02 | Justice                         | Foot & Anscombe   | dde & dda     |
+| 12.02 | READING WEEK                    | ----              |               |
+| 19.02 | Numbers                         | Taurek & Anscombe | equality      |
+| 26.02 | Numbers continued Self-defense  | Thomson & Otsuka  | oneself       |
+| 05.03 | Future people                   | Shiffrin & Parfit | wrongful life |
+| 23.03 | Moral luck                      | Nagel             | luck          |
+|       |                                 |                   |               |
+|       |                                 |                   |               |
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!-- 
 Impartiality & integrity
-Wolf & Williams -->
+Wolf & Williams
+| 19.03 | Integrity and impartiality      | Willians, Railton, Wolf | integrity     |
+ -->
 
 <!-- death and life
 taking life and giving birth -->
