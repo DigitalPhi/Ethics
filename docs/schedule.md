@@ -11,7 +11,7 @@ Lucretius, *On the Nature of Things* [pdf](https://www.dropbox.com/s/220199d8zq3
 
 Nagel, 'Death' [pdf](https://www.dropbox.com/s/35etu00rvp50bd0/Nagel_Death.pdf?dl=0)
 
-<!-- TODO [handout-DEATH](coming soon) -->
+<!-- [handout-death -->
 
 
 *Futher readings*
@@ -40,7 +40,7 @@ Williams, 'The Makropulos case: reflections on the tedium of immortality' [pdf](
 
 Parfit, 'What makes someone's life go best?' [pdf](https://www.dropbox.com/s/dkjysrvuvzei7ld/parfit_life_going_best.pdf?dl=0)
 
-<!-- TODO [handout-WELLBEING](coming soon) -->
+<!-- TODO [handout-well-being] -->
   
   - A *New Yorker* profile of Parfit by Larissa MacFarquhar, "How to Be Good" [link](http://www.newyorker.com/magazine/2011/09/05/how-to-be-good)
 
@@ -121,13 +121,14 @@ Nagel, 'War and massacre' [pdf](https://www.dropbox.com/s/nytpwlbk5xe611w/Nagel.
 
 Anscombe, 'Mr Truman’s degree', [pdf](https://www.dropbox.com/s/0fn471tm1a01tzx/anscombe-truman.pdf?dl=0)
 
+
 Nozick, *Anarchy, state, and utopia*, [pdf](https://www.dropbox.com/s/nqhi1c9owcvb2zj/Nozick_Anarchy%2C_State%2C_and_Utopia%28.pdf?dl=0) pp. 28–33 (rights as side-constraints)
 
 
-<!-- nature and value of rights [pdf](https://www.dropbox.com/s/audhzfpcitkmntq/FeinbergTheNatureandValueofRights.pdf?dl=0)  
+Feinberg, 'The nature and value of rights' [pdf](https://www.dropbox.com/s/audhzfpcitkmntq/FeinbergTheNatureandValueofRights.pdf?dl=0)  
 
 
-<!-- Bentham, nonsense upon stilts, [pdf](https://www.dropbox.com/s/k05x50wuyc0uom3/bentham-Nonsense-upon-Stilts.pdf?dl=0)  in Bentham. Rights, Representation, and Reform : Nonsense upon Stilts and Other Writings on the French Revolution /. Oxford :: Oxford University Press. -->
+Bentham, 'Nonsense upon stilts', [pdf](https://www.dropbox.com/s/k05x50wuyc0uom3/bentham-Nonsense-upon-Stilts.pdf?dl=0) *Rights, Representation, and Reform : Nonsense upon Stilts and Other Writings on the French Revolution*. Oxford:: Oxford University Press.
 
 
 <!-- 
@@ -210,7 +211,13 @@ Anscombe, 'Who is wronged?' [pdf](https://www.dropbox.com/s/13eq0t2m3580uph/Ansc
 
 Parfit, 'Innumerate ethics' [pdf](https://www.dropbox.com/s/1tye8cv99jlbnyb/Parfit_Innumerate_Ethics%20copy.pdf?dl=0)
 
-Munoz-Dardé, 'The distribution of numbers and the comprehensiveness of reasons' [pdf](https://www.dropbox.com/s/wonq98vxjlfxkyj/PASDistributionNumbers.pdf?dl=0)
+V. Munoz-Dardé, 'The distribution of numbers and the comprehensiveness of reasons' [pdf](https://www.dropbox.com/s/wonq98vxjlfxkyj/PASDistributionNumbers.pdf?dl=0)
+
+
+F. Kamm, [“Equal treatment and equal chances”](https://www.dropbox.com/s/exln2uf8h8b7why/Kamm%20on%20aggregation%20copy.pdf?dl=0)
+
+
+Ursula LeGuin, ["The ones who walk away from Omelas"](https://www.dropbox.com/s/0dbuk6hmp1w1mru/Parfit_Innumerate_Ethics%20copy.pdf?dl=0) 
 
 <!-- Kamm, 'Equal treatment and equal chances' I NEED TO INCLUDE THE RAWLS BIT ON AGGREGATION AND SEPARATENESS OF PERSONS BEFORE GETTING INTO TAUREK!!! OR ELSE I NEED TO PUT TAUREK AFTER FOOT SO THE TRANSITION IS TO DO WITH QUESTIONING HER OFF HAND REMARK ABOUT BETTER TO SAVE MORE-->
 
@@ -223,7 +230,7 @@ Can we harm others in defense of ourselves?
 
 Thomson, 'Self-Defense' [pdf](https://www.dropbox.com/s/rro74f4e2c8j461/Thomson_SelfDefense%20copy.pdf?dl=0)
 
-<!-- thomson handout  -->
+- [thomson handout](https://www.dropbox.com/s/vebm6gx89djrqj5/thomson_selfdefense_ho.pdf?dl=0)
 
 *Further readings*
 
@@ -242,15 +249,15 @@ Parfit, 'The non-identity problem'[pdf](https://www.dropbox.com/s/j11onn7dykq72d
 
 Shiffrin, 'Wrongful life, procreative responsibility, and the significance of harm' [pdf](https://www.dropbox.com/s/ffb6b1np6edir0p/wrongful_life_procreative_responsibility_and_the_significance_of_harm.pdf?dl=0)
 
-  [handout](https://www.dropbox.com/s/vahar7b9ptb4sgb/shiffrin-wrongful-life-ho.pdf?dl=0)
+  [shiffrin-handout](https://www.dropbox.com/s/vahar7b9ptb4sgb/shiffrin-wrongful-life-ho.pdf?dl=0)
 
-<!-- shiffrin handout -->
+
 
 *Further readings*
 
-Harman, 'Can we harm and benefit in creating?' [pdf](https://www.dropbox.com/s/wj9vgor28l4sv15/harman_can_we_harm.pdf?dl=0)
+Elizabeth Harman, 'Can we harm and benefit in creating?' [pdf](https://www.dropbox.com/s/wj9vgor28l4sv15/harman_can_we_harm.pdf?dl=0)
 
-J. David Velleman, 'The Gift of Life', Philosophy & Public Affairs, Vol. 36, No. 3 (Summer, 2008), pp. 245-266.
+David Velleman, 'The gift of life'[link](https://www.openbookpublishers.com/reader.php/349?349#page/106/mode/2up). Originally published in Philosophy & Public Affairs, Vol. 36, No. 3 (Summer, 2008), pp. 245-266. 
 
 
 <!-- Arendt, the natality problem -->
@@ -279,10 +286,13 @@ Lewis, 'The punishment that leaves something to change'[pdf](https://www.dropbox
 - [lewis-handout](https://www.dropbox.com/s/8hl11nkyg5kebz9/lewis-attempts-lottery.pdf?dl=0)
 
 
-<!-- Strawson, 'Luck swallows everything' [pdf]('https://www.dropbox.com/s/mgcdqpbhbb1z05u/Luck_Swallows_Everything.pdf?dl=0') -->
+Galen Strawson, 'Luck swallows everything' [pdf]('https://www.dropbox.com/s/mgcdqpbhbb1z05u/Luck_Swallows_Everything.pdf?dl=0')
 
 
-## Moral saints (not covered in lecture)
+## Week X -- Partiality, impartiality & integrity (not covered in lecture)
+
+If love and friendship are not part of impartial morality, how are we to reconcile their potentially conflicting demands?
+
 
 *Readings*
 
@@ -290,13 +300,14 @@ Wolf, 'Moral saints' [pdf](https://www.dropbox.com/s/bgbxja19c553xn2/wolf-moral-
 
 Williams, 'Persons, character and morality' [pdf](https://www.dropbox.com/s/fn56hk1g39g6x5c/williams-persons-character.pdf?dl=0)
 
-[wolf-handout](https://www.dropbox.com/s/7t7c58imr4n38un/wolf_moralsaints_ho.pdf?dl=0)
+- [wolf-handout](https://www.dropbox.com/s/7t7c58imr4n38un/wolf_moralsaints_ho.pdf?dl=0)
 
 *Further readings*
 
 Wolf, 'Morality and partiality' [pdf](https://www.dropbox.com/s/l1603a1jtw5jwqs/wolf_morality_partiality.pdf?dl=0)  
 
 Railton, ‘Alienation, consequentialism and the demands of morality’ [pdf](https://www.dropbox.com/s/qwj5j3b2yyw21ib/railton_alienation.pdf?dl=0)
+
 
 
 
