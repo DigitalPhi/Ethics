@@ -6,7 +6,7 @@
 **Summative essay**
 
 * An essay of 2500 words (PHIL0024).
-* Questions are available here [pdf](https://www.dropbox.com/s/wgjoim3q7j7n9ps/summative-topics-2019.pdf?dl=0)
+* Questions are available here [pdf](https://www.dropbox.com/s/i7iwc1aak92nnl8/summative-topics.pdf?dl=0)
 * Due date is the standard submission deadline for term 2: Tuesday 23rd April 2019 at 1600.
 
 For further details please see the Philosophy BA assessment space [link](https://moodle-1819.ucl.ac.uk/course/view.php?id=9762)

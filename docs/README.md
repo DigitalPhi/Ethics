@@ -11,7 +11,7 @@ Precise contents may vary slightly by year. Some topics include: the nature of t
 <!-- All course material will be available on this website shortly. This module aims to be orderly and edifying. Who knows, it may even help us to live better lives.  -->
 
 
-As you already know, the summative essay topics contain all the formative essay topics with a few additions. It is permissible to write your summative essay on the very same question as your formative essay. The length requirement of the summative essay is 2500 words. Essays are due Tuesday 23rd April 2019 at 1600 -- the first day of Term 3. Topics and further details are available here [here](assessment.md). <sub><small>April 1</small></sub>
+As you already know, the summative essay topics contain all the formative essay topics with a few additions. It is permissible to write your summative essay on the very same question as your formative essay. The length requirement of the summative essay is 2500 words. Essays are due Tuesday 23rd April 2019 at 1600 -- the first day of Term 3. Topics and further details are available here [here](assessment.md). (The typo in question one has been fixed. Thanks to those of you who wrote to alert me.) <sub><small>April 1</small></sub>
 
 
 
