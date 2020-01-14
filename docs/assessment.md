@@ -7,7 +7,7 @@
 
 * An essay of 2500 words (PHIL0024).
 * Questions are available here [pdf](https://www.dropbox.com/s/i7iwc1aak92nnl8/summative-topics.pdf?dl=0)
-* Due date is the standard submission deadline for term 2: Tuesday 23rd April 2019 at 1600.
+* Due date is the standard submission deadline for term 2: TBA.
 
 For further details please see the Philosophy BA assessment space [link](https://moodle-1819.ucl.ac.uk/course/view.php?id=9762)
 
@@ -20,11 +20,13 @@ For further details please see the Philosophy BA assessment space [link](https:/
 
 You are encouraged to write a formative essay during the reading week. Questions will be distributed in advance. Any of these can also serve to set the topic for your summative essay.
 
-Due date February 25th at 23.00.
+Due date TBA
 
-Topics for formative essays available here: [pdf](https://www.dropbox.com/s/ovmi64olop1tdol/ethics_essay_topics_2019.pdf?dl=0)
+Topics for formative essays will be available here: 
+<!-- 
+[pdf](https://www.dropbox.com/s/ovmi64olop1tdol/ethics_essay_topics_2019.pdf?dl=0) -->
 
-Upload your formative essay here: [link](https://www.dropbox.com/request/zMHhpq9X7noaJuFcYcWQ). Only the instructors have access to the folder and files. The problem with the earlier file request has been fixed.
+<!-- Upload your formative essay here: [link](https://www.dropbox.com/request/zMHhpq9X7noaJuFcYcWQ). Only the instructors have access to the folder and files. The problem with the earlier file request has been fixed. -->
 
 
 

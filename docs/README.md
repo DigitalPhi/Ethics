@@ -1,16 +1,16 @@
 
 ## Welcome
 
-This is the course page for Ethics PHIL0024 (2018-19, term 2).
+This is the course page for Ethics PHIL0024 (2019-20, term 2).
 
 Precise contents may vary slightly by year. Some topics include: the nature of the good, egoism, utilitarian accounts of right and wrong action, virtue (esp. justice and benevolence), equality, partiality and impartiality, responsibility and moral luck. This module is meant to be exploratory within the limits of reason and polite society. Let's all do our best.
 
 
 ## Announcements
 
-<!-- All course material will be available on this website shortly. This module aims to be orderly and edifying. Who knows, it may even help us to live better lives.  -->
+All course material will be available on this website shortly. This module aims to be orderly and edifying. Who knows, it may even help us to live better lives.
 
-
+<!-- 
 As you already know, the summative essay topics contain all the formative essay topics with a few additions. It is permissible to write your summative essay on the very same question as your formative essay. The length requirement of the summative essay is 2500 words. Essays are due Tuesday 23rd April 2019 at 1600 -- the first day of Term 3. Topics and further details are available here [here](assessment.md). (The typo in question one has been fixed. Thanks to those of you who wrote to alert me.) <sub><small>April 1</small></sub>
 
 
@@ -37,9 +37,9 @@ Apologies for the delay. The readings for the module are now available on this w
   - Rawls, 'Classical utilitarianism', [pdf](https://www.dropbox.com/s/tp22sfm0cpe10sx/rawls_classical_utilitarianism.pdf?dl=0) (short excerpt)
 
   - Singer, 'Famine, affluence and morality', [pdf](https://www.dropbox.com/s/di7mlljznyibsyz/Singer_Famine_Affluence_Morality%20copy.pdf?dl=0)
+ -->
 
-
-For our introductory meeting on 08 January please read the following short texts: <sub><small>January 08</small></sub>
+For our introductory meeting on 14 January please read the following short texts: <sub><small>January 13</small></sub>
 
   - Lucretius, *On the Nature of Things*, [pdf](https://www.dropbox.com/s/220199d8zq309xs/Lucretius_Death.pdf?dl=0) (selections, Book 3, 830-842 & 972-975)
 
@@ -86,55 +86,81 @@ Apologies for the delay -- H3N2 ('aussie flu') has been interfering with philoso
 
 - Douglas Lavin
   + Office: Room 3.4a, 33-35 Torrington Place [(map)](http://www.ucl.ac.uk/maps/33-35-torrington-place)
-  + Office hours: Tuesday 1600-1700. Drop-by!
+  + Office hours: Tuesday 12.30-13.30. Drop-by!
   + [dgl email](mailto:d.lavin@ucl.ac.uk)
-    - On the use of email [here](policies.md)
+    <!-- - On the use of email [here](policies.md) -->
   + Personal webpage [link](http://www.douglaslavin.org)
 <!--[schedule](http://www.supersaas.co.uk/schedule/DouglasLavin/OfficeHoursUCL) -->
 
-- Vittorio Sandri
-  + [vs email](mailto:vittorio.sandri.14@ucl.ac.uk)
+- Ben Fardell  
+  + [bf email](mailto:b.fardell.12@ucl.ac.uk)
 
 
 ### Meetings -- time & place
 
 <span style="font-variant:small-caps;"> lecture</span>
 
-| Time            | Location                                                                  | Lecturer |
-|:----------------|:--------------------------------------------------------------------------|:---------|
-| Tues 1400--1500 | [Gordon Street 25, D103](http://www.ucl.ac.uk/maps/25-gordon-square-d103) | Lavin    |
+| Time            | Location                                                                                                          | Lecturer |
+|:----------------|:------------------------------------------------------------------------------------------------------------------|:---------|
+| Tues 1400--1500 | [Medical Sciences G46 HO Schild Pharmacology](http://www.ucl.ac.uk/maps/medical-sciences/schild-pharmacology-lt/) | Lavin    |
 
 
 
 
 <span style="font-variant:small-caps;">Discussion sessions</span>
 
-| GRP | Time            | Location                                                                                | Instructor |
-|:----|:----------------|:----------------------------------------------------------------------------------------|:-----------|
-| 1   | Tues 1500--1600 | [South Quad Pop-up Learning Hub 101](http://www.ucl.ac.uk/maps/south-quad-learning-hub) | Lavin      |
-| 2   | Tues 1500--1600 | [Foster Court, 113](http://www.ucl.ac.uk/maps/foster-court)                             | Sandri     |
-| 3   | Tues 1600--1700 | [Gordon Square 16-18, B09](http://www.ucl.ac.uk/maps/18-gordon-square)                  | Sandri     |
-| 4   | Tues 1700--1800 | [Gordon Square 16-18, B09](http://www.ucl.ac.uk/maps/18-gordon-square)                  | Sandri     |
+details shortly
+<!-- 
+| <!-- | GRP             | Time                                                                                    | Location                                                                                | Instructor       |
+|:-----|:----------------|:----------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------|
+| 1    | Tues 1500--1600 | [South Quad Pop-up Learning Hub 101](http://www.ucl.ac.uk/maps/south-quad-learning-hub) | Lavin                                                                                                      |
+| 2    | Tues 1500--1600 | [Foster Court, 113](http://www.ucl.ac.uk/maps/foster-court)                             | Sandri                                                                                                     |
+| 3    | Tues 1600--1700 | [Gordon Square 16-18, B09](http://www.ucl.ac.uk/maps/18-gordon-square)                  | Sandri                                                                                                     |
+| 4    | Tues 1700--1800 | [Gordon Square 16-18, B09](http://www.ucl.ac.uk/maps/18-gordon-square)                  | Sandri                                                                                               | --> |
+
+ 
+
 
 
 <!-- 
-### Very brief schedule of topics
+Ethics Level 5
 
-<!-- <span style="font-variant:small-caps;"> brief schedule of topics</span> -->
+Tuesday,15:00 - 16:00
 
-| Date         | Topic                           | Main reading      | Theme         |
-|:-------------|:--------------------------------|:------------------|:--------------|
-| 08.01        | What makes death bad            | Lucretius & Nagel | bad for me    |
-| 15.01        | What makes life good            | Williams & Parfit | good for me   |
-| 22.01        | Condequentialism & beneficience | Bentham & Singer  | right & wrong |
-| 29.01        | Means, ends, & justice          | Nagel & Anscombe  | ends & means  |
-| 05.02        | Justice                         | Foot & Anscombe   | dde & dda     |
-| 12.02        | READING WEEK                    | ----              |               |
-| 19.02        | Numbers                         | Taurek & Anscombe | equality      |
-| 26.02        | Numbers continued Self-defense  | Thomson & Otsuka  | oneself       |
-| 05.03        | Future people                   | Shiffrin & Parfit | wrongful life |
-| 23.03        | Moral luck                      | Nagel             | luck          |
-| Self-defense | Thomson & Otsuka                | oneself           |               |
+lecturer
+    LAVIN, Douglas (Dr)
+room
+    IOE - Bedford Way (20) W3.04
+weeks
+    21-25, 27-31
+    W/C 14/01/2020 - 29/03/2020
+Module Groups
+    GRP2
+    Group 2
+last modified date
+    04/11/2019 20:16
+3420465
+
+ -->
+
+
+### Brief, provisional schedule of topics
+
+ <span style="font-variant:small-caps;"> brief schedule of topics</span>
+
+| Date  | Topic                            | Main reading      | Theme         |
+|:------|:---------------------------------|:------------------|:--------------|
+| 14.01 | What makes death bad             | Lucretius & Nagel | bad for me    |
+| 21.01 | What makes life good             | Williams & Parfit | good for me   |
+| 28.01 | Condequentialism & beneficience  | Bentham & Singer  | right & wrong |
+| 04.02 | Means, ends, & justice           | Nagel & Anscombe  | ends & means  |
+| 11.02 | Justice                          | Foot & Anscombe   | dde & dda     |
+| 18.02 | READING WEEK                     | ----              | ---           |
+| 25.02 | Numbers                          | Taurek & Anscombe | equality      |
+| 03.03 | Numbers continued (self-defense) | Thomson & Otsuka  | oneself       |
+| 10.03 | Future people                    | Shiffrin & Parfit | wrongful life |
+| 17.03 | Moral luck                       | Nagel & Williams  | luck          |
+| 24.03 | Morality and happiness           | Wolf              | moral saints  |
 
 
 
