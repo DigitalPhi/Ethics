@@ -3,7 +3,7 @@
 
 ## Week 1
 
-Does death harm the one who dies?
+Question: Does death harm the one who dies?
 
 *Readings*
 
@@ -23,20 +23,23 @@ McMahan, 'The Lucretian argument' [pdf](https://www.dropbox.com/s/dvuaxeh151f1hl
 Wordsworth, 'Ode: Intimations of Immortality from Recollections of Early Childhood' [link](https://www.poetryfoundation.org/poems/45536/ode-intimations-of-immortality-from-recollections-of-early-childhood)
 
 
-## Week 2
+*Supplemntary questions & readings*
 
-Even if death is a harm in some circumstances, must it always be? Other things equal, would it be good to be immortal? 
-
-What makes a person’s life go better? Is pleasure the only ultimate source of value? Are a person's preferences the only measure of how well his or her life is going?
-
-
-*Readings*
+Question: Even if death is a harm in some circumstances, must it always be? Other things equal, would it be good to be immortal? 
 
 Williams, 'The Makropulos case: reflections on the tedium of immortality' [pdf](https://www.dropbox.com/s/82d5pske01rrpup/Williams-Immortality.pdf?dl=0)
 
 <!-- TODO handout on immortality, boredom  -->
 
   - Further reading: Mooore, A.W., 'Williams, Nietzsche, and the Meaninglessness of Immortality' [pdf](https://www.dropbox.com/s/35iek3v3f0bffv9/aw-moore-immortality.pdf?dl=0)
+
+
+## Week 2
+
+Question? What makes a person’s life go better? Is pleasure the only ultimate source of value? Are a person's preferences the only measure of how well his or her life is going?
+
+
+*Readings*
 
 Parfit, 'What makes someone's life go best?' [pdf](https://www.dropbox.com/s/dkjysrvuvzei7ld/parfit_life_going_best.pdf?dl=0)
 
@@ -60,9 +63,9 @@ Daniel Kahneman, 'Objective happiness', [pdf](https://www.dropbox.com/s/9punzcp6
 
 ## Week 3
 
-What is morality about? Reminder of central elements of classical utilitarianism (as articulated by Bentham) in which we consider the following: What is the utilitarian account of the principles upon which we ought to act? Where does it locate the philosophical basis of our ideas of right and wrong? What is the generic source of attraction of the utilitarian conception of morality? 
+Question: What is morality about? Reminder of central elements of classical utilitarianism (as articulated by Bentham) in which we consider the following: What is the utilitarian account of the principles upon which we ought to act? Where does it locate the philosophical basis of our ideas of right and wrong? What is the generic source of attraction of the utilitarian conception of morality? 
 
-Our main discussion will be of the Singer essay which considers the question *'How much, if at all, must we help others?'* with a view to articulating and defending the element of consequentialism that helps to make-up the traditional utilitarism as an account of right and wrong.
+Our main discussion will be of the Singer essay which considers the question *'How much, if at all, must we help others?'* with a view to articulating and defending the element of consequentialism that helps to make-up the traditional utilitarianism as an account of right and wrong.
 
 *Readings*
 

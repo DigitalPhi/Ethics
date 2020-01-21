@@ -10,6 +10,15 @@ Precise contents may vary slightly by year. Some topics include: the nature of t
 
 All course material will be available on this website shortly. This module aims to be orderly and edifying. Who knows, it may even help us to live better lives.
 
+
+For our introductory meeting on 14 January please read the following short texts: <sub><small>January 13</small></sub>
+
+  - Lucretius, *On the Nature of Things*, [pdf](https://www.dropbox.com/s/220199d8zq309xs/Lucretius_Death.pdf?dl=0) (selections, Book 3, 830-842 & 972-975)
+
+  - Nagel, 'Death' [pdf](https://www.dropbox.com/s/35etu00rvp50bd0/Nagel_Death.pdf?dl=0)
+
+
+
 <!-- 
 As you already know, the summative essay topics contain all the formative essay topics with a few additions. It is permissible to write your summative essay on the very same question as your formative essay. The length requirement of the summative essay is 2500 words. Essays are due Tuesday 23rd April 2019 at 1600 -- the first day of Term 3. Topics and further details are available here [here](assessment.md). (The typo in question one has been fixed. Thanks to those of you who wrote to alert me.) <sub><small>April 1</small></sub>
 
@@ -38,12 +47,6 @@ Apologies for the delay. The readings for the module are now available on this w
 
   - Singer, 'Famine, affluence and morality', [pdf](https://www.dropbox.com/s/di7mlljznyibsyz/Singer_Famine_Affluence_Morality%20copy.pdf?dl=0)
  -->
-
-For our introductory meeting on 14 January please read the following short texts: <sub><small>January 13</small></sub>
-
-  - Lucretius, *On the Nature of Things*, [pdf](https://www.dropbox.com/s/220199d8zq309xs/Lucretius_Death.pdf?dl=0) (selections, Book 3, 830-842 & 972-975)
-
-  - Nagel, 'Death' [pdf](https://www.dropbox.com/s/35etu00rvp50bd0/Nagel_Death.pdf?dl=0)
 
 
 <!-- For those who expressed interest in writing on the content of the last scheduled meeting, I've added a few questions to the list of essay topics [link](https://www.dropbox.com/s/30tvn21e7x25w3x/essay_topics.pdf?dl=0). In addition, I'm holding extended office hours this Wednesday (May 2nd from 1500 to 1800). You're welcome to drop-by.<sub style="color:red"><small>Posted April 30</small></sub>
@@ -110,38 +113,16 @@ Apologies for the delay -- H3N2 ('aussie flu') has been interfering with philoso
 <span style="font-variant:small-caps;">Discussion sessions</span>
 
 details shortly
-<!-- 
-| <!-- | GRP             | Time                                                                                    | Location                                                                                | Instructor       |
-|:-----|:----------------|:----------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------|
-| 1    | Tues 1500--1600 | [South Quad Pop-up Learning Hub 101](http://www.ucl.ac.uk/maps/south-quad-learning-hub) | Lavin                                                                                                      |
-| 2    | Tues 1500--1600 | [Foster Court, 113](http://www.ucl.ac.uk/maps/foster-court)                             | Sandri                                                                                                     |
-| 3    | Tues 1600--1700 | [Gordon Square 16-18, B09](http://www.ucl.ac.uk/maps/18-gordon-square)                  | Sandri                                                                                                     |
-| 4    | Tues 1700--1800 | [Gordon Square 16-18, B09](http://www.ucl.ac.uk/maps/18-gordon-square)                  | Sandri                                                                                               | --> |
 
- 
+| GRP | Time            | Location                      | Instructor |
+|:----|:----------------|:------------------------------|:-----------|
+| 1   | Tues 1500--1600 | []()                          | Fardell    |
+| 2   | Tues 1500--1600 | [IOE Bedford Way 20, W3.04]() | Lavin      |
+| 3   | Tues 1600--1700 | []()                          | Fardell    |
+| 4   | Tues 1700--1800 | []()                          | Fardell    |
 
 
 
-<!-- 
-Ethics Level 5
-
-Tuesday,15:00 - 16:00
-
-lecturer
-    LAVIN, Douglas (Dr)
-room
-    IOE - Bedford Way (20) W3.04
-weeks
-    21-25, 27-31
-    W/C 14/01/2020 - 29/03/2020
-Module Groups
-    GRP2
-    Group 2
-last modified date
-    04/11/2019 20:16
-3420465
-
- -->
 
 
 ### Brief, provisional schedule of topics
@@ -151,7 +132,7 @@ last modified date
 | Date  | Topic                            | Main reading      | Theme         |
 |:------|:---------------------------------|:------------------|:--------------|
 | 14.01 | What makes death bad             | Lucretius & Nagel | bad for me    |
-| 21.01 | What makes life good             | Williams & Parfit | good for me   |
+| 21.01 | What makes life good             | Parfit            | good for me   |
 | 28.01 | Condequentialism & beneficience  | Bentham & Singer  | right & wrong |
 | 04.02 | Means, ends, & justice           | Nagel & Anscombe  | ends & means  |
 | 11.02 | Justice                          | Foot & Anscombe   | dde & dda     |
