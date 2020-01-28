@@ -8,7 +8,7 @@ Precise contents may vary slightly by year. Some topics include: the nature of t
 
 ## Announcements
 
-All course material will be available on this website shortly. This module aims to be orderly and edifying. Who knows, it may even help us to live better lives.
+All course material will be available on this website. This module aims to be orderly and edifying. Who knows, it may even help us to live better lives.
 
 
 For our introductory meeting on 14 January please read the following short texts: <sub><small>January 13</small></sub>
@@ -16,6 +16,19 @@ For our introductory meeting on 14 January please read the following short texts
   - Lucretius, *On the Nature of Things*, [pdf](https://www.dropbox.com/s/220199d8zq309xs/Lucretius_Death.pdf?dl=0) (selections, Book 3, 830-842 & 972-975)
 
   - Nagel, 'Death' [pdf](https://www.dropbox.com/s/35etu00rvp50bd0/Nagel_Death.pdf?dl=0)
+
+
+
+Our main discussion meetings on 28 January will be of the Singer essay which considers the question *'How much, if at all, must we help others?'*. This will be a starting point for considering the merits of consequentialism more generally. <sub><small>January 26</small></sub>
+
+    - Singer, 'Famine, affluence and morality', [pdf](https://www.dropbox.com/s/di7mlljznyibsyz/Singer_Famine_Affluence_Morality%20copy.pdf?dl=0)
+
+    - Bentham, *Introduction to the Principles of Morals and Legislation*, chs. i–ii, v [link](https://www.utilitarianism.com/jeremy-bentham/index.html)
+
+    - Rawls, 'Classical utilitarianism', [pdf](https://www.dropbox.com/s/tp22sfm0cpe10sx/rawls_classical_utilitarianism.pdf?dl=0) (short excerpt)
+
+
+Handouts and supplementary materials for weeks already gone by to be posted shortly. Please note also that this week Nikhil Venkatesh will be running Ben's discussion sections. <sub><small>January 28</small></sub>
 
 
 
@@ -39,13 +52,6 @@ Formative essay topics now available. <sub><small>February 10</small></sub>
 Reminder -- The main reading for lecture and discussion sections this week (05 February) is Philippa Foot's 'The problem of abortion and the doctrine of double effect' [pdf](https://www.dropbox.com/s/30gogqhbnslx5nq/foot-dde-chapter-2.pdf?dl=0). Link to the reading and supporting materials are also available below. Formative essay questions will be posted later this week. <sub><small>February 03</small></sub> 
 
 
-Apologies for the delay. The readings for the module are now available on this website. Handouts and supplementary materials for weeks already gone by to be posted shortly. For our next meeting (26 January) please read the following texts. Our main discussion will be of the Singer essay which considers the question *'How much, if at all, must we help others?'*.  <sub><small>January 18</small></sub>
-
-  - Bentham, *Introduction to the Principles of Morals and Legislation*, chs. i–ii, v [link](https://www.utilitarianism.com/jeremy-bentham/index.html)
-
-  - Rawls, 'Classical utilitarianism', [pdf](https://www.dropbox.com/s/tp22sfm0cpe10sx/rawls_classical_utilitarianism.pdf?dl=0) (short excerpt)
-
-  - Singer, 'Famine, affluence and morality', [pdf](https://www.dropbox.com/s/di7mlljznyibsyz/Singer_Famine_Affluence_Morality%20copy.pdf?dl=0)
  -->
 
 
@@ -114,12 +120,12 @@ Apologies for the delay -- H3N2 ('aussie flu') has been interfering with philoso
 
 details shortly
 
-| GRP | Time            | Location                      | Instructor |
-|:----|:----------------|:------------------------------|:-----------|
-| 1   | Tues 1500--1600 | []()                          | Fardell    |
-| 2   | Tues 1500--1600 | [IOE Bedford Way 20, W3.04]() | Lavin      |
-| 3   | Tues 1600--1700 | []()                          | Fardell    |
-| 4   | Tues 1700--1800 | []()                          | Fardell    |
+| GRP | Time            | Location                            | Instructor |
+|:----|:----------------|:------------------------------------|:-----------|
+| 1   | Tues 1500--1600 | [43 Gordon Square, 321, Birkbeck]() | Fardell    |
+| 2   | Tues 1500--1600 | [20 Bedford Way, W3.04, IOE]()      | Lavin      |
+| 3   | Tues 1600--1700 | [43 Gordon Square, B02, Birkbeck]() | Fardell    |
+| 4   | Tues 1700--1800 | [16 Taviton Street, 535, SEES]()    | Fardell    |
 
 
 
@@ -171,15 +177,18 @@ Feinberg, Omelas, Rights!
 -->
 
 
-
 ### Accessing course content
 
 All the substantive course content will be available on this course website. There may be a few, minor changes going forward.
 
 You will find links to individual readings and handouts in the detailed schedule of topics [here](/schedule) as well as in the navigation bar. Further details about assessment are [here](/assessment).
 
-We will use the [UCL Moodle](https://moodle-1819.ucl.ac.uk/course/view.php?id=6543) to send email announcements and as the portal for submitting and receiving summative essays.
+We will use the [UCL Moodle](https://moodle.ucl.ac.uk/course/view.php?id=6543) to send email announcements and as the portal for submitting and receiving summative essays.
 
+
+
+<!-- 
+(https://moodle-1819.ucl.ac.uk/course/view.php?id=6543) -->
 
 <!-- A folder with assigned and supplemental readings is available here [folder](https://www.dropbox.com/sh/bwz4x8b77j71hna/AAC9IwTHnPbJHQmQSbtxjVrXa?dl=0). -->
 

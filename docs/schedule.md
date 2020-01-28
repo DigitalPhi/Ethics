@@ -65,19 +65,20 @@ Daniel Kahneman, 'Objective happiness', [pdf](https://www.dropbox.com/s/9punzcp6
 
 Question: What is morality about? Reminder of central elements of classical utilitarianism (as articulated by Bentham) in which we consider the following: What is the utilitarian account of the principles upon which we ought to act? Where does it locate the philosophical basis of our ideas of right and wrong? What is the generic source of attraction of the utilitarian conception of morality? 
 
-Our main discussion will be of the Singer essay which considers the question *'How much, if at all, must we help others?'* with a view to articulating and defending the element of consequentialism that helps to make-up the traditional utilitarianism as an account of right and wrong.
+Our main discussion will be of the Singer essay which considers the question *'How much, if at all, must we help others?'* with a view to articulating and defending the element of consequentialism that helps to make-up traditional utilitarianism as an account of right and wrong.
 
 *Readings*
+
 
 Bentham, *Introduction to the Principles of Morals and Legislation*, chs. i–ii, v [link](https://www.utilitarianism.com/jeremy-bentham/index.html)
 
 Rawls, 'Classical utilitarianism', [pdf](https://www.dropbox.com/s/tp22sfm0cpe10sx/rawls_classical_utilitarianism.pdf?dl=0) (short excerpt)
 
-  - [handout-utilitarianism](https://www.dropbox.com/s/2z47i4d0xoz5br4/UtilitarianismHO-2019.pdf?dl=0)
+  - [handout-utilitarianism](https://www.dropbox.com/s/wlmr1gp4831od1u/utilitarianism-ho.pdf?dl=0)
 
 Singer, 'Famine, affluence and morality' [pdf](https://www.dropbox.com/s/di7mlljznyibsyz/Singer_Famine_Affluence_Morality%20copy.pdf?dl=0)
-
-  - [handout-singer](https://www.dropbox.com/s/obyonr4l99owerk/Singer%20HO.pdf?dl=0)
+  
+    - [handout-singer]()
 
 
 *Further readings*
