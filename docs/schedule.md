@@ -78,7 +78,7 @@ Rawls, 'Classical utilitarianism', [pdf](https://www.dropbox.com/s/tp22sfm0cpe10
 
 Singer, 'Famine, affluence and morality' [pdf](https://www.dropbox.com/s/di7mlljznyibsyz/Singer_Famine_Affluence_Morality%20copy.pdf?dl=0)
   
-    - [handout-singer]()
+    - [handout-singer](https://www.dropbox.com/s/z4tpuakw67zttms/singer-ho.pdf?dl=0)
 
 
 *Further readings*
