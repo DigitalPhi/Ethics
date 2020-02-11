@@ -31,6 +31,14 @@ Our main discussion meetings on 28 January will be of the Singer essay which con
 Handouts and supplementary materials for weeks already gone by to be posted shortly. Please note also that this week Nikhil Venkatesh will be running Ben's discussion sections. <sub><small>January 28</small></sub>
 
 
+I will post a special announcement over reading perdiod in light of the UCU strike. The official strike dates have been announced. They are as follows:
+
+- Week one: Monday 24 - Wednesday 26 February  
+- Week two: Monday 2 - Thursday 5 March  
+- Week three: Monday 9 - Friday 13 March  
+- Week four: Thursday 19 - Friday 20 March  
+
+<sub><small>February 11</small></sub>
 
 <!-- 
 As you already know, the summative essay topics contain all the formative essay topics with a few additions. It is permissible to write your summative essay on the very same question as your formative essay. The length requirement of the summative essay is 2500 words. Essays are due Tuesday 23rd April 2019 at 1600 -- the first day of Term 3. Topics and further details are available here [here](assessment.md). (The typo in question one has been fixed. Thanks to those of you who wrote to alert me.) <sub><small>April 1</small></sub>
