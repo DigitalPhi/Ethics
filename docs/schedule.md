@@ -11,7 +11,7 @@ Lucretius, *On the Nature of Things* [pdf](https://www.dropbox.com/s/220199d8zq3
 
 Nagel, 'Death' [pdf](https://www.dropbox.com/s/35etu00rvp50bd0/Nagel_Death.pdf?dl=0)
 
-<!-- [handout-death -->
+<!-- TODO [handout-death]() -->
 
 
 *Futher readings*
@@ -112,13 +112,13 @@ M. Snow, 'Against charity' [link](https://www.jacobinmag.com/2015/08/peter-singe
 
 ## Week 4
 
-<!-- Topics and objections -- does utilitarianism or consequentialism demand too little, does anything go in  -->
+Topics and objections -- does utilitarianism or consequentialism more generally demand too little, does 'anything go' so long as it has the best upshot?
 
 *Readings*
 
 Nagel, 'War and massacre' [pdf](https://www.dropbox.com/s/nytpwlbk5xe611w/Nagel.War%20and%20Massacre-1.pdf?dl=0)
 
-<!-- [handout-nagel](???) -->
+<!-- TODO [handout-nagel]() -->
 
 
 *Further readings*
@@ -144,17 +144,13 @@ Kamm, 'Moral status'
 
 ## Week 5
 
-Is it harder to justify intentionally harming someone, than it it is to justify merely merely knowingly harming someone? Is it harder to justify actively harming someone, intentionally or not, than it is to justify merely allowing someone to be harmed? 
+Is it harder to justify intentionally harming someone, than it it is to justify merely merely knowingly harming someone? Is it harder to justify actively harming someone, intentionally or not, than it is to justify merely allowing someone to be harmed?
 
 *Readings*
 
 Foot, 'The problem of abortion and the doctrine of double effect' [pdf](https://www.dropbox.com/s/30gogqhbnslx5nq/foot-dde-chapter-2.pdf?dl=0)
 
-<!-- 
-- [foot-handout](https://www.dropbox.com/s/4ohgoroiulq2ch6/private-killing-ho.pdf?dl=0)
-
-- [private killing handout]
- -->
+- [foot handout](https://www.dropbox.com/s/p4k9mnrf7t3vuyv/private-killing-ho%20copy.pdf?dl=0)
 
 
 *Further readings*
@@ -244,7 +240,7 @@ Otsuka, 'Killing the Innocent in Self Defence' [pdf](https://www.dropbox.com/s/r
 
 ## Week 9
 
-What do we owe to our decendants? Is it wrong to have children, to give life, as it were?
+What do we owe to our descendants? Is it wrong to have children, to give life, as it were?
 
 *Readings*
 
