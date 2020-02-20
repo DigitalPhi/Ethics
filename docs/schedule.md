@@ -188,12 +188,12 @@ Thomson, 'Physician assisted suicide: two moral arguments' [pdf](https://www.dro
 
 
 
-## Week 6 -- READING WEEK
+## READING WEEK
 
-Topics for formative essays will posted at the beginning of reading week. Available here [pdf](https://www.dropbox.com/s/ovmi64olop1tdol/ethics_essay_topics_2019.pdf?dl=0)
+Topics for formative essays will posted at the beginning of reading week. Available here [pdf](https://www.dropbox.com/s/ynmon4g7yiefduh/formative-essay-topics-2020.pdf?dl=0)
 
 
-## Week 7
+## Week 6
 
 Do the numbers count morally speaking? Is the fact that one group has more people require us to aid its members in preference to another, smaller group?
 
@@ -222,7 +222,7 @@ Ursula LeGuin, ["The ones who walk away from Omelas"](https://www.dropbox.com/s/
 <!-- Kamm, 'Equal treatment and equal chances' I NEED TO INCLUDE THE RAWLS BIT ON AGGREGATION AND SEPARATENESS OF PERSONS BEFORE GETTING INTO TAUREK!!! OR ELSE I NEED TO PUT TAUREK AFTER FOOT SO THE TRANSITION IS TO DO WITH QUESTIONING HER OFF HAND REMARK ABOUT BETTER TO SAVE MORE-->
 
 
-## Week 8
+## Week 7
 
 Can we harm others in defense of ourselves?
 
@@ -238,7 +238,7 @@ Otsuka, 'Killing the Innocent in Self Defence' [pdf](https://www.dropbox.com/s/r
 
 
 
-## Week 9
+## Week 8
 
 What do we owe to our descendants? Is it wrong to have children, to give life, as it were?
 
@@ -265,7 +265,7 @@ David Velleman, 'The gift of life'[link](https://www.openbookpublishers.com/read
 <!-- Margalit...is it wrong to forget?  -->
 
 
-## Week 10 
+## Week 9 
 
 
 For there to be moral luck is for one’s moral status to depend on facts outside one’s control. Can there be moral luck?  Is it legitimate for luck to play a role in how blame and praise are distirbuted?
@@ -289,7 +289,7 @@ Lewis, 'The punishment that leaves something to change'[pdf](https://www.dropbox
 Galen Strawson, 'Luck swallows everything' [pdf]('https://www.dropbox.com/s/mgcdqpbhbb1z05u/Luck_Swallows_Everything.pdf?dl=0')
 
 
-## Week X -- Partiality, impartiality & integrity (not covered in lecture)
+## Week 10 -- Partiality, impartiality & integrity (not covered in lecture)
 
 If love and friendship are not part of impartial morality, how are we to reconcile their potentially conflicting demands?
 

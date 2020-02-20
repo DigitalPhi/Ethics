@@ -40,6 +40,14 @@ I will post a special announcement over reading perdiod in light of the UCU stri
 
 <sub><small>February 11</small></sub>
 
+
+A link to the formative essay topics has been available for the past week. Since some are having difficulty finding the link I'm posting it here as well [pdf](https://www.dropbox.com/s/ynmon4g7yiefduh/formative-essay-topics-2020.pdf?dl=0)
+
+Restatement of the due date and mechanism for submission will be posted shortly. Please know that we are doing are best to organise all this prior to the beginning of the University and College Union strike. <sub><small>February 19</small></sub>
+
+
+
+
 <!-- 
 As you already know, the summative essay topics contain all the formative essay topics with a few additions. It is permissible to write your summative essay on the very same question as your formative essay. The length requirement of the summative essay is 2500 words. Essays are due Tuesday 23rd April 2019 at 1600 -- the first day of Term 3. Topics and further details are available here [here](assessment.md). (The typo in question one has been fixed. Thanks to those of you who wrote to alert me.) <sub><small>April 1</small></sub>
 

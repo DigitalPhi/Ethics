@@ -20,11 +20,11 @@ For further details please see the Philosophy BA assessment space [link](https:/
 
 You are encouraged to write a formative essay during the reading week. Questions will be distributed in advance. Any of these can also serve to set the topic for your summative essay.
 
-Due date TBA
+Due date to be posted shortly
 
-Topics for formative essays will be available here: 
-<!-- 
-[pdf](https://www.dropbox.com/s/ovmi64olop1tdol/ethics_essay_topics_2019.pdf?dl=0) -->
+Topics for formative essays are available here: 
+
+[pdf](https://www.dropbox.com/s/ynmon4g7yiefduh/formative-essay-topics-2020.pdf?dl=0)
 
 <!-- Upload your formative essay here: [link](https://www.dropbox.com/request/zMHhpq9X7noaJuFcYcWQ). Only the instructors have access to the folder and files. The problem with the earlier file request has been fixed. -->
 
