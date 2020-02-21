@@ -187,10 +187,9 @@ Thomson, 'Physician assisted suicide: two moral arguments' [pdf](https://www.dro
 
 
 
-
 ## READING WEEK
 
-Topics for formative essays will posted at the beginning of reading week. Available here [pdf](https://www.dropbox.com/s/ynmon4g7yiefduh/formative-essay-topics-2020.pdf?dl=0)
+Topics for formative essays will posted at the beginning of reading week. Formative essay topics have been and continue to be available here [pdf](https://www.dropbox.com/s/ynmon4g7yiefduh/formative-essay-topics-2020.pdf?dl=0). If you are having trouble try refreshing your browser.
 
 
 ## Week 6

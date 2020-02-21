@@ -21,11 +21,11 @@ For our introductory meeting on 14 January please read the following short texts
 
 Our main discussion meetings on 28 January will be of the Singer essay which considers the question *'How much, if at all, must we help others?'*. This will be a starting point for considering the merits of consequentialism more generally. <sub><small>January 26</small></sub>
 
-    - Singer, 'Famine, affluence and morality', [pdf](https://www.dropbox.com/s/di7mlljznyibsyz/Singer_Famine_Affluence_Morality%20copy.pdf?dl=0)
+- Singer, 'Famine, affluence and morality', [pdf](https://www.dropbox.com/s/di7mlljznyibsyz/Singer_Famine_Affluence_Morality%20copy.pdf?dl=0)
 
-    - Bentham, *Introduction to the Principles of Morals and Legislation*, chs. i–ii, v [link](https://www.utilitarianism.com/jeremy-bentham/index.html)
+- Bentham, *Introduction to the Principles of Morals and Legislation*, chs. i–ii, v [link](https://www.utilitarianism.com/jeremy-bentham/index.html)
 
-    - Rawls, 'Classical utilitarianism', [pdf](https://www.dropbox.com/s/tp22sfm0cpe10sx/rawls_classical_utilitarianism.pdf?dl=0) (short excerpt)
+- Rawls, 'Classical utilitarianism', [pdf](https://www.dropbox.com/s/tp22sfm0cpe10sx/rawls_classical_utilitarianism.pdf?dl=0) (short excerpt)
 
 
 Handouts and supplementary materials for weeks already gone by to be posted shortly. Please note also that this week Nikhil Venkatesh will be running Ben's discussion sections. <sub><small>January 28</small></sub>
