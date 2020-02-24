@@ -49,6 +49,9 @@ Restatement of the due date and mechanism for submission will be posted shortly.
 Upload your formative essay here: [link](https://www.dropbox.com/request/AiaiAlaeCLhOCxLBkCbV). Only the instructors have access to the folder and files. The due date as originally set is *26 February*. <sub><small>February 22</small></sub>
 
 
+Expect additional course materials to be posted in the coming days. A note will be sent to all when a significant update has been made. <sub><small>February 23</small></sub>
+
+
 <!-- 
 As you already know, the summative essay topics contain all the formative essay topics with a few additions. It is permissible to write your summative essay on the very same question as your formative essay. The length requirement of the summative essay is 2500 words. Essays are due Tuesday 23rd April 2019 at 1600 -- the first day of Term 3. Topics and further details are available here [here](assessment.md). (The typo in question one has been fixed. Thanks to those of you who wrote to alert me.) <sub><small>April 1</small></sub>
 
