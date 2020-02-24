@@ -20,7 +20,6 @@ For further details please see the Philosophy BA assessment space [link](https:/
 
 You are encouraged to write a formative essay during the reading week. Questions will be distributed in advance. Any of these can also serve to set the topic for your summative essay.
 
-Due date to be posted shortly
 
 Topics for formative essays are available here: 
 
@@ -30,6 +29,12 @@ Topics for formative essays are available here:
 Upload your formative essay here: 
 
 [link](https://www.dropbox.com/request/AiaiAlaeCLhOCxLBkCbV). Only the instructors have access to the folder and files. The due date as originally set is *26 February*.
+
+**PLEASE NOTE THAT THE DUE DATE FOR SUBMISSION OF A FORMATIVE ESSAY IS NOW EXTENDED TO 01 MARCH.** <sub><small>February 24</small></sub>
+
+
+
+
 
 <!-- Upload your formative essay here: [link](https://www.dropbox.com/request/zMHhpq9X7noaJuFcYcWQ). Only the instructors have access to the folder and files. The problem with the earlier file request has been fixed. -->
 
