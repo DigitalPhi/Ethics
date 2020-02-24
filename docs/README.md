@@ -31,7 +31,7 @@ Our main discussion meetings on 28 January will be of the Singer essay which con
 Handouts and supplementary materials for weeks already gone by to be posted shortly. Please note also that this week Nikhil Venkatesh will be running Ben's discussion sections. <sub><small>January 28</small></sub>
 
 
-I will post a special announcement over reading perdiod in light of the UCU strike. The official strike dates have been announced. They are as follows:
+I will post a special announcement over reading period in light of the UCU strike. The official strike dates have been announced. They are as follows:
 
 - Week one: Monday 24 - Wednesday 26 February  
 - Week two: Monday 2 - Thursday 5 March  
@@ -41,11 +41,12 @@ I will post a special announcement over reading perdiod in light of the UCU stri
 <sub><small>February 11</small></sub>
 
 
-A link to the formative essay topics has been available for the past week. Since some are having difficulty finding the link I'm posting it here as well [pdf](https://www.dropbox.com/s/ynmon4g7yiefduh/formative-essay-topics-2020.pdf?dl=0)
+A link to the formative essay topics has been available for the past week or more. Since some are having difficulty finding the link I'm posting it here as well [pdf](https://www.dropbox.com/s/ynmon4g7yiefduh/formative-essay-topics-2020.pdf?dl=0)
 
 Restatement of the due date and mechanism for submission will be posted shortly. Please know that we are doing are best to organise all this prior to the beginning of the University and College Union strike. <sub><small>February 19</small></sub>
 
 
+Upload your formative essay here: [link](https://www.dropbox.com/request/AiaiAlaeCLhOCxLBkCbV). Only the instructors have access to the folder and files. The due date as originally set is *26 February*. <sub><small>February 22</small></sub>
 
 
 <!-- 
