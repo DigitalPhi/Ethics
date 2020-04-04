@@ -52,8 +52,10 @@ Upload your formative essay here: [link](https://www.dropbox.com/request/AiaiAla
 Expect additional course materials to be posted in the coming days. A note will be sent to all when a significant update has been made. <sub><small>February 23</small></sub>
 
 
-*Please note that the due date for submission of a formative essay is now extended to 01 march.* <sub><small>February 24</small></sub>
+Please note that the due date for submission of a formative essay is now extended to 01 march. <sub><small>February 24</small></sub>
 
+
+Summative essay announcement: As you know the summative essay topics [pdf](https://www.dropbox.com/s/j5g8j9zok6zpv3v/summative-topics_2020.pdf?dl=0) contain all the formative essay topics with minor additions. It is permissible to write your summative essay on the very same question as your formative essay. The length requirement of the summative essay is 2500 words. The due date for the summative essay has been extended to **400pm, Monday 04 May 2020**. Please find the submission link for your upcoming summative essay here: [https://moodle.ucl.ac.uk/mod/assign/view.php?id=1737627](https://moodle.ucl.ac.uk/mod/assign/view.php?id=1737627). Please note the submission link is via the module moodle page only. <sub><small>March 27</small></sub>
 
 
 <!-- 
