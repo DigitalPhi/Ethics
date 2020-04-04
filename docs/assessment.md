@@ -5,16 +5,27 @@
 
 **Summative essay**
 
+- The summative essay topics contain all the formative essay topics with a minor additions. They are available here [pdf](https://www.dropbox.com/s/j5g8j9zok6zpv3v/summative-topics_2020.pdf?dl=0). It is permissible to write your summative essay on the very same question as your formative essay. 
+
+- The length requirement of the summative essay is 2500 words. 
+
+- The due date for the summative essay has been extended to **400pm, Monday 04 May 2020**.
+
+- Please find the submission link for your upcoming summative essay here: [https://moodle.ucl.ac.uk/mod/assign/view.php?id=1737627](https://moodle.ucl.ac.uk/mod/assign/view.php?id=1737627). Please note the submission link is via the module moodle page only.
+
+
+
+
+<!-- 
 * An essay of 2500 words (PHIL0024).
-* Questions available here <!--  [pdf](https://www.dropbox.com/s/i7iwc1aak92nnl8/summative-topics.pdf?dl=0) -->
+* Questions available here [pdf](https://www.dropbox.com/s/i7iwc1aak92nnl8/summative-topics.pdf?dl=0)
 * Due date is the standard submission deadline for term 2: TBA.
-
-For further details please see the Philosophy BA assessment space [link](https://moodle-1819.ucl.ac.uk/course/view.php?id=9762)
-
+ -->
 
 <!-- * Due date for the summative essay is April 23rd 2018. For more detail see the Philosophy BA assessment space [link](https://moodle.ucl.ac.uk/course/view.php?id=14303). 
   - This was the original schedule for submission of summative essays. See the announcements section above for relevant changes to the deadline. 
   - The deadline is now *Tuesday 8 May at 1600*. -->
+
 
 **Formative essay**
 
@@ -34,17 +45,8 @@ Upload your formative essay here:
 
 
 
-
-
 <!-- Upload your formative essay here: [link](https://www.dropbox.com/request/zMHhpq9X7noaJuFcYcWQ). Only the instructors have access to the folder and files. The problem with the earlier file request has been fixed. -->
 
-
-
-## Discussion questions
-
-Students are expected to do the all of the assigned reading prior to each meeting. In preparation students should write up a substantial question about one of the readings. Please bring a copy to class. We are a large group. It is even more important, then, that everyone arrive ready to contribute.
-
-Contribute any comments, questions or passing thoughts [here](discussion.md) It is a page for real time collaborative editing with lots of additional features. Just click the link and write.
 
 
 ## Tools, skills and tips
@@ -59,7 +61,15 @@ Contribute any comments, questions or passing thoughts [here](discussion.md) It 
 <!-- - Writing exercises for bringing narrative into the rational order of a philosophical essay as well as a few model essays will be posted here later in the term. -->
 <!-- link to 2017 exercises-->
 
-- I will post some examples of very good work done in earlier terms.
+<!-- - I will post some examples of very good work done in earlier terms. -->
 
 
-- Automated feedback tool from [*ecree*](https://www.ecree.com/signup). It can be a useful tool. If enough interest is expressed I will set-up an account for our module.
+- Automated feedback tool from [*ECREE*](https://www.ecree.com/student). It is a very useful tool with demonstrated positive effects. It is currently available to use for free. Given the circumstances I highly recommend at least giving it a try.
+
+
+
+## Discussion questions
+
+Students are expected to do the all of the assigned reading prior to each meeting. In preparation students should write up a substantial question about one of the readings. Please bring a copy to class. We are a large group. It is even more important, then, that everyone arrive ready to contribute.
+
+Contribute any comments, questions or passing thoughts [here](discussion.md) It is a page for real time collaborative editing with lots of additional features. Just click the link and write.

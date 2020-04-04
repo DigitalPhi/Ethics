@@ -52,7 +52,23 @@ Upload your formative essay here: [link](https://www.dropbox.com/request/AiaiAla
 Expect additional course materials to be posted in the coming days. A note will be sent to all when a significant update has been made. <sub><small>February 23</small></sub>
 
 
-**PLEASE NOTE THAT THE DUE DATE FOR SUBMISSION OF A FORMATIVE ESSAY IS NOW EXTENDED TO 01 MARCH.** <sub><small>February 24</small></sub>
+*Please note that the due date for submission of a formative essay is now extended to 01 march.* <sub><small>February 24</small></sub>
+
+
+
+<!-- 
+Dear PHIL0024 students,
+
+Please submit your 2,500 word summative essay here [https://moodle.ucl.ac.uk/mod/assign/view.php?id=1737627](https://moodle.ucl.ac.uk/mod/assign/view.php?id=1737627)
+
+**The submission deadline is 4pm, 04 May 2020**.
+
+Those of you have a reasonable adjustment in place, you extensions in line with your SoRA will automatically be applied.
+
+<sub><small>March 13</small></sub>
+
+2019-20 ALEX VELL EMAIL TO STUDENTS
+-->
 
 
 <!-- 
